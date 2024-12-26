@@ -1,3 +1,4 @@
 # Ignore specific subfolders within Historic data
-/Historic data/filtered_comments/
-/Historic data/Technology_historic_data/
+/data/
+/data
+xformers
