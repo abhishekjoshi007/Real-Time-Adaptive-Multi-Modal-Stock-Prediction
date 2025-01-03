@@ -17,57 +17,57 @@ tickers = [
     'VSAT', 'BASE', 'MAXN', 'PGY', 'TDY', 'PAR', 'MRVL', 'PLUS', 'GCT', 'BKSY',
     'FOUR'
 ]
-base_path = '/Users/abhishekjoshi/Documents/GitHub/stock_forecasting_CAI/data'
+base_path = '/Users/abhishekjoshi/Documents/GitHub/stock_forecasting_CAI/Data 2'
 
 # Rolling window size
 rolling_window = 7
 
-# Step 1: Feature Calculation
+# Feature Calculation
 def calculate_features(ticker):
-    input_file = os.path.join(base_path, f"{ticker}/{ticker}_historic_data_vws.csv")
-    output_file = os.path.join(base_path, f"{ticker}/{ticker}_features.csv")
+    input_file = os.path.join(base_path, f"{ticker}/{ticker}_features.csv")
+    output_file = os.path.join(base_path, f"{ticker}/{ticker}_USP1_features.csv")
     
     if not os.path.exists(input_file):
         print(f"Input file missing for {ticker}, skipping...")
         return
     
+    # Read input data
     data = pd.read_csv(input_file)
     
     # Ensure necessary columns exist
-    required_columns = ['Date', 'Close']
-    for col in required_columns:
-        if col not in data.columns:
-            print(f"Missing required column {col} in {ticker}, skipping...")
-            return
+    if 'Close' not in data.columns:
+        print(f"Missing 'Close' column for {ticker}, skipping...")
+        return
 
-    # Fill missing values for Close
+    # Preserve original data
+    original_data = data.copy()
+    
+    # Fill missing values for 'Close' using forward fill
     data['Close'] = data['Close'].fillna(method='ffill')
-
-    # Calculate daily returns
+    
+    # Calculate Daily Returns
     data['Daily Return'] = data['Close'].pct_change().fillna(0)
-
-    # Calculate rolling average and rolling volatility
-    data[f'Rolling Avg ({rolling_window} Days)'] = (
-        data['Close'].rolling(window=rolling_window, min_periods=1).mean()
-    )
-    data[f'Volatility ({rolling_window} Days)'] = (
-        data['Close'].rolling(window=rolling_window, min_periods=1).std()
-    )
-
-    # Calculate Exponentially Weighted Moving Average (EWMA) volatility
-    ewma_span = rolling_window  # You can adjust the span for smoother or more reactive EWMA
+    
+    # Calculate EWMA Volatility
+    ewma_span = rolling_window
     data['EWMA Volatility'] = data['Daily Return'].ewm(span=ewma_span, adjust=False).std()
 
-    # Step 2: Volatility Thresholds
+    # Handle missing EWMA Volatility for the first day
+    if pd.isna(data.loc[0, 'EWMA Volatility']):
+        # Use the first rolling window's standard deviation of returns
+        first_volatility = data['Daily Return'][:rolling_window].std()
+        data.loc[0, 'EWMA Volatility'] = first_volatility
+
+    # Forward fill any remaining missing EWMA Volatility values
+    data['EWMA Volatility'] = data['EWMA Volatility'].fillna(method='ffill')
+
+    # Calculate Volatility Class
     ewma_mean = data['EWMA Volatility'].mean()
     ewma_std = data['EWMA Volatility'].std()
-    k = 1  # Adjust sensitivity here (1 to 2)
-
-    # Define thresholds
+    k = 1  # Sensitivity factor
     high_threshold = ewma_mean + k * ewma_std
     low_threshold = ewma_mean - k * ewma_std
 
-    # Assign volatility class
     def classify_volatility(volatility):
         if volatility > high_threshold:
             return 'High'
@@ -78,8 +78,13 @@ def calculate_features(ticker):
 
     data['Volatility Class'] = data['EWMA Volatility'].apply(classify_volatility)
 
-    # Save the features to a file
-    data.to_csv(output_file, index=False)
+    # Append only new columns to original data
+    original_data['Daily Return'] = data['Daily Return']
+    original_data['EWMA Volatility'] = data['EWMA Volatility']
+    original_data['Volatility Class'] = data['Volatility Class']
+
+    # Save output
+    original_data.to_csv(output_file, index=False)
     print(f"Features calculated for {ticker}: {output_file}")
 
 # Execute for each ticker
