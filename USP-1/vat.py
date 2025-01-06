@@ -7,6 +7,7 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 from sklearn.decomposition import PCA
 from sklearn.metrics import mean_absolute_error, mean_squared_error
+from scipy.stats import pearsonr
 import json
 
 # Dataset class
@@ -90,100 +91,135 @@ def load_data(file_path):
 
 # Main script
 if __name__ == "__main__":
-    # Load data
-    file_path = "/Users/abhishekjoshi/Documents/GitHub/stock_forecasting_CAI/Data /WDAY/WDAY_merged_with_vix.csv"
-    features, labels, volatility_classes, full_data, scaler, pca = load_data(file_path)
+    tickers = [
+        'PD', 'HEAR', 'AAPL', 'PANW', 'ARRY', 'TEL', 'ARQQ', 'ANET', 'UI', 'ZM', 'AGYS', 'FSLR',
+    'INOD', 'UBER', 'SNPS', 'ADI', 'FORM', 'PLTR', 'SQ', 'RELL', 'AMKR', 'CSIQ', 'KD', 'BL',
+    'TXN', 'KLAC', 'INTC', 'APP', 'BILL', 'RELY', 'CDNS', 'MU', 'APLD', 'FIS', 'TOST', 'DDOG',
+    'AMAT', 'PAYO', 'NTAP', 'FICO', 'TTD', 'ATOM', 'DMRC', 'ENPH', 'TWLO', 'BMI', 'BMBL',
+    'MSTR', 'OLED', 'CRWD', 'SOUN', 'LYFT', 'PATH', 'QCOM', 'BAND', 'RUM', 'ESTC', 'DOCU',
+    'U', 'SEDG', 'MSFT', 'HPE', 'COHR', 'MEI', 'ONTO', 'ACN', 'WK', 'HPQ', 'S', 'GEN', 'ORCL',
+    'OUST', 'DELL', 'ALAB', 'ODD', 'IBM', 'ADP', 'AMD', 'WOLF', 'LRCX', 'PI', 'SMCI', 'PAGS',
+    'STNE', 'NXT', 'ZS', 'WDAY', 'HUBS', 'BTDR', 'NOW', 'AI', 'AFRM', 'NTNX', 'CORZ', 'KN',
+    'INTU', 'WDC', 'TASK', 'ACMR', 'APH', 'OKTA', 'NEON', 'DOX', 'AEHR', 'CSCO', 'NVMI',
+    'CRSR', 'SMTC', 'KEYS', 'AVGO', 'OS', 'RAMP', 'NCNO', 'INSG', 'KOSS', 'AAOI', 'SNOW',
+    'ADSK', 'PSFE', 'RUN', 'UIS', 'ASTS', 'ON', 'KPLT', 'ADBE', 'FLEX', 'CAMT', 'QXO', 'AIP',
+    'VSAT', 'BASE', 'MAXN', 'PGY', 'TDY', 'PAR', 'MRVL', 'PLUS', 'GCT', 'BKSY',
+    'FOUR'
+    ]
 
-    # Create Dataset and DataLoader
-    dataset = VolatilityDataset(features, labels, volatility_classes)
-    dataloader = DataLoader(dataset, batch_size=32, shuffle=True)
+    cumulative_metrics = {
+        "MAE": [],
+        "RMSE": [],
+        "Sharpe Ratio": [],
+        "Directional Accuracy": [],
+        "IC": []
+    }
 
-    # Initialize model, loss, and optimizer
-    input_dim = features.shape[1]
-    model = VolatilityAwareTransformer(input_dim)
-    criterion = nn.SmoothL1Loss()  # Robust loss
-    optimizer = optim.AdamW(model.parameters(), lr=0.0005, weight_decay=1e-4)  # Fine-tuned learning rate
+    for ticker in tickers:
+        try:
+            print(f"Processing ticker: {ticker}")
+            file_path = f"/Users/abhishekjoshi/Documents/GitHub/stock_forecasting_CAI/Data 2/{ticker}/{ticker}_merged_with_vix.csv"
+            features, labels, volatility_classes, full_data, scaler, pca = load_data(file_path)
 
-    # Training loop
-    num_epochs = 100
-    for epoch in range(num_epochs):
-        model.train()
-        epoch_loss = 0.0
-        for batch_features, batch_labels in dataloader:
-            volatility_embedding = batch_features[:, -1].mean(dim=0, keepdim=True)
+            # Create Dataset and DataLoader
+            dataset = VolatilityDataset(features, labels, volatility_classes)
+            dataloader = DataLoader(dataset, batch_size=32, shuffle=True)
 
-            inputs = batch_features  # All input features
+            # Initialize model, loss, and optimizer
+            input_dim = features.shape[1]
+            model = VolatilityAwareTransformer(input_dim)
+            criterion = nn.SmoothL1Loss()  # Robust loss
+            optimizer = optim.AdamW(model.parameters(), lr=0.0005, weight_decay=1e-4)  # Fine-tuned learning rate
 
-            predictions = model(inputs, volatility_embedding)
-            loss = criterion(predictions.view(-1), batch_labels.view(-1))
+            # Training loop
+            num_epochs = 100
+            for epoch in range(num_epochs):
+                model.train()
+                epoch_loss = 0.0
+                for batch_idx, (batch_features, batch_labels) in enumerate(dataloader):
+                    volatility_embedding = batch_features[:, -1].mean(dim=0, keepdim=True)
 
-            optimizer.zero_grad()
-            loss.backward()
-            optimizer.step()
+                    inputs = batch_features  # All input features
 
-            epoch_loss += loss.item()
+                    predictions = model(inputs, volatility_embedding)
+                    loss = criterion(predictions.view(-1), batch_labels.view(-1))
 
-        avg_loss = epoch_loss / len(dataloader)
-        print(f"Epoch [{epoch+1}/{num_epochs}], Loss: {avg_loss:.4f}")
+                    optimizer.zero_grad()
+                    loss.backward()
+                    optimizer.step()
 
-    print("Training completed.")
+                    epoch_loss += loss.item()
+                    print(f"Epoch [{epoch+1}/{num_epochs}], Batch [{batch_idx+1}/{len(dataloader)}], Batch Loss: {loss.item():.4f}")
 
-    # Inference and evaluation metrics
-    print("\nPerforming inference and evaluation...")
-    model.eval()
-    with torch.no_grad():
-        predictions = []
-        ground_truth = []
-        high_volatility_errors = []
-        low_volatility_errors = []
+                avg_loss = epoch_loss / len(dataloader)
+                print(f"Epoch [{epoch+1}/{num_epochs}], Average Loss: {avg_loss:.4f}")
 
-        for batch_features, batch_labels in dataloader:
-            volatility_embedding = batch_features[:, -1].mean(dim=0, keepdim=True)
-            preds = model(batch_features, volatility_embedding).view(-1).cpu().numpy()
+            print(f"Training completed for {ticker}.")
 
-            predictions.extend(preds)
-            ground_truth.extend(batch_labels.cpu().numpy())
+            # Inference and evaluation metrics
+            print(f"Performing inference and evaluation for {ticker}...")
+            model.eval()
+            with torch.no_grad():
+                predictions = []
+                ground_truth = []
 
-            # Convert to numpy for boolean indexing
-            batch_features_np = batch_features.cpu().numpy()
-            batch_labels_np = batch_labels.cpu().numpy()
+                for batch_features, batch_labels in dataloader:
+                    volatility_embedding = batch_features[:, -1].mean(dim=0, keepdim=True)
+                    preds = model(batch_features, volatility_embedding).view(-1).cpu().numpy()
 
-            high_volatility = batch_features_np[:, 0] > 1.4
-            low_volatility = batch_features_np[:, 0] < 1.1
+                    predictions.extend(preds)
+                    ground_truth.extend(batch_labels.cpu().numpy())
 
-            high_volatility_errors.extend(np.abs(preds[high_volatility] - batch_labels_np[high_volatility]))
-            low_volatility_errors.extend(np.abs(preds[low_volatility] - batch_labels_np[low_volatility]))
+                # Calculate evaluation metrics
+                mae = mean_absolute_error(ground_truth, predictions)
+                rmse = np.sqrt(mean_squared_error(ground_truth, predictions))
+                sharpe_ratio = np.mean(predictions) / np.std(predictions)
+                directional_accuracy = np.mean(
+                    np.sign(predictions) == np.sign(ground_truth)
+                ) * 100
 
-        # Calculate evaluation metrics
-        mae = mean_absolute_error(ground_truth, predictions)
-        rmse = np.sqrt(mean_squared_error(ground_truth, predictions))
-        sharpe_ratio = np.mean(predictions) / np.std(predictions)
+                # Calculate Information Coefficient (IC)
+                ic, _ = pearsonr(predictions, ground_truth)
 
-        directional_accuracy = np.mean(
-            np.sign(predictions) == np.sign(ground_truth)
-        ) * 100
+                # Add metrics to cumulative dictionary
+                cumulative_metrics["MAE"].append(mae)
+                cumulative_metrics["RMSE"].append(rmse)
+                cumulative_metrics["Sharpe Ratio"].append(sharpe_ratio)
+                cumulative_metrics["Directional Accuracy"].append(directional_accuracy)
+                cumulative_metrics["IC"].append(ic)
 
-        high_volatility_error_mean = np.mean(high_volatility_errors)
-        low_volatility_error_mean = np.mean(low_volatility_errors)
+                # Save results
+                results = {
+                    "Ticker": ticker,
+                    "MAE": float(mae),
+                    "RMSE": float(rmse),
+                    "Sharpe Ratio": float(sharpe_ratio),
+                    "Directional Accuracy": float(directional_accuracy),
+                    "IC": float(ic)
+                }
 
-        print(f"MAE: {mae:.4f}")
-        print(f"RMSE: {rmse:.4f}")
-        print(f"Sharpe Ratio: {sharpe_ratio:.4f}")
-        print(f"Directional Accuracy: {directional_accuracy:.2f}%")
-        print(f"High Volatility Error Mean: {high_volatility_error_mean:.4f}")
-        print(f"Low Volatility Error Mean: {low_volatility_error_mean:.4f}")
+                output_file = f"/Users/abhishekjoshi/Documents/GitHub/stock_forecasting_CAI/Data 2/{ticker}/evaluation_results_{ticker}.json"
+                with open(output_file, "w") as f:
+                    json.dump(results, f)
 
-        # Save results
-results = {
-    "MAE": float(mae),
-    "RMSE": float(rmse),
-    "Sharpe Ratio": float(sharpe_ratio),
-    "Directional Accuracy": float(directional_accuracy),
-    "High Volatility Error Mean": float(high_volatility_error_mean),
-    "Low Volatility Error Mean": float(low_volatility_error_mean),
-}
 
-with open("evaluation_results.json", "w") as f:
-    json.dump(results, f)
+                print(f"Evaluation results saved for {ticker} in {output_file}.")
 
-print("Evaluation results saved to evaluation_results.json.")
+        except Exception as e:
+            print(f"Error processing ticker {ticker}: {e}")
+
+    # Calculate cumulative metrics
+    print("\nCalculating cumulative evaluation metrics...")
+    cumulative_results = {
+        "Average MAE": float(np.mean(cumulative_metrics["MAE"])),
+        "Average RMSE": float(np.mean(cumulative_metrics["RMSE"])),
+        "Average Sharpe Ratio": float(np.mean(cumulative_metrics["Sharpe Ratio"])),
+        "Average Directional Accuracy": float(np.mean(cumulative_metrics["Directional Accuracy"])),
+        "Average IC": float(np.mean(cumulative_metrics["IC"]))
+    }
+
+    # Save cumulative results
+    with open("cumulative_evaluation_results.json", "w") as f:
+        json.dump(cumulative_results, f)
+
+    print("Cumulative evaluation metrics saved in cumulative_evaluation_results.json.")
