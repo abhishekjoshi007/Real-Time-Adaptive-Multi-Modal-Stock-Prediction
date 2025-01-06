@@ -1,0 +1,136 @@
+Source,Date,Text,Sentiment,Score,Confidence,Type
+Reddit,2024-08-22,These are the stocks on my watchlist 822,Neutral,0,0.9999507665634155,Main
+Reddit,2024-08-22,Thanks for this,Neutral,0,0.7657943964004517,Reply
+Reddit,2024-08-22,"Im learning a lot from you! Brand new to this. Thank you, youre my first read every morning with my coffee.",Neutral,0,0.8373376727104187,Reply
+Reddit,2024-08-22,Asts hasnt even launched the 5 blue birds. Launch and unfurl this shit goes nuts.,Neutral,0,0.9805188179016113,Reply
+Reddit,2024-08-22,"You really represent a level i wanna be on one day, thank you for sharing your knowledge!",Neutral,0,0.9990341663360596,Reply
+Reddit,2024-08-22,Good read! Following you! Appreciate it!,Positive,1,0.7715175151824951,Reply
+Reddit,2024-08-22,Snow prepped for a comeback?,Neutral,0,0.9998360872268677,Reply
+Reddit,2024-08-22,"Completely new to learning about stocks and investing, and have only small amounts of income that Id be able to dedicate a month. Might be the wrong type of thread to ask, but any of the stocks mentioned a good starting point to pitch money towards? Or rather how do you judgediscover what stocks are good to invest in?",Neutral,0,0.998680055141449,Reply
+Reddit,2024-08-22,I am snagging ben too! The others are not on my list.,Neutral,0,0.9980964064598083,Reply
+Reddit,2024-08-22,removed,Neutral,0,0.5243118405342102,Reply
+Reddit,2024-08-22,Thank you for posting every day as you do. Learning a lot.,Positive,1,0.9705830812454224,Reply
+Reddit,2024-08-22,LUNR seems to have some resistance around 6 what are your thoughts on all the positive LUNR news already being priced in?,Neutral,0,0.9558759927749634,Reply
+Reddit,2024-08-22,30 of available LUNR stock is currently shorted. Why are you right versus the shorts?,Neutral,0,0.999991774559021,Reply
+Reddit,2024-08-22,Why is it on your watchlist for trading versus the 30 short sentiment?,Neutral,0,0.9997254014015198,Reply
+Reddit,2024-08-22,Thank YOU for reading,Neutral,0,0.894714891910553,Reply
+Reddit,2024-08-22,Thank YOU for being a reader it makes my day every time someone tells me theyre learning a lot!,Positive,1,0.7063607573509216,Reply
+Reddit,2024-08-22,"Interesting, what do you attribute the move from 2034 to?",Neutral,0,0.999757707118988,Reply
+Reddit,2024-08-22,Hahahahaah that is very flattering thank you for being a reader!!,Neutral,0,0.9800507426261902,Reply
+Reddit,2024-08-22,Thank you for the kind words!!!,Neutral,0,0.9836483001708984,Reply
+Reddit,2024-08-22,I personally dont think so. The market hates its guts lol. Also Databricks is a VERY strong competitor. Unrelated anecdote Ive used both and personally like Databricks more.,Positive,1,0.9970856308937073,Reply
+Reddit,2024-08-22,"Easiestlow effort are stock etfs like SPYVOOQQQ, by far the easiest and handsoff investments you can make if you want equity exposure. obviously, study what each ETF holds Stocks that I mention here are for trading, more specifically day trading and swing trading, which are the most involved you can be. Judging what stocks are good to invest in depends on your financial goals that could fill a book and has filled many, so I cant really help you there but point you towards the wiki in rstocks.",Neutral,0,0.9999865293502808,Reply
+Reddit,2024-08-22,We STILL dont know if they have the NSNS contract or not but its likely they do which is likely why the stock is whipping around.,Negative,-1,0.8226985335350037,Reply
+Reddit,2024-08-22,Who said Im long LUNR?,Neutral,0,0.9984935522079468,Reply
+Reddit,2024-08-22,Why is what on my watchlist?,Neutral,0,0.9986050724983215,Reply
+Reddit,2024-08-22,Mind if I ask which broker you use for options and general trades? Canada doesnt have many options lol,Neutral,0,0.9999406337738037,Reply
+Reddit,2024-08-22,"I do think some investors are holding back until launch to minimize risk. I dont believe the stock will all of a sudden go to the moon in the short term, but the baseline will likely move up a few points.",Negative,-1,0.6266513466835022,Reply
+Reddit,2024-08-22,"buy the rumor, sell the news?",Positive,1,0.9848796725273132,Reply
+Reddit,2024-08-22,Its going to work. Thats been the thesis since the 2s,Neutral,0,0.9786918759346008,Reply
+Reddit,2024-08-22,Whats going on with the stock?,Neutral,0,0.9916690587997437,Reply
+Reddit,2024-08-22,"Got it, thanks very much for taking the time to write out any info at all! Being pointed in any direction already is a boon for me",Neutral,0,0.9983614087104797,Reply
+Reddit,2024-08-22,"IBKR the learning curve to get started is EXTREMELY steep but once you learn the platform youll likely never use anything again, the customization on the platform is miles above anything else.",Neutral,0,0.8071529269218445,Reply
+Reddit,2024-08-22,"That didnt answer my question though what do you attribute the move from 20 34 to? Yes, the main assumption is that the satellites will work but as a trader you need to be prepared for both outcomes, no matter how unlikely the satellites failing is",Neutral,0,0.9953261613845825,Reply
+Reddit,2024-08-22,Down heavily today,Negative,-1,0.9492243528366089,Reply
+Reddit,2024-08-22,"Absolutely, thats the reason I made the watchlist! Good luck!",Positive,1,0.9999920129776001,Reply
+Reddit,2024-08-22,"Yup, have an account with them. They wont enable me for options though as im not 20 yet. Guess ill do more reading while I wait. Thanks for the insight. Do you use TWS or just the web platform?",Neutral,0,0.9999334812164307,Reply
+Reddit,2024-08-22,I think a lot of it is hype and people like me that werent aware of the company before. I imagine it could also still be a huge pump and the dump will still come and bring us back to 20s,Negative,-1,0.8025653958320618,Reply
+Reddit,2024-08-22,"At lower prices it was an intriguing bet for some investment firms because of the riskreward proposition. The technology was known to be superior to any other at the moment, giving them a strong lead on getting there faster than potential competitors. The biggest risk was the possibility that they would run out of money or not acquire capital fast enough to maintain their lead. The earnings call revealed that ASTS already has the funds to advance their operation through to 2026, that they expect their first five commercial satellites to put them at breakeven, and that the next 17 satellites are expected to be ready to launch in the next 57 months. That was fantastic news and alleviated major fears. Without a major setback with these first five satellites they will continue to acquire funding, get there first, and rivals in space communication will be playing catch up for five years. Why do you think it ran up? It still hasnt lost the daily uptrend and it has retained tremendous growth after doubling in value.",Positive,1,0.9482133388519287,Reply
+Reddit,2024-08-22,They are going to make a fuck ton of money. Thats the outcome I believe in.,Neutral,0,0.9929684996604919,Reply
+Reddit,2024-08-22,"Bad earnings report, bad guidance for next Q horrible operating margins, and slowing growth",Negative,-1,0.9999994039535522,Reply
+Reddit,2024-08-22,"Hello, something that Im confused on is all these people are saying I have X shares of Y stock and am holdingsellingbuying. Are they day traders? I just opened a taxable brokerage account to start doing this. I want to buy a stock that I have been looking at for a couple weeks and then sell it like 2 weeks after to make a couple dollars to get a taste of it. Is this what just people do? Hope this all makes sense.",Neutral,0,0.9999009370803833,Reply
+Reddit,2024-08-22,"Theres an options resource that I LOVE beyond all others Akuna Capital an options prop firm uses this to train their interns and its very technical, I recommend it to anyone trying to learn more about options!",Neutral,0,0.999539852142334,Reply
+Reddit,2024-08-22,"I use TWS, IMO the web platform isnt anything fancy.",Neutral,0,0.9990565180778503,Reply
+Reddit,2024-08-22,Thats my point the market is pricing in that it will succeed. To think that this stock will skyrocket AGAIN after earnings and after they launch the first 5 seems ridiculously optimistic.,Positive,1,0.9947558641433716,Reply
+Reddit,2024-08-22,"Still didnt answer my question lol. No offense but having blind belief that a stock will go up is just gambling, best of luck to you!",Positive,1,0.9770182371139526,Reply
+Reddit,2024-08-22,Why not just ask them? I cant read their minds.,Neutral,0,0.9892565011978149,Reply
+Reddit,2024-08-22,deleted,Neutral,0,0.9962913990020752,Reply
+Reddit,2024-08-22,he have 44k shares at 2USD .... I think you should learn from him instead,Neutral,0,0.9999967813491821,Reply
+Reddit,2024-08-22,Then let me redirect the question to you. Asking you this because you were nice to the other person on this thread who also is new to investing. Thanks in advance...,Neutral,0,0.9979813694953918,Reply
+Reddit,2024-08-22,That was my point lol.,Neutral,0,0.9968996047973633,Reply
+Reddit,2024-08-22,"Going to redirect to ChatGPT because it will answer the question in far more detail than I ever could The behavior youre describing aligns with what some people refer to as swing trading, which involves holding a stock for a short period days to weeks to capitalize on expected price movements. Its different from day trading, where traders buy and sell stocks within the same day, often executing multiple trades in a single day. Many retail investors might buy and hold stocks for short or long periods based on their strategy, market outlook, or financial goals. When you see people talking about buying, holding, or selling specific stocks, they could be Day Traders Buying and selling stocks within the same trading day to profit from small price fluctuations. Swing Traders Holding stocks for a few days to weeks, aiming to profit from shortterm market movements. LongTerm Investors Buying and holding stocks for months or years, focusing on the companys growth or dividends rather than shortterm price changes. Your plan to buy a stock and sell it after a couple of weeks fits more with swing trading. Many people engage in this type of trading to get a taste of the market or to try and make shortterm profits. If you proceed, keep in mind the following Transaction Costs Ensure the potential profit is more than the trading fees, if applicable. Tax Implications In a taxable brokerage account, selling a stock within a year could subject you to shortterm capital gains tax, which is typically higher than longterm capital gains tax. Market Risk Stock prices can be unpredictable in the short term, and your expected profit might not materialize. If this approach appeals to you, youre not alonemany people test the waters of the stock market this way.",Neutral,0,0.9998124241828918,Reply
+Reddit,2024-08-22,"Awesome, saved me so much time. Thanks",Positive,1,0.9651321172714233,Reply
+Reddit,2024-08-22,"No problem, best of luck!",Positive,1,0.5087996125221252,Reply
+Reddit,2024-08-23,Workday gains not working Today,Negative,-1,0.9265792369842529,Main
+Reddit,2024-08-23,User Report Total Submissions 1 First Seen In WSB 19 hours ago Total Comments 1 Previous Best DD Account Age 2 months Join WSB Discord,Neutral,0,0.99998939037323,Reply
+Reddit,2024-08-23,You made what I earn in a month,Neutral,0,0.9999537467956543,Reply
+Reddit,2024-08-23,Very solid company same with NOW. SNOW on the other hand.,Positive,1,0.9999995231628418,Reply
+Reddit,2024-08-23,Enterprise serving businesses,Neutral,0,0.9916805624961853,Reply
+Reddit,2024-08-23,Disgusting job portal though,Negative,-1,0.9897741079330444,Reply
+Reddit,2024-08-23,"Ya, SNOWs profitability looks so bad, wasnt gonna touch that. NOW looks good.",Positive,1,0.9994668364524841,Reply
+Yahoo,2024-10-29,Worst performance in my investment portfolio this year.,Negative,-1,0.9999994039535522,Main
+Yahoo,2024-10-24,How is this even down today with NOW earnings? I don&#39;t get it,Neutral,0,0.8370094895362854,Main
+Yahoo,2024-10-23,IBM and Service now sinking AH on earnings.Over hyped AI.,Positive,1,0.5518102049827576,Main
+Yahoo,2024-10-07,"Oh boy, back to 220s or even 210s for tax loss selling ... ADBE is also getting hit",Negative,-1,0.9164731502532959,Main
+Yahoo,2024-10-01,look at that perfect head and shoulders in the chart,Neutral,0,0.9999915361404419,Main
+Yahoo,2024-09-24,NOW is the winner!,Positive,1,0.996132493019104,Main
+Yahoo,2024-09-16,Workday is looking for more bolt-on business solutions as they struggle with home grown development.,Neutral,0,0.993177056312561,Main
+Yahoo,2024-08-30,Sales force continues to sell off today.,Negative,-1,0.6370756030082703,Main
+Yahoo,2024-08-30,Love the business but also had to sell. Will be back at a better entry!,Positive,1,0.9850419163703918,Main
+Yahoo,2024-08-29,Salesforce gave up all its gains and is now red !!!!!!Beware pump and dump !,Positive,1,0.9801275730133057,Main
+Yahoo,2024-08-28,Interesting how Klarna is shutting down Salesforce and Workday and cutting half their work force because they are implementing a lightweight tech stack….Palantir maybe??,Neutral,0,0.9885172843933105,Main
+Yahoo,2024-08-28,Klarna news is big deal.  They no longer need Saleforce or Workday.   AI makes these providers a net loser because their functions can be replaced with AI related functions that are much cheaper.  Klarna cannot be the only one removing CRM. note that WDAY makes almost no money on GAAP basis.  Their so-called Adjusted EPS is &#34;misinformation&#34; because it adds back an enormous amount of stock-based comp.  I do not understand why SBC should be excluded???  If you did not need to pay employees with stock then why pay them - obviously many key employees would leave if you only gave them the current cash comp and eliminated the SBC.  WDAY grows by offering products to make no &#34;real money&#34;.  The gig will soon be up for WDAY.,Neutral,0,0.9522592425346375,Main
+Yahoo,2024-08-27,"Tomorrow, It&#39;ll go be $262 but then will rise again",Neutral,0,0.9998645782470703,Main
+Yahoo,2024-08-26,It&#39;ll do a sudden rise in $40- $50 in next couple of minutes,Neutral,0,0.9997419714927673,Main
+Yahoo,2024-08-26,$300 soon,Neutral,0,0.9986652135848999,Main
+Yahoo,2024-08-24,"The S&amp;P 500 (SNPINDEX: ^GSPC) has advanced by 45% since December 2022, which exceeds its historical average by a wide margin, so it&#39;s not hard to imagine a correction may be on the horizon.",Positive,1,0.7161198258399963,Main
+Yahoo,2024-08-23,300 after hours,Neutral,0,0.999902606010437,Main
+Yahoo,2024-08-23,again? This is why you don&#39;t write covered calls....,Neutral,0,0.9702173471450806,Main
+Yahoo,2024-08-23,270 loading EOD,Neutral,0,0.9999710321426392,Main
+Yahoo,2024-08-23,"with the Fed, lowering rates to save the Biden/Harris administration, the market will go way up and this stock will test the highs again today of 265.",Positive,1,0.8299986720085144,Main
+Yahoo,2024-08-23,no $042 $240,Neutral,0,0.9986134767532349,Main
+Yahoo,2024-08-23,270 today ?,Neutral,0,0.9999186992645264,Main
+Yahoo,2024-08-23,Fast money going to ACHR 🚨🚨🚨,Neutral,0,0.9518545866012573,Main
+Yahoo,2024-08-23,its going to happen again.,Neutral,0,0.9962700605392456,Main
+Yahoo,2024-08-23,$300 by monday,Neutral,0,0.9999839067459106,Main
+Yahoo,2024-08-23,Reversal starts soon.,Neutral,0,0.9796527624130249,Main
+Yahoo,2024-08-23,"Thinking out aloud, after Powel speech this pm, not only this stock but many other will move higher. Bullish on the market now and that is contrary to the experts. 6 plus hours will tell.",Positive,1,0.999881386756897,Main
+Yahoo,2024-08-23,"Indeed and the very small companies will struggle in this current JOBS environment that we are in today and the next few years, Or they could be bought out pending on the FTC mgt.",Negative,-1,0.9999628067016602,Main
+Yahoo,2024-08-23,What about zip ? Zip recruiter,Neutral,0,0.9992456436157227,Main
+Yahoo,2024-08-23,"I agree WDAY is in a tough industry. They have $3.3B in debt, $7,4B cash and $2.1B in free cash. Also with the cost of debt supposedly coming down, that $1B buyback is highly doable and more left over to be a very competitive company.",Positive,1,0.7977626323699951,Main
+Yahoo,2024-08-23,Next Uber will use ACHR 🚀🚀🚀,Neutral,0,0.9999439716339111,Main
+Yahoo,2024-08-23,$1B buyback !!! Kaboom ... bye bye shorts,Neutral,0,0.9998663663864136,Main
+Yahoo,2024-08-23,"Glad I was in before er, great company.",Neutral,0,0.99164879322052,Main
+Yahoo,2024-08-23,Anyone here buy ACHR ?,Neutral,0,0.9334478378295898,Main
+Yahoo,2024-08-23,"WDAY makes very little money.  How is stock-based comp not an expense.  How about saying no more stock and employees only getthe cash comp they currently get?  Oh...many will leave...  Isn&#39;t giving stock to employees part of their comp?  There is fraud at the highest institutional level (i.e., brokerage firms) in how adjusted profits involve saying stock-based comp is not an expense.  So obvious the SEC should not allow companies toadd back stock-based comp in the calculation.",Neutral,0,0.978114128112793,Main
+Yahoo,2024-08-23,1 BILLION,Neutral,0,0.9998193383216858,Main
+Yahoo,2024-08-22,Gimme the loot,Neutral,0,0.9982588887214661,Main
+Yahoo,2024-08-22,I see tomorrow is $230 againsell while you can for this options pump,Neutral,0,0.9998526573181152,Main
+Yahoo,2024-08-22,"WDAY&#39;s spinning the stock market roulette—place your bets, high rollers! But jokes asides, economy is not doing that well.",Neutral,0,0.6766857504844666,Main
+Yahoo,2024-08-22,Do you guys not remember last quarter? Same thing happened after hours and next day went down 16%,Negative,-1,0.9964876174926758,Main
+Yahoo,2024-08-22,Omg my eyes ya baby,Neutral,0,0.9997841715812683,Main
+Yahoo,2024-08-22,Why in the world is this up?? All numbers as expected. Nothing new in the guidance. What the h is going on here?,Neutral,0,0.9925565123558044,Main
+Yahoo,2024-08-22,"Shorted the stock ahead of earnings, limiting my risk by buying a call. Closed the short at 225, still long the call. What a result! Happy days!",Negative,-1,0.9019865989685059,Main
+Yahoo,2024-08-22,I thought about going both ways on this but left it alone lol,Neutral,0,0.9874516129493713,Main
+Yahoo,2024-08-22,job loss are high and this is going up😂😂,Neutral,0,0.44487351179122925,Main
+Yahoo,2024-08-22,"Be patient, this will be back to 300 and ATH by year end",Neutral,0,0.9999150037765503,Main
+Yahoo,2024-08-22,Wil rocket tomorrow. Shorts going to get crushed.,Neutral,0,0.9995322227478027,Main
+Yahoo,2024-08-22,What the ........? I left for a while and WDAY is up almost 9% from being down 5%. What happened?,Neutral,0,0.8472165465354919,Main
+Yahoo,2024-08-22,"It’s all algos, going to go back below 220 by tomorrow morning",Neutral,0,0.9999566078186035,Main
+Yahoo,2024-08-22,Popped to 260= then fell off 10 now holding 251+...anyone hear on CC?,Neutral,0,0.9993157386779785,Main
+Yahoo,2024-08-22,Close $230,Neutral,0,0.99992835521698,Main
+Yahoo,2024-08-22,$1 Billion SHARE BUYBACK.,Neutral,0,0.998464822769165,Main
+Yahoo,2024-08-22,what in the world? $250 now - wow,Neutral,0,0.9995970129966736,Main
+Yahoo,2024-08-22,Is getting bought by Nvidia,Neutral,0,0.9999042749404907,Main
+Yahoo,2024-08-22,algorithmpushed it higherwe will see $220,Neutral,0,0.9032971262931824,Main
+Yahoo,2024-08-22,Coming back down,Neutral,0,0.5831688046455383,Main
+Yahoo,2024-08-22,"wow, nice move",Positive,1,0.9998588562011719,Main
+Yahoo,2024-08-22,major AI play,Neutral,0,0.8678171038627625,Main
+Yahoo,2024-08-22,Did anyone see that spike? What is this?,Neutral,0,0.8319611549377441,Main
+Yahoo,2024-08-22,"ok, what just happened? it was -5% like 5 min ago. Anyone listening to earning call now?",Neutral,0,0.9807002544403076,Main
+Yahoo,2024-08-22,Wow..,Neutral,0,0.9954280853271484,Main
+Yahoo,2024-08-22,yooooooo what?!,Neutral,0,0.9992955923080444,Main
+Yahoo,2024-08-22,Amazing!! What a come back.,Neutral,0,0.9182810187339783,Main
+Yahoo,2024-08-22,In and out thanks for the $122 bought to covered at $115,Neutral,0,0.9999843835830688,Main
+Yahoo,2024-08-22,it&#39;s okay Katy and Nancy will buy dip tomorrow,Neutral,0,0.999972939491272,Main
+Yahoo,2024-08-22,"Aargh....this is what happened to SNOW, my other software stock. The losses expanded to 8% in the after-hours yesterday. And was down close to 15% by end of day today. Will WDAY follow the same pattern? I should have kept away from software.",Negative,-1,0.9490670561790466,Main
+Yahoo,2024-08-22,I always find it interesting when you beat year over year and all expectations for the quarter and the price goes down 🤷‍♂️,Positive,1,0.7121084928512573,Main
+Yahoo,2024-08-22,"Well, WDAY is treading water. At least it&#39;s not collapsing like my other holding SNOW 😕. I&#39;ll be fine if WDAY can hold $220 going into the the weekend. Look at SNOW: fell from $135 to $115, despite meeting expectations and increasing full year revenue guidance.",Positive,1,0.9466614723205566,Main
+Yahoo,2024-08-22,"Back down to $200, guidance on revenue not very good once again",Negative,-1,0.9999991655349731,Main
+Yahoo,2024-08-22,All over the place,Neutral,0,0.9968895316123962,Main
+Yahoo,2024-08-22,where are you all at,Neutral,0,0.9998770952224731,Main
+Yahoo,2024-08-22,All in a days work with increased cost for one solutions &amp; competition its eating away in eps. the airs escaping?,Negative,-1,0.9976065158843994,Main
+Yahoo,2024-08-19,"Lots of nervousness as we head into earnings. WDAY needs to pull a maneuver like NOW. Exceed expectations for the quarter by a smidgen (less than 0.5%) and raise guidance by a rounding error amount (less than 0.25%). That still technically qualifies as a &#34;beat &amp; raise&#34; and will position WDAY to ramble on to $250-plus. But if WDAY cuts full-year guidance (even if its by just 1%), say hello to $190/share in the immediate term. Fingers crossed.",Negative,-1,0.536108672618866,Main
+Yahoo,2024-08-15,not growth.........not income.....,Neutral,0,0.8713003396987915,Main
+Yahoo,2024-08-11,Nobody talking about the sales force partnership or the acquisition we had early this year for ai integration. Does anyone even know what’s going on with this company at this point. Why is this such a cheap valuation and low volume. Watch till we reach 300s fomo gonna start and recognition to,Neutral,0,0.918660044670105,Main
+Yahoo,2024-08-07,"HUBS is soaring after hours. Hopefully, this is another leading indicator (along with NOW) that the market has way oversold SaaS stocks. DDOG comes out after the bell on Aug 8. If that is also positive, it would be strange for WDAY to be the odd man out come Aug 22.",Negative,-1,0.9856221079826355,Main

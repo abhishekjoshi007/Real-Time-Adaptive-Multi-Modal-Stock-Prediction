@@ -1,0 +1,769 @@
+Source,Date,Text,Sentiment,Score,Confidence,Type
+Reddit,2024-10-20,I compiled a list of all 190 stocks and funds from the September 2024 Quarterly Thread,Neutral,0,0.9999990463256836,Main
+Reddit,2024-10-20,deleted,Neutral,0,0.9962913990020752,Reply
+Reddit,2024-10-20,"Whats next, youre going to list out all the letters of the alphabet?",Neutral,0,0.9999587535858154,Reply
+Reddit,2024-10-20,What is the purpose of this list exactly?,Neutral,0,0.9999843835830688,Reply
+Reddit,2024-10-20,Im afraid I dont see the point of your list. What is the purpose of your list of stocks and ETFs?,Neutral,0,0.9999958276748657,Reply
+Reddit,2024-10-20,Its like a watchlist but since this is a reddit post its completely useless,Neutral,0,0.9985507130622864,Reply
+Reddit,2024-10-20,Wow thanks. I have below listed the set of consecutive three letter from this opening statement. WOW THA NKS IHA VEB ELO WLI STE DTH ESE TOF CON SEC UTI VET HRE ELE TTE RSF ROM THI SOP ENI NHS TAT ENE NT,Neutral,0,0.9999818801879883,Reply
+Reddit,2024-10-20,ALL 190 stocks and found? Is this ALL stocks in your watch list or what?,Neutral,0,0.9999761581420898,Reply
+Reddit,2024-10-20,"Guys, give himherthem some credit. If its done programmatically with a script, this could be easily developed further and used to get a narrower list of hot stonks on Reddit. Feed it to a trading system that buys PUTs or a straddle position and you have an infinite money making machine",Neutral,0,0.9999418258666992,Reply
+Reddit,2024-10-20,deleted,Neutral,0,0.9962913990020752,Reply
+Reddit,2024-10-20,"I was checking the community ideas and made a compilation, decided to share for everyone else in case they wanted it",Neutral,0,0.999819815158844,Reply
+Reddit,2024-10-20,"Just compiling it for myself to get some ideas from the community, and wanted to share",Neutral,0,0.9998272061347961,Reply
+Reddit,2024-10-20,Just a compilation of the stocks and funds people listed in the quarterly thread may be a good place to start if you trust this subreddits judgement in stocks,Neutral,0,0.9999920129776001,Reply
+Reddit,2024-10-20,"As stated in the title, this is just a list of the stocks mentioned in the quarterly thread from September",Neutral,0,0.9999958276748657,Reply
+Reddit,2024-10-20,Something against T?,Neutral,0,0.9380185604095459,Reply
+Reddit,2024-10-20,"Ah, I see!",Neutral,0,0.9974759221076965,Reply
+Reddit,2024-10-20,T stands for Time lost.,Neutral,0,0.9988635778427124,Reply
+Reddit,2024-10-03,PSA Lam Research Forward Split 101 effective today Oct 3rd,Neutral,0,0.999976634979248,Main
+Reddit,2024-10-03,At least AI did something for someone at this point. Are you getting off now ?,Neutral,0,0.9974834322929382,Reply
+Reddit,2024-10-03,Do we know how this will effect dividend returns? Will it still be around 2.30share? Or will it adjust lower relative to the split?,Neutral,0,0.9887190461158752,Reply
+Reddit,2024-10-03,Im actually buying more. 10billion buy back has me hooked,Neutral,0,0.997901201248169,Reply
+Reddit,2024-10-03,Not sure. Their earnings call this month will be something to pay attention to. However their dividend yield is so low no one is buying them for their dividends... but it is a nice little extra to get along with the ride for growth.,Positive,1,0.9510137438774109,Reply
+Reddit,2024-10-03,Still confident?,Positive,1,0.9690681099891663,Reply
+Reddit,2024-10-03,Would be nice still to see a ten fold increase in the yield.,Positive,1,0.9987683892250061,Reply
+Reddit,2024-10-03,"Oh I really want to remain optimistic ... I am down 17 right now on my my 2024 purchases... but thankfully my 2022 buys have me still up over all. I did buy more on Friday. I do think they are falling in sympathy to ASML but its only my gut. I am still long in this one. But I reserve the right to adjust depending on how it goes after the earnings call this coming week on 102324. These last few months have not been kind and I am not smart enough to figure out the why they are down after having such a bullish last 18 months. But you know, since I stated an opinion online I am hopeful others will be along shortly to tell me why I am wrong. Cheers",Positive,1,0.887929379940033,Reply
+Reddit,2024-10-03,Ive been long on it for a while 58 and I wish I had the foresight to have gotten out in July. Well see what tomorrow brings,Neutral,0,0.9479901194572449,Reply
+Reddit,2024-10-03,You and I are not to terribly far apart. My first purchase during summer 2022 were 42ish. I just stared at it as it immediately went down by 10 bucks a share it seems over the next few weeks. I truly debated on selling but ended up buying more in the mid 30s thats where I truly accumulated my long position. Ive grabbed more here and there over the last 2 years after a big dip. I may be day dreaming or wishful thinking or what ever the right naivete descriptor fits. But I am still long on this one. YMMV! Happy to see the bounce tonight after hours. Makes the 72.xx purchases from Friday not feel so bad.,Positive,1,0.9950101375579834,Reply
+Reddit,2024-09-12,Large option activity at close signal bearish bullish signal?,Negative,-1,0.906402051448822,Main
+Reddit,2024-09-12,Doesnt mean chit,Neutral,0,0.9935362339019775,Reply
+Reddit,2024-09-12,removed,Neutral,0,0.5243118405342102,Reply
+Reddit,2024-09-12,"Net income down 87 YoY, what an awful company and an awful industry. Enjoy your losses OP!",Negative,-1,0.999870777130127,Reply
+Reddit,2024-09-12,Stop trying to unload your bags its pathetic and really messed up.,Negative,-1,0.9665088653564453,Reply
+Reddit,2024-08-01,Analyzing the Analysts Using average analyst price target to identify buying opportunities amongst the top 100 companies in the SP,Positive,1,0.5726258158683777,Main
+Reddit,2024-08-01,"Your table is missing a key piece of data, analysts usually give 12 month price targets, so how accurate did the analysts price turn out to be 12 months later? Also some websites chart out in a graph both what the analysts average price target was, and where the stocks price went overtime. When you do this for some stocks, like T for example, it shows that analysts consistently call it pretty undervalued, and yet the stock also consistently under performs the market andor loses value. By your logic stocks like T would have been a good buy, even though history shows that you would have lost a lot of money in it. On the flipside meanwhile stocks like NFLX and TSLA would have been called dreadful and highly overvalued investments by analysts at various points, when it was actually the best time to buy those supposedly overpriced stocks.",Neutral,0,0.6505180597305298,Reply
+Reddit,2024-08-01,"Every single one of those is a tech company, you shouldnt have your whole portfolio in 1 sector",Neutral,0,0.9999957084655762,Reply
+Reddit,2024-08-01,If youre interested in this style of analysis you might enjoy Tipranks.,Neutral,0,0.9999179840087891,Reply
+Reddit,2024-08-01,Interesting. I kind of want to track this and see if it pans out.,Neutral,0,0.999840259552002,Reply
+Reddit,2024-08-01,Analysts ratings and price targets are absolutely useless information,Neutral,0,0.9999234676361084,Reply
+Reddit,2024-08-01,"Usually stock trading below target for a long period of time is a sign of consistent earning downward adjustment, meaning a stock is failing expectation either slower growth or negative growth QoQ. If the company is good, it will eventually go back on growth track like Chipotle and Eli Lilly or like McDonalds or Nike, it needs some serious stock picking skill and long time observing the industrial trend.",Negative,-1,0.9999796152114868,Reply
+Reddit,2024-08-01,AMD is really interesting. One of the lowest percent to price target but 031 analysts rated it as even a buy.,Positive,1,0.9998019337654114,Reply
+Reddit,2024-08-01,What did you decide?,Neutral,0,0.9985166192054749,Reply
+Reddit,2024-08-01,"I should clarify, this isnt my whole portfolio, just some extra cash I came into. Like I said, Ive been investing for several years now so Ive got a portfolio that is more balanced than just this. This exercise is really just to find out where to put this 5k, and if I can find something better than just a broad market index Also, these are not all tech companies, I feel like less than half of them are.",Neutral,0,0.9923319816589355,Reply
+Reddit,2024-08-01,Im intrigued. Tell me a little bit more about Tip Ranks. What is it? Ive never heard of it,Neutral,0,0.9974371194839478,Reply
+Reddit,2024-08-01,Same,Neutral,0,0.9934406876564026,Reply
+Reddit,2024-08-01,He put intel target at 38,Neutral,0,0.9999936819076538,Reply
+Reddit,2024-08-01,Ill be honest its really not. I came to knowast year that NVDA was priced above 700 pre split but I was scared and only invested in QQQM. It then crossed 1000. I read about analyst ratings about ISRG. I invested a small amount after some research. It has gone 20 since then and has been solid despite tech sell off. I think analyst ratings is helpful to screen companies and not go tits up. I think what is usually lost is that they give a price range and typically most of us dont take risk into account and just invest blindly.,Positive,1,0.9921824336051941,Reply
+Reddit,2024-08-01,Its a site where they aggregate analyst price targets for a large number of stocks. They keep track of how accurate each analyst is for a specific stock so you get a sense of who you should follow.,Neutral,0,0.9999899864196777,Reply
+Reddit,2024-08-01,"Its called momentum, you rode a trade that everyone was on and it kept rising just like when Tesla was hit before and other stocks before they stagnate or decline. Analysts are also chasing the hype since very few had 700 upside target on Nvidia before it tripled they keep adjusting depending on the flowtrend",Positive,1,0.6677888631820679,Reply
+Reddit,2024-08-01,All analysts literally do is move their price targets as the stock goes up and down. It literally is useless information,Neutral,0,0.9999901056289673,Reply
+Reddit,2024-08-01,Not true. Take a look at stock OTGLY. Its video game company CD Project. It has gone up 40 in last 3 months. Yet I researched and 8 analysts think it is a sell and 4 say it is a buy. I still invested because I follow the company and think there is a significant upside and current analyst opinions are recency bias. So I believe analyst opinions are a piece of information. If you blindly follow then you might get burned but using their opinion as a piece of information to screen stocks is valuable.,Positive,1,0.9926647543907166,Reply
+Reddit,2024-08-01,If analysts truly had a crystal ball why the hell would they give such valuable information away for free?,Neutral,0,0.9982110261917114,Reply
+Reddit,2024-08-01,"Agreed. There are also good and bad analysts. I often read reports even from what I consider good services and shake my head at times when its a field I know a lot about. To reiterate, Its a data point. If all the analysts predict a thing even if its wrong it will affect prices.",Neutral,0,0.9973095655441284,Reply
+Reddit,2024-08-01,"... They dont. Analysts get paid. And they are supposed to give honest projections. Its not some scam like you guys believe it is. They research the companies, speak to insiders and try to project where the stock price will be in 12 months. They can be spot on with revenue and earnings projections and still be way off on the stock price. Thats the stock market",Neutral,0,0.9999834299087524,Reply
+Reddit,2024-08-01,No one has crystal ball. Again I find it is useful to screen stocks. To follow their arguments for prices. Regarding other question I agree that it cant be 100 right. But some of the opinions are behind paywall. But you still get to see the consensus buysellhold. Also some banks etc are publicly traded right? So they have to be atleast somewhat open about their investments and cant just make shit up. Again we need to do our own research at the end of the day.,Neutral,0,0.9998763799667358,Reply
+Reddit,2024-08-01,"I mean analyst is not a protected job description so there is a range, but yes real analysts are good at analyzing the businesses. That the stock market is highly regarded makes share price harder to gauge.",Negative,-1,0.9994158744812012,Reply
+Reddit,2024-08-01,I just find that 90 of analysts follow momentum. Very few of them go against the crowd. Thus their opinions matter very little,Neutral,0,0.9802343249320984,Reply
+Reddit,2024-08-01,Analyzing the Analysts Using average analyst price target to identify possible buying opportunities amongst the top 100 companies in the SP,Neutral,0,0.8417516946792603,Main
+Reddit,2024-08-01,Analysts are paid shills for the brokerage. Brokerages make huge profits from their underwriting business.They do everything they can to keep the customers happy. Like write beautiful reports about the customers.,Positive,1,0.9999585151672363,Reply
+Reddit,2024-08-01,Go back ten years and run this strategy and see if it would have worked,Neutral,0,0.9998173117637634,Reply
+Reddit,2024-08-01,deleted,Neutral,0,0.9962913990020752,Reply
+Reddit,2024-08-01,"Hopefully you guys like reading, I need some advice if anyone has it.",Neutral,0,0.998354434967041,Reply
+Reddit,2024-08-01,"I also look at Morningstar analyst report because they are definitely more independent than the sell side analysts of investment companies. For instance, NVDA fair price is 105 according to M compared to 125.69 in your table . So, I am holding for NVDA to drop at least 10 lower than M fair price before directing some funds towards NVDA. GOOGL A 181 M. So, this may be a better buy now at 160 level.",Positive,1,0.951075553894043,Reply
+Reddit,2024-08-01,"Itll be tricky to do that because Id need to go back 10 years ago and find what the analyst ratings and price targets were at that time for the top 100 companies and make different stock pick selections to trend for the following 10 years. I have no qualms about doing that, I just dont know where to find that data",Neutral,0,0.9999289512634277,Reply
+Reddit,2024-08-01,deleted,Neutral,0,0.9962913990020752,Reply
+Reddit,2024-08-01,"Thats what Im interested in as well. Even last year what were analysts predicting and what price are they at now? How accurate are analyst predictions? Then, try to find the ones most accurate, if any are even consistent, and see what theyre saying now. Bonus points to repeat this exercise for every 12M price target made in the last 10 years.",Neutral,0,0.9999388456344604,Reply
+Reddit,2024-08-01,"The Fed is short for Federal Reserve, not an acronym, and doesnt need to be set in allcaps. Initialisms which may be appropriate depending on the context include FRS for Federal Reserve System or FOMC for Federal Open Market Committee. I am a bot, and this action was performed automatically. Please contact the moderators of this subredditmessagecompose?torinvesting if you have any questions or concerns.",Neutral,0,0.9998544454574585,Reply
+Reddit,2024-08-01,I aint reading all that. Im happy for you tho. Or sorry that happened,Neutral,0,0.926038920879364,Reply
+Reddit,2024-08-01,"Ill type it however the hell I want, noone cares.",Neutral,0,0.9986900687217712,Reply
+Reddit,2024-08-01,"Small cap, large cap, index fund, EFT or russell2000 to finish 2024? Shortened up for ya",Neutral,0,0.999998927116394,Reply
+Reddit,2024-10-23,"LRCX Beats, Raises, and Rallies",Positive,1,0.999997615814209,Main
+Reddit,2024-10-23,User Report Total Submissions 7 First Seen In WSB 4 years ago Total Comments 48 Previous Best DD x Account Age 5 years Join WSB Discord,Neutral,0,0.9999858140945435,Reply
+Reddit,2024-10-23,I am contemplating porting my asml position into lrcx in a hope of faster recovery and growth. Those dumb restrictions have been fucking influencing stock price since the summer.,Neutral,0,0.9534348845481873,Reply
+Reddit,2024-10-23,With all this work you end up buying options. Its like you searched how to fuck and forgot to see which hole to put your penis in. Bruh,Neutral,0,0.9960320591926575,Reply
+Reddit,2024-10-23,What a remarkably shitty stock. I think it just bumped MU out of the top spot on my most hated list.,Neutral,0,0.7951095700263977,Reply
+Reddit,2024-10-23,5 aint soaring. Its a pump for ants. I am a disgruntled call holder. That Dutch fiasco really fucked the sector.,Negative,-1,0.624639630317688,Reply
+Reddit,2024-10-23,Bro what,Neutral,0,0.997018575668335,Reply
+Reddit,2024-10-23,agreed. It ought to be higher. I am also a disgruntled call holder. We can hold hands. Diamond hands.,Neutral,0,0.9740834832191467,Reply
+Reddit,2024-10-23,It couldnt even hang onto 5 AH gain.,Neutral,0,0.9835419654846191,Reply
+Reddit,2024-10-23,"It be like that sometimes. Its still a good company. Im not mad to have more buying opportunities, Im just mad my call isnt printing",Neutral,0,0.8616881966590881,Reply
+Reddit,2024-10-23,"Right, a good company whose stock performance is divorced from its value. Which makes it a shitty stock.",Positive,1,0.9998996257781982,Reply
+Reddit,2024-10-23,Dropping from 6 to 4 hardly constitutes a divorce from reality,Negative,-1,0.9993413090705872,Reply
+Reddit,2024-10-16,Will LRCX Prove Doubters Wrong?,Negative,-1,0.9975866079330444,Main
+Reddit,2024-10-16,User Report Total Submissions 4 First Seen In WSB 4 years ago Total Comments 34 Previous Best DD x Account Age 5 years Join WSB Discord,Neutral,0,0.9999877214431763,Reply
+Reddit,2024-10-16,It dropped every time they reported earnings the last 4 times. I want to buy tho.,Neutral,0,0.803270697593689,Reply
+Reddit,2024-10-16,"Made some good money and lost some good money on LRCX, Im long on them but short term Im still cautious",Negative,-1,0.9522568583488464,Reply
+Reddit,2024-10-16,dont play options on this one. build stock position. China spent a lot on equipment last year and tbis year. So their revenue had big share from China. hence people think this wont last due to the geopolitics. But US Chips act money has not seen the spendinh from US semicon companies YET. But this will come and LRCX will get its share and then the stock will run.,Neutral,0,0.9904325604438782,Reply
+Reddit,2024-10-16,In my opinion Id sell the day before. In the past there also seems to be a raise right before earnings then the sell of right after. They have great looking financials and beat earnings every time this may motivate the buy in we see right before. But yet it seems the company continues to go down after. Im not entirely sure if its being shorted or general buyer seller psychology,Negative,-1,0.7857338786125183,Reply
+Reddit,2024-10-16,I bought call options instead of shares. I think its gonna go up and if it doesnt oh well I will roll the options to a later date or get out. I dont understand the whole psychology of ASML versus this stock. ASML is Dutch and screwed up their earnings call report in a bull market. With boohoo 2025 projections. Its amazing how sensitive messages are when I hear somebody say something wrong. Lam has taken quite a beating since its split and the negative news from ASML. I guess ASML 2025 projections are off. Maybe the whole story is that it lost market share to LRCX based in Silicon Valley. LRCX could turn upside down after earnings idk but I think this maybe an opportunity for an unexpected pop. LRCX is a sleeper located in CA where all the action is.,Negative,-1,0.9983423948287964,Reply
+Reddit,2024-10-16,Less specialized but more widely used silicon products. California company. Not sure how it stacks up against up against AMAT but theyre both winners imo,Neutral,0,0.9730029702186584,Reply
+Reddit,2024-10-16,Will probably disappoint just like ASML,Negative,-1,0.7404546141624451,Reply
+Reddit,2024-10-16,Fuck. Chat are we cooked?,Neutral,0,0.9999572038650513,Reply
+Reddit,2024-10-16,This,Neutral,0,0.980064332485199,Reply
+Reddit,2024-10-16,LRCX and ASML are on the different sides of the process.,Neutral,0,0.9999985694885254,Reply
+Reddit,2024-10-16,Theyre not the same,Neutral,0,0.9881121516227722,Reply
+Reddit,2024-10-16,Ya get out. I recommend buying MU calls.,Neutral,0,0.9989860653877258,Reply
+Reddit,2024-10-16,"Earnings is a shit show , can go anywhere .I do think their will be higher volatility then usual though, so since ASML is more europe based it explains why the semiconductor didnt have a full Hiroshima meltdown, but LRCX as its american based would be a more accurate representation. Can probably boost the chip market a good amount , or beat it down. Stocks like Applied materials might be see a strong reaction as their most similar to LCRX, but it remains to be seen if those will move that much given they already dumped.",Positive,1,0.997270405292511,Reply
+Reddit,2024-10-16,Good to know I just thought LRCX not trading where its supposed to be,Positive,1,0.8090676665306091,Reply
+Reddit,2024-10-16,WSB sleeping bigtime on this one.,Neutral,0,0.9989547729492188,Reply
+Reddit,2024-10-16,"This morning I thought about MU calls, NVDA calls, and LRCX calls. Picked the one loser of the three",Negative,-1,0.8682436347007751,Reply
+Reddit,2024-10-16,Yeah swallow it and cut your losses would be my decision. Mu will reach 120 barring any negative news. Theyre previous earnings confirms it. Or prove me wrong by holding on and riding the green dildo to the sky eventually !imgemotet5_2th5227421,Neutral,0,0.5612099766731262,Reply
+Reddit,2024-10-16,"Honestly, I think Im going to ride this one for a while longer. Im still a believer in my thesis, I think that being at the money with 45 days to grow opens me up to riding the upside of any good news in the semi industry... I mean now we know what it looks like when the market panics that semi manufacturing is unprofitable. Especially with the growing IV before earnings, Im going to hold it at least until Monday or Tuesday next week. I also think MU is a good play and wish you luck.",Positive,1,0.9999996423721313,Reply
+Reddit,2024-10-16,"Sounds good. Just remember this stock isnt promising when it comes to earnings. If you change your mind, get out fast.",Positive,1,0.999895453453064,Reply
+Reddit,2024-10-16,Came back here to say your play was free money after all!imgemotet5_2th524267!imgemotet5_2th5252627,Neutral,0,0.9999220371246338,Reply
+Reddit,2024-10-16,I held,Neutral,0,0.9998264908790588,Reply
+Reddit,2024-10-15,Feels Worse Than it Looks,Negative,-1,0.9997923970222473,Main
+Reddit,2024-10-15,User Report Total Submissions 10 First Seen In WSB 3 years ago Total Comments 5828 Previous Best DD x Account Age 3 years Join WSB Discord,Neutral,0,0.9999891519546509,Reply
+Reddit,2024-10-15,Why did all the semiconductors go down?,Negative,-1,0.6715201735496521,Reply
+Reddit,2024-10-15,"I have three named ones that are in there! None is a big box, the largest box I own is QCOM. Bottom right of NVDA",Neutral,0,0.999954342842102,Reply
+Reddit,2024-10-15,Thats what she said,Neutral,0,0.9991408586502075,Reply
+Reddit,2024-10-15,nvda my butthole,Neutral,0,0.9850803017616272,Reply
+Reddit,2024-10-15,wheres djt?,Neutral,0,0.9996463060379028,Reply
+Reddit,2024-10-15,Idk my port did great today and the last two months,Positive,1,0.9949546456336975,Reply
+Reddit,2024-10-15,ASML leak and Biden adding some Middle East Countries to export ban list is the word behind the Wendys dumpster.,Neutral,0,0.9774686694145203,Reply
+Reddit,2024-10-15,Its one of the so red its black squares that you can barely see.,Neutral,0,0.9983188509941101,Reply
+Reddit,2024-10-15,Campaign fraud is listed in a different index.,Neutral,0,0.9999843835830688,Reply
+Reddit,2024-10-15,Need to visit Wendys dumpster badly,Negative,-1,0.996055006980896,Reply
+Reddit,2024-10-15,Whoa anything that spurred the dump? It was bound to happen sooner or later,Neutral,0,0.9958996176719666,Reply
+Reddit,2024-10-15,Smells so good out here,Positive,1,0.999975323677063,Reply
+Reddit,2024-10-15,I hear they run a mean gloryhole,Neutral,0,0.9999490976333618,Reply
+Reddit,2024-10-15,Maybe it was the number of times Ive said how the fuck is this still going up? Like a beetlejuice thing,Neutral,0,0.9977028965950012,Reply
+Reddit,2024-10-15,Hot. Rancid. Sex.,Neutral,0,0.9998457431793213,Reply
+Reddit,2024-10-15,Sushi?,Neutral,0,0.9938295483589172,Reply
+Reddit,2024-10-15,"I get more of like a half eaten festering burgers and fry oil mixed with piss kind of aroma. So, actually, yes.",Neutral,0,0.9999302625656128,Reply
+Reddit,2024-08-08,The Worst Start of August Since January 2016,Negative,-1,0.9999948740005493,Main
+Reddit,2024-08-08,User Report Total Submissions 10 First Seen In WSB 3 years ago Total Comments 32 Previous Best DD x Account Age 3 years Join WSB Discord,Neutral,0,0.9999822378158569,Reply
+Reddit,2024-08-08,JP Morgan said were going into recession? Looks like the market will turn around in a few weeks.,Neutral,0,0.9625763297080994,Reply
+Reddit,2024-08-08,"Anytime someone says something is less than 50 likely to happen, they are right if it doesnt happen, and they can claim they were right if it did too.",Neutral,0,0.9994296431541443,Reply
+Reddit,2024-08-08,"Layoffs are happening because incompetent dipshits at the top overestimated growth after the Covid rebound. Now those dipshits are getting quietly shuffled around and, unfortunately, some lower performers are being let go, along with some general cost cutting. A bulk of this occurred across last year and nobody batted an eyelash. Last year was the OMG THE SKY IS FALLING year... Only reason people are noticing now is because Year End is coming in hot and those same incompetent dipshits are hoping to get a bonus, which was frozen out last year.",Negative,-1,0.9960736036300659,Reply
+Reddit,2024-08-08,Where are the layoffs happening?,Neutral,0,0.9623788595199585,Reply
+Reddit,2024-08-08,"Great, the consensus of the economists is in. Thats the signal that SPY is going to test 570 again and possibly higher. These fear mongering tactics work on boomers but not on WSB degenerates",Negative,-1,0.9608187675476074,Reply
+Reddit,2024-08-08,If Dimon says it enough times hell eventually be correct.,Neutral,0,0.9793319702148438,Reply
+Reddit,2024-08-08,What does that title mean?,Neutral,0,0.990054726600647,Reply
+Reddit,2024-08-08,Market crash and recession are two different things,Neutral,0,0.9972277283668518,Reply
+Reddit,2024-08-08,Its literally just a small setback as borrowers need money to pay back Japanese loans after a Japanese interest rate hike. Will settle very shortly as people take advantage of the opportunity to buy low,Positive,1,0.9987115859985352,Reply
+Reddit,2024-08-08,Literally every time they say it the market goes up soon after,Neutral,0,0.9999605417251587,Reply
+Reddit,2024-08-08,"Jamie Dimon is by far the best CEO of any bank in the world, has seen it all before and doesnt make the mistakes other banks like SVB did who didnt even have a chief risk officer. If JPM was bankrupt the world would be in ruins. JPM trades on a supra level, between continents, world bank, not just simplistic loans for consumers. JPM and GS are the only 2 solid remaining banks left.",Neutral,0,0.9901783466339111,Reply
+Reddit,2024-08-08,"Intel just laid off 12,000 people",Neutral,0,0.9999921321868896,Reply
+Reddit,2024-08-08,Seriously,Neutral,0,0.6727746725082397,Reply
+Reddit,2024-08-08,Im saying suckers take the advice from bankers.,Neutral,0,0.9981690645217896,Reply
+Reddit,2024-08-08,Great company all around,Positive,1,0.9820489287376404,Reply
+Reddit,2024-08-08,Eh? Im fucking tonnnes of Mio short on NWG and Lloyds and have it offset given the cash balance of JPM I used to work in bank. 99 bankers .. full of shit.,Neutral,0,0.999991774559021,Reply
+Reddit,2024-08-06,How Terrifying is the Start of August?,Neutral,0,0.9994866847991943,Main
+Reddit,2024-08-06,User Report Total Submissions 10 First Seen In WSB 3 years ago Total Comments 24 Previous Best DD x Account Age 3 years Join WSB Discord,Neutral,0,0.9999837875366211,Reply
+Reddit,2024-08-06,I didnt read your text but that picture is glorious.,Neutral,0,0.9996942281723022,Reply
+Reddit,2024-08-06,deleted,Neutral,0,0.9962913990020752,Reply
+Reddit,2024-08-06,The only thing terrifying is that I didnt YOLO my entire account on SPY puts on the 1st. I had one measly 545P on Aug 1. Watched it bounce off of .10 and laughed. The it hit 5.00. Smiled and made some money. Then SPY did it again on Friday. And again today. 3 in row. Successive strikes at 535P then 525P each passing day turn a few grand into a million in 3 days.,Neutral,0,0.9990565180778503,Reply
+Reddit,2024-08-06,The terrifying part is that 3 brokers went offline for a position of customers and many people from interactive and now Schwab are having trades reversed they made in premarket,Neutral,0,0.9978296160697937,Reply
+Reddit,2024-08-06,"Our AI tracks our most intelligent users. After parsing your posts, we have concluded that you are within the 5th percentile of all WSB users. I am a bot, and this action was performed automatically. Please contact the moderators of this subredditmessagecompose?torwallstreetbets if you have any questions or concerns.",Neutral,0,0.9998699426651001,Reply
+Reddit,2024-08-06,!imgemotet5_2th524271,Neutral,0,0.9996556043624878,Reply
+Reddit,2024-08-06,"I like that in the sea of red, AMD and CRWD is green of all stocks",Neutral,0,0.9998853206634521,Reply
+Reddit,2024-08-06,"This. The market isnt even at a 3 month low. The crash is bullshit. Now maybe itll actually crash, but it hasnt at this point.",Neutral,0,0.990838348865509,Reply
+Reddit,2024-08-06,You are still better than 95 of the regards. Dont be a greedy.,Positive,1,0.9998471736907959,Reply
+Reddit,2024-08-06,"This just shows that in an actual crash, the big boys are selling the bags first",Neutral,0,0.9999455213546753,Reply
+Reddit,2024-08-06,can i get a recipe for bundt cakes?,Neutral,0,0.9999830722808838,Reply
+Yahoo,2024-10-30,Survey....who thinks venture capital is flocking in to compete with Chinas low margin exports....so like anybody else the MAGAs will hold the bag....,Neutral,0,0.996726393699646,Main
+Yahoo,2024-10-30,"Financial information only…. KLAC reported strong earnings and strong guidance up $10 after hours and 1.4%.
+
+This will be a definite plus for LRCX…… overall the semiconductor equipment companies show strong demand going forward!",Positive,1,1.0,Main
+Yahoo,2024-10-30,AMD wash out by close!!,Neutral,0,0.9999701976776123,Main
+Yahoo,2024-10-30,"Go to TSMC board.....there is fear, concern in Taiwan  about second Dump turn....dont kidd yourself....Dump is NOT RATIONAL....",Negative,-1,0.9999819993972778,Main
+Yahoo,2024-10-30,Looks like sanctions to curb Chinas  progress towards  producing AI chips was in vain...but here comes the kicker...supposedly ASML could remotely disable equipment in case of invasions....US more than ever depending on Taiwan and TSMC...like it or not..it is what it is...crazy uncle better be nice to TSMC....,Negative,-1,0.8759341835975647,Main
+Yahoo,2024-10-30,"Trump and Vance sing different tune on Taiwanese chips ahead elections...todays digital times....we know already Dump has negative bias towards Taiwan,TSMC....accusing they were stealing chip business from US.....what does crazy uncle have in mind....stupidity combined with ignorance is toxic....only the paranoid survive....Andy Grove....",Negative,-1,0.9999966621398926,Main
+Yahoo,2024-10-30,AMD shake out !!,Neutral,0,0.9673780202865601,Main
+Yahoo,2024-10-29,"Lam Research&#39;s peer group average for short interest as a percentage of float is 7.03%, which means the company has less short interest than most of its peers. 2.3 days to cover short positions. Above avg. risk right now to short it. Fibonacci chart is a rising trend. Stay long and prosper! Been on this train for 28 years now. Generational wealth continues to grow, no regrets.",Neutral,0,0.8304122090339661,Main
+Yahoo,2024-10-29,KLAC looks strong today and will post some good numbers tomorrow. I think we will see $80 and some change.,Positive,1,1.0,Main
+Yahoo,2024-10-29,kept adding today small positions look forward to this week as far as tech earnings looks like the shakedown didnt work haha,Neutral,0,0.9996102452278137,Main
+Yahoo,2024-10-29,For change so far S&amp;P holding at pivot point!,Neutral,0,0.9996228218078613,Main
+Yahoo,2024-10-29,Did you see chip packaging company Amkor today ?Look I dare you.,Neutral,0,0.998982846736908,Main
+Yahoo,2024-10-29,Jim Cramer just said he likes LRCX here.......that could be a problem.😏,Negative,-1,0.9996306896209717,Main
+Yahoo,2024-10-28,"It has to go up eventually. The gave a good guidance for next Q. It should move up to all time high, but wall street is corrupting it ...",Positive,1,0.9996013045310974,Main
+Yahoo,2024-10-28,LRCX short interest up 800% this month,Neutral,0,0.9989928603172302,Main
+Yahoo,2024-10-28,How many on this board had NVLS shares when merging with LRCX ?,Neutral,0,0.9999954700469971,Main
+Yahoo,2024-10-28,Next Dividend Pay date is 3 Jan 2025. estimate .23 cents,Neutral,0,0.9999971389770508,Main
+Yahoo,2024-10-28,Hedge fund criminals are at it again. After a nice beat in earnings they are knocking the stock down again !!!!,Negative,-1,0.997214138507843,Main
+Yahoo,2024-10-28,"Just giving all of last weeks gains away off low volume,",Neutral,0,0.7978705167770386,Main
+Yahoo,2024-10-28,added on this 75.5 area,Neutral,0,0.9999961853027344,Main
+Yahoo,2024-10-28,Taiwan semi tankingNvidia redBroadcom redAmat redMicrosoft redBad news for Lam as china is like 30% of their business right ?China semiconductor patent applications skyrocket amid US export restrictions — country sees a 42% increase in patent filingChina heading to recession and many us tech stocks are hugely dependent on business from ChinaLam kla Texas Instruments Intel Broadcom Applied Materials etc etc.Philips Stock Plunges After China Warning. GE HealthCare Is Dropping Too.,Negative,-1,0.9934325218200684,Main
+Yahoo,2024-10-28,Well North of 80$ by EOW imho,Neutral,0,0.9999656677246094,Main
+Yahoo,2024-10-28,What a nice drop to pick up more shares.  😁My opinion only.,Positive,1,0.7854151129722595,Main
+Yahoo,2024-10-28,"Thank you all for your comments and insight…. I would like to invest in LRCX, but there was an article that kind of drew my attention.
+
+ Lam Research is it a good investment ….Zack’s equity research… the article does a lot of comparisons but overall they come out with a Zack Rank is #4 SELL.
+
+Can anyone give me some insights on this and why they would come up with a SELL recommendation because this is a pretty reputable publication.
+
+I would like to buy the stock, but I’m hesitant based on this article?
+
+Thanks for anyone out there who has some good information or an analysis or oversight!",Neutral,0,0.999663233757019,Main
+Yahoo,2024-10-28,"The stock is rising steadily, not in sharp spikes. Day traders may be selling, but real investors are buying and will drive it up steadily. It’s on an upward trajectory until next earnings in 2025.",Positive,1,0.9838114380836487,Main
+Yahoo,2024-10-28,Blackrock and Vanguard manipulation! Look at calls and puts contracts. Buybacks will be commensurate with the dips.,Neutral,0,0.9999434947967529,Main
+Yahoo,2024-10-28,Dump bashing CHIPS act again....MAGA....keep digging your own investment grave...look at TSM SP.....,Neutral,0,0.9986578226089478,Main
+Yahoo,2024-10-28,Great opportunity to pick up more shares at a great price,Positive,1,1.0,Main
+Yahoo,2024-10-28,"Dump ranting again ...,Taiwan stealing US chip business....the dementing fool does not understand the foundry concept....dumb as a rock",Negative,-1,0.9996898174285889,Main
+Yahoo,2024-10-28,Where is my favorite Contrainian?,Neutral,0,0.9998329877853394,Main
+Yahoo,2024-10-28,So Barclays and Wells both have aHold rating but a PT 20 % higher than share price. Go figure.,Positive,1,0.9975156784057617,Main
+Yahoo,2024-10-28,Name me one reason why Dump would Be a positive  catalyst for chip stocks,Positive,1,0.9999997615814209,Main
+Yahoo,2024-10-28,Every vote for Dump Is a vote against women rights....imagine men could become pregnant...GOP mother of all hypocrisy,Neutral,0,0.999968409538269,Main
+Yahoo,2024-10-28,Trump 2024!!!,Neutral,0,0.9996311664581299,Main
+Yahoo,2024-10-26,Unreal what a bunch of old  and young WASPS in Texas can do to women....it is gender racism,Neutral,0,0.9997966885566711,Main
+Yahoo,2024-10-25,"It&#39;s making a strong, healthy recovery, with gentle movements indicating steady progress.",Positive,1,1.0,Main
+Yahoo,2024-10-25,DECK $$$ Making us $$$$$$$$$$ loving it Have a Great weekend 😀,Positive,1,0.9988289475440979,Main
+Yahoo,2024-10-25,LRCX is recovering nicely after falling in sympathy with ASML. LRCX reported great numbers and will continue it&#39;s rise when other tech stocks report and confirm strength in tech.  Meta reports soon! Next week could get wild.,Positive,1,1.0,Main
+Yahoo,2024-10-25,Finally getting the respect it deserves. Let’s keep going!,Neutral,0,0.997730553150177,Main
+Yahoo,2024-10-25,"LRCX is well positioned, buckle up for the ride! In 2025, AI will drive major shifts in the memory market. High-Bandwidth Memory (HBM) is set to grow 70% year-over-year, transforming the DRAM market as manufacturers prioritize HBM production. Meanwhile, datacenter NAND demand is expected to rise by over 30%.Samsung, SK Hynix, Micron all LRCX equipment customers. Stay long and prosper!",Positive,1,1.0,Main
+Yahoo,2024-10-25,what u think about $UPS,Neutral,0,0.9996689558029175,Main
+Yahoo,2024-10-25,79.99 today,Neutral,0,0.9999253749847412,Main
+Yahoo,2024-10-25,"According to NASDAQ, the forward PE for 2027 is 14.78. It’s priced like a shrinking business. Crazy.",Neutral,0,0.9999871253967285,Main
+Yahoo,2024-10-25,Some do not even understand the basics....they only know digital cameras....remember the times of Kodak....such a simple concept....nevertheless the stupidity seems overwhelming,Neutral,0,0.5185543298721313,Main
+Yahoo,2024-10-25,WDC validates Lams upbeat  view on NAND,Positive,1,0.9999097585678101,Main
+Yahoo,2024-10-24,I think some short covering today. MMs might run this down tomorrow though.,Neutral,0,0.8300348520278931,Main
+Yahoo,2024-10-24,"BofA Securities analyst Vivek Arya reiterated the Buy rating on Lam Research (NASDAQ:LRCX), raising the price forecast to $92 from $88.",Positive,1,0.9999997615814209,Main
+Yahoo,2024-10-24,It will be interesting at close!,Neutral,0,0.9999390840530396,Main
+Yahoo,2024-10-24,"Buy now for your retirement, believe me, it&#39;s ridiculously cheap now",Positive,1,0.6408954858779907,Main
+Yahoo,2024-10-24,green doji on daily its gonna turn red fri,Neutral,0,0.9999284744262695,Main
+Yahoo,2024-10-24,By Friday afternoon is 85. Don&#39;t sell,Neutral,0,0.9985639452934265,Main
+Yahoo,2024-10-24,Selll sell when it touches $80 to $85 target $60,Neutral,0,0.9998291730880737,Main
+Yahoo,2024-10-24,"Hold until close, hedge fund manipulation underway !!",Neutral,0,0.9974250793457031,Main
+Yahoo,2024-10-24,"QQQ back to 492, last hr shakeout !!",Neutral,0,0.9834870100021362,Main
+Yahoo,2024-10-24,"Eventually, they gonna let it fly high ... soon enough",Neutral,0,0.9914815425872803,Main
+Yahoo,2024-10-24,what are the crook hedge funds doing again? Why are they keeping the stock down?,Neutral,0,0.9546302556991577,Main
+Yahoo,2024-10-24,Interesting closing QQQ holding at pivot point! Trying for 492,Neutral,0,0.9999538660049438,Main
+Yahoo,2024-10-24,Slow bleeding !! Just can not shake out at $75,Negative,-1,0.7769790887832642,Main
+Yahoo,2024-10-24,"11 mil and $75, $75.50 is big resistant!!",Neutral,0,0.9935737252235413,Main
+Yahoo,2024-10-24,"$10 billion stock buyback is about 10% of current market cap . The current price is over 30% less  than the 52 week high , so it looks like a wise timing for the use of cash and a good benefit to stockholders",Positive,1,0.9999998807907104,Main
+Yahoo,2024-10-24,Earnings was strong but weakness in the general sector is what&#39;s weighing it down just looks great to buy under 77$,Positive,1,0.9999994039535522,Main
+Yahoo,2024-10-24,Look like a keeper,Neutral,0,0.9838036298751831,Main
+Yahoo,2024-10-24,asml print weakened this stock with this print should be 5% eod,Neutral,0,0.9997182488441467,Main
+Yahoo,2024-10-24,I was hoping we touched 80 today,Neutral,0,0.9981997013092041,Main
+Yahoo,2024-10-24,I expected more than 4% tbf,Neutral,0,0.9994964599609375,Main
+Yahoo,2024-10-24,I am buying up KLAC which is barely up on LRCX&#39;s solid report.  KLAC has very little china business.  Divi was just raised for Nov,Positive,1,0.9999998807907104,Main
+Yahoo,2024-10-24,Looks like shake out between 75-76,Neutral,0,0.9999463558197021,Main
+Yahoo,2024-10-24,Better earning but no upward movement! That because shorts on this equity !!,Positive,1,0.9999935626983643,Main
+Yahoo,2024-10-24,profit taking. keep going,Neutral,0,0.7320913672447205,Main
+Yahoo,2024-10-24,"Thought there would have been a short squeeze here this morning , huh",Neutral,0,0.857804000377655,Main
+Yahoo,2024-10-24,"Lam Research (LRCX) has an average rating of outperform and price targets ranging from $75 to $114, according to analysts polled by Capital IQ",Positive,1,0.9998770952224731,Main
+Yahoo,2024-10-24,there are 2 downgrades out today MS and WF and 1 upgrade-Riley. As I said it will be a nothing burger for now.,Neutral,0,0.7553189992904663,Main
+Yahoo,2024-10-24,To these rogue hedge funds I say goodbye forever to your low $70&#39;s chump-change BeeS!!,Neutral,0,0.9978600144386292,Main
+Yahoo,2024-10-24,Fair value still remains around $60 however can stretch to $85 in near term but hard to break this,Neutral,0,0.980713427066803,Main
+Yahoo,2024-10-24,Added some last week at 73. Wished I had added more. Stay long.,Neutral,0,0.9999752044677734,Main
+Yahoo,2024-10-24,Now analyst upgrades come out. Think pretty much every analyst on CNBC owns this. lol,Neutral,0,0.9999583959579468,Main
+Yahoo,2024-10-24,It was over a 100 a few months ago.  I thought with great earnings it will go to at least 80s..not even 78,Positive,1,0.9994827508926392,Main
+Yahoo,2024-10-24,Short squeeze to $85,Neutral,0,0.9411443471908569,Main
+Yahoo,2024-10-23,"Buy the fear 
+Sell the Greed
+
+Very simple play on good quality stocks",Positive,1,0.9999942779541016,Main
+Yahoo,2024-10-23,🚀🚀🚀🚀,Neutral,0,0.9673532843589783,Main
+Yahoo,2024-10-23,Fantastic results to finish the AH near the implied options earnings level of 6% ($77). AMAT and ASML rose accordingly.,Positive,1,1.0,Main
+Yahoo,2024-10-23,Glad I didn’t wait till after earnings!,Neutral,0,0.9974400997161865,Main
+Yahoo,2024-10-23,"The ASML news caused an &#34;overreaction&#34; in the chip equipment space.  Now all the semicap equipment stocks LRCX, AMAT, &amp; KLAC are strong buys.",Positive,1,0.9999998807907104,Main
+Yahoo,2024-10-23,"It&#39;s still ridiculously cheap in comparison with the report and revenue growth. 
+Just take a look at TEXAS INSTRUMENTS, they announced yesterday, even with downgraded future growth, stock went up 4%, it did a lot better, not sure why stock is devalued still",Positive,1,0.9726338386535645,Main
+Yahoo,2024-10-23,"If you need the money do not sell it now, over 80 tomorrow",Neutral,0,0.8822718262672424,Main
+Yahoo,2024-10-23,$LRCX to $100 coming soon,Neutral,0,0.9998918771743774,Main
+Yahoo,2024-10-23,"Now I love Lam, absolutely amazing.  10% up tomorrow.  Is at the buy point for us.",Positive,1,0.9996856451034546,Main
+Yahoo,2024-10-23,Lam and Applied got demolished based on the ASML results. Lam showed today that it was the wrong move. Just getting started.,Neutral,0,0.9980093836784363,Main
+Yahoo,2024-10-23,4.9% up only what’s wrong with? Should be over $80,Neutral,0,0.8264353275299072,Main
+Yahoo,2024-10-23,"Liked the results but a very Asia centric biz, discounting that TSM based revenue from EU and US buildout that we hear so much about is probably allocated to ASIA on LRCX financials. Margins and costs pretty stable. Only 17% of rev to US and EU. 37% to China, 18% to Korea. As goes TSM and Samsung...so goes LRCX. Notably, ASML growth has been curtailed by China trade restrictions and its likely a matter of time that LRCX follows suit as nationalism increases. Will be interesting to chart geographic revenue distribution going forward, assuming good data can be had. When this AI capex cycle matures, LRCX will not be a good place to be regardless of geographics. To find that in LRCX customer financials, you will have to dig really deep into managements discussion of financial results, and that is a game of hide and seek that I am not very experienced with. In the meantime, I&#39;ll take the win with a suspicious eye. I&#39;m thinking chip makers will stop spending 3-4 qtr next year.",Neutral,0,0.9929888844490051,Main
+Yahoo,2024-10-23,"Now that Lam research confirmed their outlook has nothing to do with the garbage Asml outlook , I am surprised that this is not jumping all the way to $80. This confirms that lam is a much better run company than asml.",Positive,1,0.9999991655349731,Main
+Yahoo,2024-10-23,"Faith in LRCX restored, back to 80 we go.",Neutral,0,0.5621635913848877,Main
+Yahoo,2024-10-23,Who&#39;s been selling naked call options?,Neutral,0,0.9997956156730652,Main
+Yahoo,2024-10-23,"Combined with TSLA news, hopefully a strong market tomorrow",Positive,1,0.9999998807907104,Main
+Yahoo,2024-10-23,"Great beat by Lam, congratulations.  I always thought they belong over a p/e of 50.",Positive,1,0.9997074007987976,Main
+Yahoo,2024-10-23,It&#39;s ridiculously cheap stock. Should be back to above-100,Positive,1,0.9639186263084412,Main
+Yahoo,2024-10-23,It will go to $200 if you hold LRCX for the next 5 years!,Neutral,0,0.9999796152114868,Main
+Yahoo,2024-10-23,"80+ by open tomorrow! 
+
+AI is back on track!",Neutral,0,0.9964228272438049,Main
+Yahoo,2024-10-23,$80 tomorrow!,Neutral,0,0.9988219141960144,Main
+Yahoo,2024-10-23,Crushes.  Insanely cheap at this point.,Neutral,0,0.9706656336784363,Main
+Yahoo,2024-10-23,KLAC should do even better.  I own both.  ASML is a one trick pony.  I think KLAC might beat more than LRCX as it has much less China exposure,Positive,1,0.9999998807907104,Main
+Yahoo,2024-10-23,wind it up!!!,Neutral,0,0.9991555213928223,Main
+Yahoo,2024-10-23,Tomorrow 100,Neutral,0,0.9998849630355835,Main
+Yahoo,2024-10-23,Shorties better cover!!!,Positive,1,0.9977763295173645,Main
+Yahoo,2024-10-23,Unbelievable predictions,Neutral,0,0.9520592093467712,Main
+Yahoo,2024-10-23,I may never sell again after purchasing at 72.8,Neutral,0,0.9876272678375244,Main
+Yahoo,2024-10-23,"Keep in mind, it&#39;s still ridiculously cheap, the actual price is above 100",Neutral,0,0.8517792820930481,Main
+Yahoo,2024-10-23,UP WE GO!,Neutral,0,0.9999408721923828,Main
+Yahoo,2024-10-23,Good report from LRCX. This must recover from what ASML costed us a 9% drop.,Positive,1,0.9999961853027344,Main
+Yahoo,2024-10-23,Green =good,Positive,1,0.6608762741088867,Main
+Yahoo,2024-10-23,A great company with another good quarter!!!,Positive,1,1.0,Main
+Yahoo,2024-10-23,Great beat. More upgrades coming. Tomorrow will close above 80.00.,Positive,1,0.9999935626983643,Main
+Yahoo,2024-10-23,"Revenue of $4.17 billion.U.S. GAAP gross margin of 48.0%, U.S. GAAP operating income as a percentage of revenue of 30.3%, and U.S. GAAP diluted EPS of $0.86.Non-GAAP gross margin of 48.2%, non-GAAP operating income as a percentage of revenue of 30.9%, and non-GAAP diluted EPS of $0.86.",Neutral,0,0.9999277591705322,Main
+Yahoo,2024-10-23,unfortunately a nothing burger...market sentiment is low.,Negative,-1,0.9999697208404541,Main
+Yahoo,2024-10-23,Optimistic,Positive,1,0.9999922513961792,Main
+Yahoo,2024-10-23,77 or 67? 🤔 coment below 👇,Neutral,0,0.9987671375274658,Main
+Yahoo,2024-10-23,countdown 🕓⌛️,Neutral,0,0.9844412803649902,Main
+Yahoo,2024-10-23,$90,Neutral,0,0.9927166104316711,Main
+Yahoo,2024-10-23,30 minutes till report beat. GLTA,Neutral,0,0.9977253079414368,Main
+Yahoo,2024-10-23,"Seems quite undervalued based on historic and peers P/E. 15%+ revenue growth projected for next 3 years and projected EPS growth is 18%(2025), 23%(2026) and 12%(2027). Very solid company. Revenue and net income beat in all past 8 quarters. Looks like China impact is already priced in. If guidance is good, this can easily bounce 5% to 10%.",Positive,1,1.0,Main
+Yahoo,2024-10-23,The way this market is today.It doesn&#39;t matter if good earnings are out though...They will Probably push it down.,Negative,-1,0.9236319065093994,Main
+Yahoo,2024-10-23,Dow is down over 1000 points in 3 trading days.  That is a solid correction. LRCX is down YTD by 10%,Negative,-1,0.521796703338623,Main
+Yahoo,2024-10-23,momentum will probably carry it into high sixties if lucky mid sixties and load up there.,Neutral,0,0.9999896287918091,Main
+Yahoo,2024-10-23,guess i&#39;m buying more at 72....,Neutral,0,0.9996402263641357,Main
+Yahoo,2024-10-23,Negative YTD.  Incredible,Negative,-1,0.9984240531921387,Main
+Yahoo,2024-10-23,This stock&#39;s PE is like 15 on a forward basis.  Incredible,Neutral,0,0.9999924898147583,Main
+Yahoo,2024-10-23,"good long term hold, but nervous about this qtr. market is in a bad mood. still, there isnt hardly a thing we use that isnt a semiconductor, and LRCX, ASML, AVGO, TSM arent going to just fade away. they are going to continue to grow.",Positive,1,0.9650903940200806,Main
+Yahoo,2024-10-23,Numbers is CRUSHING!,Neutral,0,0.732585072517395,Main
+Yahoo,2024-10-23,Where is the support?,Neutral,0,0.9998157620429993,Main
+Yahoo,2024-10-23,"There goes that bounce off $72.25 $72.50 the major support level, yet once again,🧐.",Neutral,0,0.9995286464691162,Main
+Yahoo,2024-10-22,"Ridiculously cheap. It would be same as Micron Technologies, surged 15% after earnings as it was undervalued. Interestingly, Lam is supplier of Micron",Neutral,0,0.9861230850219727,Main
+Yahoo,2024-10-22,"50 Day Mvn Avg $79
+200 Day Mvn Avg $89
+LRCX is Basically Debt Free 
+Balance Sheet
+Total Cash (mrq)	5.85B
+Total Debt (mrq)	5.27B
+Net Cash $508M",Neutral,0,0.9999996423721313,Main
+Yahoo,2024-10-22,Extremely shocked on how bad lam has traded the past two days. At this point it’s almost a no brainer to deploy extra cash at these prices. In addition I’m extremely confused as why more hedgefunds are not buying at these prices.,Negative,-1,0.9999599456787109,Main
+Yahoo,2024-10-22,"wow its been awhile since I&#39;ve seen green, can it stay that way at closing",Negative,-1,0.9058734178543091,Main
+Yahoo,2024-10-22,NVDA has turned green. 👀,Positive,1,0.9999243021011353,Main
+Yahoo,2024-10-22,Earnings are before or after market close tomorrow?,Neutral,0,0.9999984502792358,Main
+Yahoo,2024-10-22,https://finance.yahoo.com/quote/LRCX/chart/#eyJsYXlvdXQiOnsiaW50ZXJ2YWwiOiJ3ZWVrIiwicGVyaW9kaWNpdHkiOjEsInRpbWVVbml0IjpudWxsLCJjYW5kbGVXaWR0aCI6MTAuMTU4NTM4Mjk3MTczMzU0LCJmbGlwcGVkIjpmYWxzZSwidm9sdW1lVW5kZXJsYXkiOnRydWUsImFkaiI6dHJ1ZSwiY3Jvc3NoYWlyIjp0cnVlLCJjaGFydFR5cGUiOiJsaW5lIiwiZXh0ZW5kZWQiOmZhbHNlLCJtYXJrZXRTZXNzaW9ucyI6e30sImFnZ3JlZ2F0aW9uVHlwZSI6Im9obGMiLCJjaGFydFNjYWxlIjoibGluZWFyIiwicGFuZWxzIjp7ImNoYXJ0Ijp7InBlcmNlbnQiOjEsImRpc3BsYXkiOiJMUkNYIiwiY2hhcnROYW1lIjoiY2hhcnQiLCJpbmRleCI6MCwieUF4aXMiOnsibmFtZSI6ImNoYXJ0IiwicG9zaXRpb24iOm51bGx9LCJ5YXhpc0xIUyI6W10sInlheGlzUkhTIjpbImNoYXJ0Iiwi4oCMdm9sIHVuZHLigIwiXX19LCJzZXRTcGFuIjp7Im11bHRpcGxpZXIiOjEsImJhc2UiOiJ0b2RheSIsInBlcmlvZGljaXR5Ijp7ImludGVydmFsIjoxLCJwZXJpb2QiOjEsInRpbWVVbml0IjoibWludXRlIn0sInNob3dFdmVudHNRdW90ZSI6dHJ1ZSwiZm9yY2VMb2FkIjp0cnVlLCJ1c2VFeGlzdGluZ0RhdGEiOnRydWUsIm1haW50YWluUGVyaW9kaWNpdHkiOnRydWV9LCJvdXRsaWVycyI6ZmFsc2UsImFuaW1hdGlvbiI6dHJ1ZSwiaGVhZHNVcCI6eyJzdGF0aWMiOnRydWUsImR5bmFtaWMiOmZhbHNlLCJmbG9hdGluZyI6ZmFsc2V9LCJsaW5lV2lkdGgiOjIsImZ1bGxTY3JlZW4iOnRydWUsInN0cmlwZWRCYWNrZ3JvdW5kIjp0cnVlLCJjb2xvciI6IiMwMDgxZjIiLCJldmVudHMiOnRydWUsInN0cmlwZWRCYWNrZ3JvdWQiOnRydWUsImV2ZW50TWFwIjp7ImNvcnBvcmF0ZSI6eyJkaXZzIjp0cnVlLCJzcGxpdHMiOnRydWV9LCJzaWdEZXYiOnt9fSwic3ltYm9scyI6W3sic3ltYm9sIjoiTFJDWCIsInN5bWJvbE9iamVjdCI6eyJzeW1ib2wiOiJMUkNYIiwicXVvdGVUeXBlIjoiRVFVSVRZIiwiZXhjaGFuZ2VUaW1lWm9uZSI6IkFtZXJpY2EvTmV3X1lvcmsiLCJwZXJpb2QxIjoxNDIwNDM0MDAwLCJwZXJpb2QyIjoxNzI5NjA5MjAwfSwicGVyaW9kaWNpdHkiOjEsImludGVydmFsIjoid2Vl,Neutral,0,0.9673532843589783,Main
+Yahoo,2024-10-22,Great bounces on support line. Expecting this to reach $79 shortly.,Positive,1,0.999588668346405,Main
+Yahoo,2024-10-22,I’ve have share that this is the time to load up on NVDA. Earnings is right around the corner and we could have a move to $200 per share. You can come back to your favorite stock. Staying paralyzed will cost you money. You can’t fall in love with your stock. The hired manipulators will welcome you back with open arms when you have money.,Neutral,0,0.998963475227356,Main
+Yahoo,2024-10-22,"This is a DJT stock rn!🤑
+Nothing but bad news",Neutral,0,0.9862443804740906,Main
+Yahoo,2024-10-22,day 5 in red 😵‍💫,Neutral,0,0.9999096393585205,Main
+Yahoo,2024-10-22,"Research from earlier post. Correct, the RSI indicator “is not” signaling oversold at 36.76. That little green spinning top at the close on Monday bounced right off that $72.50 major support level, ✅.",Neutral,0,0.6215613484382629,Main
+Yahoo,2024-10-21,i think TSM has set the trend for AI.,Neutral,0,0.9999068975448608,Main
+Yahoo,2024-10-21,Question: will NVDA price surpass AMD before the eoy?,Negative,-1,0.9493617415428162,Main
+Yahoo,2024-10-21,Hey Chief: about a year ago I read a couple of articles touting a potential competitor to ASML’s top litho tool. I think the competition came from Korea and I think it was said to be viable for line-widths 3-4 nm. The items caught my eye because the purported tool is said to be way cheaper to buy than anything sold by ASML. Do you have any input?,Neutral,0,0.9846084713935852,Main
+Yahoo,2024-10-21,Will they maintain the revenue trend this quarter,Neutral,0,0.9407481551170349,Main
+Yahoo,2024-10-21,I think we have found our bottom- time to add into the earnings call. GLTA,Neutral,0,0.999786913394928,Main
+Yahoo,2024-10-21,It feels like NVDA is sucking all of the oxygen out of the room.,Neutral,0,0.9908545017242432,Main
+Yahoo,2024-10-21,Multi holder holding NVDA. NVDA just broke through the $140 resist. Where does NVDA go to before earnings? Thanks for your comment.,Neutral,0,0.9997171759605408,Main
+Yahoo,2024-10-21,Just built position. Seems such a good opportunity to pass,Positive,1,0.9999614953994751,Main
+Yahoo,2024-10-21,This is starting to become a stock I hate to love. But I still believe.,Negative,-1,0.5854304432868958,Main
+Yahoo,2024-10-21,4 days on row go down 🫤 look no good 🤕,Neutral,0,0.5478813648223877,Main
+Yahoo,2024-10-21,"Wednesday&#39;s earnings report is going to set the trend for the next 6 months.  There is a lot of negative pressure already priced into ALL of the chip equipment stocks.  The next 6 months may not be great but I personally believe that we will start a new &#34;up cycle&#34; for chip equipment in the second half of 2025.  We are near the bottom of the cycle now, but it can remain here for a while longer.",Negative,-1,0.9998016953468323,Main
+Yahoo,2024-10-20,Should Google be broken up ?Dumps answer ....Mumbo Jumbo,Neutral,0,0.9896615743637085,Main
+Yahoo,2024-10-20,"Dumps brains decompose in real time...YMCA, YMCA",Neutral,0,0.9998658895492554,Main
+Yahoo,2024-10-19,WolfgangDB rage posting non stop. Major TDS tantrum. Lol.,Neutral,0,0.9998643398284912,Main
+Yahoo,2024-10-19,"We have about 95 hours+- till we find out if LRCX deserves to be thrown out with ASML or if the street overreacted?  Friday, they made a lower low, breaking through 73.43, ouch!!Come on Archer, put that $10B buy back to work and defend your 10/1 stock split, Remember company hasn&#39;t been able to buy anything during their lock up, but come Thursday they are free to start buying again.",Neutral,0,0.9997239708900452,Main
+Yahoo,2024-10-19,"Remember the Doors...this is the end..., Trump I want to ....you",Neutral,0,0.9991534948348999,Main
+Yahoo,2024-10-19,Anybody who suggests Ukraine started the war with Russia has more than a few bolts missing in the brain....something shorted out in the brain....supporting a war criminal like Putin makesme pGLORY TO UKRAINE...speaker Johnson is just another Putin rat,Neutral,0,0.9841548204421997,Main
+Yahoo,2024-10-19,DUMP  fan boy Kim sends troups to Russia,Neutral,0,0.999920129776001,Main
+Yahoo,2024-10-18,Compare this to Nancy Pelosi NVDA wheeling and dealing....,Neutral,0,0.9965004920959473,Main
+Yahoo,2024-10-18,Check out MTG buying points...ASML ...enterd end of June @ $1000 peak before july crash...than added @ 833 and crashed again....bought Costco....how much stuff does Costco import...60% on stuff from China...would be prime victim of tariffs....she must be following Cramer....absolutely clue less....MAGA ...Stupid is as stupid does..,Neutral,0,0.9994251728057861,Main
+Yahoo,2024-10-18,Closed under 73. No options manipulation at all. Lol.,Neutral,0,0.9999254941940308,Main
+Yahoo,2024-10-18,Problems could be ahead of TSM because of the government probe. Be carefully. Look for other opportunities like NVDA.,Negative,-1,0.9982858300209045,Main
+Yahoo,2024-10-18,bought 3 calls 75.50 on earning,Neutral,0,0.9999436140060425,Main
+Yahoo,2024-10-18,"How many times Lazerator do I have to tell you to move your funds from AMD to NVDA? NVDA’s 3rd quarter earnings will be good, but the 4th quarter estimates will knock it out of the park. Blackwell AI chips is shipping now and will have full impact to revenue in the 4th quarter. Buy on the rumor sell on the news. NVDA is sold out for the next 12 months. Take some of your AAOI and AMD profit to invest in NVDA.",Positive,1,0.999064028263092,Main
+Yahoo,2024-10-18,A lot in the money ASML calls will not expire worthless....and volume looks good....,Positive,1,0.9998795986175537,Main
+Yahoo,2024-10-18,Pure manipulation by MM before earnings next Wednesday.,Neutral,0,0.999976396560669,Main
+Yahoo,2024-10-18,This has been a serious correction for the equipment stocks!!!,Negative,-1,0.9993728995323181,Main
+Yahoo,2024-10-18,this thing moves slower than my grandma on bingo nights,Negative,-1,0.7118375301361084,Main
+Yahoo,2024-10-18,What’s wrong with this stock?,Negative,-1,0.9880980849266052,Main
+Yahoo,2024-10-18,min 80$ after earnings imho,Neutral,0,0.9999096393585205,Main
+Yahoo,2024-10-18,"&#34;Samsung pushes up the race&#34;....google this....2 days ago....Indeed Samsung Foundry plagued by instable yields, and lack of customer interest but they are pushing ahead....confirms my analysis",Negative,-1,0.9995369911193848,Main
+Yahoo,2024-10-18,"Ya gotta love this market, ASML who brought the sector to it&#39;s knees is screaming today...while we are barely holding",Positive,1,0.8682937026023865,Main
+Yahoo,2024-10-18,Got in,Neutral,0,0.9999591112136841,Main
+Yahoo,2024-10-18,Yes it did. I quit going to school early... I got a job working for your daddy at sweat shop .,Neutral,0,0.9978082776069641,Main
+Yahoo,2024-10-17,85$+ after earning 🤑🤑🤑,Neutral,0,0.9995243549346924,Main
+Yahoo,2024-10-17,"Just now on Mad Money, Jim Cramer said Lam Research is better than Applied Materials.",Positive,1,1.0,Main
+Yahoo,2024-10-17,Money is coming!,Neutral,0,0.9999772310256958,Main
+Yahoo,2024-10-17,There is no appetite for AMD at the moment. AVGO is a good option but after the upgrade it has had large gains. I still feel NVDA will hit $200 by eoy. JMHO,Positive,1,0.961138904094696,Main
+Yahoo,2024-10-17,"Weak capex from TSMC report. Also, the WSJ has called the end of the &#39;cycle&#39; for chip equipment. It is the standard article to write whenever there is a pullback in semi-equipment stocks. If you notice, they always write such articles after the drop, not before. They just react like a day trader having a bad day.",Negative,-1,0.9999974966049194,Main
+Yahoo,2024-10-17,"dont worry, y&#39;all , i bought at the bottom . 
+i hope",Neutral,0,0.9726614952087402,Main
+Yahoo,2024-10-17,I think ASML failed to update...the projections were made Nov 22 I believe.....cancellations just do not happen over night....lets hope Lam management was aware 6....3 months ago (they should have excellent insight how matters are progressing) and shortfall was reflected when providing outlook....,Positive,1,0.9985320568084717,Main
+Yahoo,2024-10-17,"Must admit , it feels great when fabulous companies are selling at attractive prices. 
+Will be volatile until earnings next week.
+Hope many of you have dry powder.In an overstretched market this looks juicy.",Negative,-1,0.9485782980918884,Main
+Yahoo,2024-10-17,"ASML CEO  &#34; Re logic, the competitive foundry dynamic have resulted in a slower ramp of certain new nodes at CERTAIN customers, leading to several fab push out and resulting changes in litho demand timing IN PARTICULAR EUV....&#34;that was Wednesday.....there 3 foundries that use EUV...TSMC. Samsung Foundry and Intel Foundry... The next day TSMC comes out with blowout earnings and outlook....so please explain to me why Samsung and /or Intel push out....makes no sense unless they can NOT produce N3 products like TSMC does...it is not a matter of overall demand, the matter is Samsung and Intel can not produce and they have to push out....comments very welcome",Negative,-1,0.9727029800415039,Main
+Yahoo,2024-10-17,"ASML
+LRCX
+always BUY BUY BUY &amp; HOLD forever",Positive,1,0.9999884366989136,Main
+Yahoo,2024-10-17,Folks moved your funds to NVDA until 2025. It at $140 headed to $200 by the eoy. Make money then reinvest in AMD. It’s not to late. I’ve tried to share this info earlier.,Neutral,0,0.9998626708984375,Main
+Yahoo,2024-10-17,"Lazerator, it will sell off after earnings. Look at NVDA’s last report. It went down &lt;$35&gt;. Now it’s back to an all time high. There is money to be made if you follow the pattern. AMD will be back in 2025. JMHO",Neutral,0,0.9670166373252869,Main
+Yahoo,2024-10-17,Please do remember that High Capacity Memory is NOT Lithography.  This happened last time ASML reported well before the split.   The thesis is still intact of many fabs upgrading to a new standard of high capacity memory for AI accelerators. Mid 2024 thru Mid 2025 is expected to be one of the strongest periods for LRCX far as I know.,Positive,1,0.9999985694885254,Main
+Yahoo,2024-10-17,TSM hikes revenue forecast. Earnings above expectations. The chip outlook is poised for long term gains. Stay long and prosper!,Positive,1,1.0,Main
+Yahoo,2024-10-17,Tsmc up 11% wow,Neutral,0,0.8661718964576721,Main
+Yahoo,2024-10-17,Heavy shorts carry from ASML!,Neutral,0,0.9686673879623413,Main
+Yahoo,2024-10-17,"As I said previously …. And this message is only for reputable companies.
+
+Buy the fear 
+Sell the greed",Neutral,0,0.9953131675720215,Main
+Yahoo,2024-10-17,wait til they report- we will be back to above $83-$85,Neutral,0,0.9977169036865234,Main
+Yahoo,2024-10-17,I&#39;m new in this stock.   I&#39;m surprised TSM&#39;s great quarter hasn&#39;t had more impact here.  Is this typical?   Thanks.  GLTA longs,Neutral,0,0.9299649000167847,Main
+Yahoo,2024-10-17,This baby will go back up after October.  Meanwhile accumulate if you have the money.,Neutral,0,0.9997251629829407,Main
+Yahoo,2024-10-17,Glad I sold at 81= -$9/ share = $72 / share now mius 10% market cap drop...,Neutral,0,0.9999029636383057,Main
+Yahoo,2024-10-16,It shouldn’t have split it,Neutral,0,0.9998424053192139,Main
+Yahoo,2024-10-16,What is going with this stock yesterday a big drop and today nasdaq was up and green even NVDA was up,Neutral,0,0.548683226108551,Main
+Yahoo,2024-10-16,They would not have split the stock if earnings were going to be weak. Expect blowout quarter,Negative,-1,0.9995879530906677,Main
+Yahoo,2024-10-16,I moved to NVDA. NVDA has increased by $19 over the past month. NVDA’s chips are sold out for the next 12 months. Wow! I can come back after earnings and pick up some cheap LRCX shares. I’ve learn to take profit and move dollars or you’ll get burned.,Neutral,0,0.9592174887657166,Main
+Yahoo,2024-10-16,somebody just threw in a 656K buy to set the floor,Neutral,0,0.9999544620513916,Main
+Yahoo,2024-10-16,Watch the 65 zone post ernie.   Going to be a difficult 90 days ahead. Casino bosses always in control.,Negative,-1,0.60542893409729,Main
+Yahoo,2024-10-16,Look at the way oversold con bots while ASML leads the pack south.  AMAT is the bloated hog with LRCX nearby.  Casino bosses short these outrageous prices.  Selling for the tax man.,Neutral,0,0.5243951082229614,Main
+Yahoo,2024-10-16,"I hate to say it, but the selling is relentless and looks like it will continue tomorrow as well.",Neutral,0,0.8758094310760498,Main
+Yahoo,2024-10-16,WAYYYY over SOLD!,Neutral,0,0.998200535774231,Main
+Yahoo,2024-10-16,"Gonna say that LRCX is a buy. I expect a favorable earnings report and October will be gone in two weeks. ASML is a screaming buy just because of the massive drops of last two days, which don’t make a lot of sense. Can’t make leading edge chips without ASML, or without LRCX for that matter.",Positive,1,1.0,Main
+Yahoo,2024-10-16,Great over reaction,Positive,1,0.9181990623474121,Main
+Yahoo,2024-10-16,This stock took a bath yesterday and appears to be circling the drain.,Negative,-1,0.9904807209968567,Main
+Yahoo,2024-10-16,"Chips glut coming, companies are not seeing material profits from AI. First quarter 2025 will be brutal for chip stocks including NVDA.",Negative,-1,0.9985242486000061,Main
+Yahoo,2024-10-16,buying into the close...,Neutral,0,0.9999762773513794,Main
+Yahoo,2024-10-16,"As I said yesterday… 
+Buy the fear
+Sell the greed",Neutral,0,0.9438599348068237,Main
+Yahoo,2024-10-16,this will go green today,Neutral,0,0.9998764991760254,Main
+Yahoo,2024-10-16,I wont be surprised if it trads 3 digit after earning like Micron. It is running completely difference business than asml,Neutral,0,0.8276340961456299,Main
+Yahoo,2024-10-16,"Still holding 2/3 the shares I had into the split. Lithography is not packaging and testing.  Apparently TSM, Samsung, Intel, Micron and Hynix think they need packaging and testing over more 3-5NM Fabs.",Neutral,0,0.999092698097229,Main
+Yahoo,2024-10-16,85+ after earning,Neutral,0,0.9995243549346924,Main
+Yahoo,2024-10-16,"Packaging and Testing are not Lithography. It&#39;s funny people forget Micron just reported expanding 3D NAND and High Capacity Memory production.  Each use far lower end lithography but still require packaging and testing.  Some people leading indicators of who should be in school, not playing on the internet with big boys.   Boo Hoo. Sounds like a buy signal on LRCX, NVDA, TSM, AMD, AMAT and other AI related plays to me.  Just like it was last quarter.",Positive,1,0.9795569181442261,Main
+Yahoo,2024-10-16,"Can anyone let me know what the post stock split price was for Lam Research from a few weeks ago ? I’m pretty sure today’s closing price is lower? Just trying to figure out a fair entry price, Thanks in advance!",Neutral,0,0.9994284510612488,Main
+Yahoo,2024-10-15,"If ASML is a leading indicator, LRCX could easily fall to the $65 to $70 range on earnings &amp; guidance. We got half the downside today. Now its about waiting for the second shoe to drop when earnings &amp; guidance come out on Oct 23. Like ASML, LRCX could also shave their future order book by 50%.",Negative,-1,0.9999942779541016,Main
+Yahoo,2024-10-15,LRCX -$18.26 Ouch. You are hard of hearing. AMD 5 days of pain. &lt;$16.16&gt;. Ouch Now look at NVDA -1.29. NVDA could be at $200.00 by eoy.,Neutral,0,0.9999837875366211,Main
+Yahoo,2024-10-15,I will load in a day or two when the dust settles,Neutral,0,0.9999874830245972,Main
+Yahoo,2024-10-15,"hey, nice haircut 🐷.",Positive,1,0.9999769926071167,Main
+Yahoo,2024-10-15,sharks are feasting ... they have no idea what market they cater to.,Neutral,0,0.9993752837181091,Main
+Yahoo,2024-10-15,These traders are just too much - a minor (if any) loss of business with the China decision warrants a 10% waterfall - Sure!!,Negative,-1,0.9904398918151855,Main
+Yahoo,2024-10-15,"What a nice sale on lam today, think ill get more while its on sale !",Neutral,0,0.9950843453407288,Main
+Yahoo,2024-10-15,"The lowest analyst target on LRCX is $75/share. We&#39;re almost there. Hopefully, expectations are now low enough for LRCX to not suffer the same fate as ASML today.",Negative,-1,0.9999555349349976,Main
+Yahoo,2024-10-15,"with bad news from ASML , this is going to below $40.OO",Negative,-1,0.9999995231628418,Main
+Yahoo,2024-10-15,BUY BUY BUY,Positive,1,0.9999998807907104,Main
+Yahoo,2024-10-15,What happened here,Negative,-1,0.9078433513641357,Main
+Yahoo,2024-10-15,"Buy the fear 
+Sell the greed",Positive,1,0.9918368458747864,Main
+Yahoo,2024-10-15,here comes the buying...,Neutral,0,0.9992584586143494,Main
+Yahoo,2024-10-15,Do you think we will see some buying at the close?,Neutral,0,0.9955761432647705,Main
+Yahoo,2024-10-15,Now What !!!!!,Neutral,0,0.9994136095046997,Main
+Yahoo,2024-10-15,"overhyped, overvalued, overpriced, overbought.Chip-Gear Giant ASML Crashes On Q3 Report, Pulls Down Nvidia, Other Stocks",Negative,-1,0.9638557434082031,Main
+Yahoo,2024-10-15,I looked back ...July net bookings were $5.6 billion.....mid July started tanking.....we have rate cut &amp; soft landing....October net bookings $2.6 billion....so why are customer cautious ....think,Negative,-1,0.9982566237449646,Main
+Yahoo,2024-10-15,ASML numbers were not bad and Q4 looks good.,Positive,1,0.9999969005584717,Main
+Yahoo,2024-10-15,Bloomberg &#34;recycles&#34; news....last time they did it one day before TSMC ....this time 2 days....NO coincidence,Neutral,0,0.9999945163726807,Main
+Yahoo,2024-10-15,If it drops more under 79- It&#39;s a steal.,Neutral,0,0.5607004761695862,Main
+Yahoo,2024-10-15,"Nothing new on restrictions, nothing new on earnings outlook, nothing new on AI outlook. Same old Blackrock manipulation!",Neutral,0,0.9976048469543457,Main
+Yahoo,2024-10-15,added at 79.80,Neutral,0,0.9999535083770752,Main
+Yahoo,2024-10-15,Why,Positive,1,0.9226377010345459,Main
+Yahoo,2024-10-15,This is one screwy market...,Neutral,0,0.9998766183853149,Main
+Yahoo,2024-10-14,good to go!,Neutral,0,0.6118099093437195,Main
+Yahoo,2024-10-14,Anyone here like NVDA?,Neutral,0,0.9997193217277527,Main
+Yahoo,2024-10-14,Isn&#39;t Lam like $854 not $85.40? Did it split recently?,Neutral,0,0.9997366070747375,Main
+Yahoo,2024-10-14,Hopefully goes back to $90. Been ignored for too long.,Negative,-1,0.9393690824508667,Main
+Yahoo,2024-10-11,Pure manipulation today!,Neutral,0,0.9867540001869202,Main
+Yahoo,2024-10-11,dont let this community shake you down on ur trades,Neutral,0,0.9976202845573425,Main
+Yahoo,2024-10-10,So far Sox holding this week!!,Neutral,0,0.9999462366104126,Main
+Yahoo,2024-10-09,Don&#39;t forget to lock some profits and sell when its up. Usually it goes up 1-2 days and then down for next 15,Neutral,0,0.7896198630332947,Main
+Yahoo,2024-10-09,"Finally, the market realizes that this one is undervalued.",Positive,1,0.9997724890708923,Main
+Yahoo,2024-10-09,Boom 💥 shakalakala!!,Neutral,0,0.9841511249542236,Main
+Yahoo,2024-10-09,That TSMC revenue beat &#34;should&#34; provide a boost to the chip equipment stocks.,Positive,1,1.0,Main
+Yahoo,2024-10-08,What is wrong with this stock,Negative,-1,0.9936255216598511,Main
+Yahoo,2024-10-08,this will be coming out of it&#39;s slumber shortly...,Neutral,0,0.9999953508377075,Main
+Yahoo,2024-10-08,good times are over for LRCX.....sell while you can and thank me later....,Neutral,0,0.7220875024795532,Main
+Yahoo,2024-10-08,Did anybody notice discrepancy between Thinkorswimm and Schwab on Cost Basis and Profit/Loss for this stock after the split.?If so then report. It may have a big impact on your trading profit/loss,Neutral,0,0.579595148563385,Main
+Yahoo,2024-10-08,I love this stock.,Positive,1,0.6294535398483276,Main
+Yahoo,2024-10-08,Every single time when MU is down this stock acts very poorly!!!,Negative,-1,0.9798861145973206,Main
+Yahoo,2024-10-08,It has been a dead stock for the last couple of months!!!,Negative,-1,0.9987678527832031,Main
+Yahoo,2024-10-07,Should have split 3-1 at most.,Neutral,0,0.9999926090240479,Main
+Yahoo,2024-10-07,nvda is looking for breaking out! Booming AI is so obvious. LRCX has huge AI parts. Buy and hold!!!,Positive,1,0.9999971389770508,Main
+Yahoo,2024-10-07,Buy and hold.,Positive,1,0.999976396560669,Main
+Yahoo,2024-10-06,Buying oppertunity with a greating earning potential under a booming AI!!!,Positive,1,0.999997615814209,Main
+Yahoo,2024-10-04,Cramer just said BUY BUY BUY so you should SELL SELL SELL,Positive,1,0.9977931976318359,Main
+Yahoo,2024-10-04,Wow. Down HUGE. What in the world happened? Bankruptcy? I&#39;ll have to look into this.,Negative,-1,0.7906919121742249,Main
+Yahoo,2024-10-04,"Since mid-July, LRCX has found no love. Hopefully, earnings &amp; guidance on Oct 23 will provide some relief.",Negative,-1,0.9988399147987366,Main
+Yahoo,2024-10-04,$95 after earnings,Neutral,0,0.9999029636383057,Main
+Yahoo,2024-10-04,Looking at relative weakness for no reason I wonder the clowns who bought because of split are already jumping ship...vol so low...,Negative,-1,0.99498450756073,Main
+Yahoo,2024-10-04,If US company that makes appliances needs 100% tariff to be competitive....they are only &#34;competitive &#34; within US....nobody outside US will buy the stuff and the US market is small compared to global economy,Neutral,0,0.9994496703147888,Main
+Yahoo,2024-10-04,20 % tariffs on all imports regardless from where it comes from....Harbor Freight sells all kinds of tools made in China....100% tariffs ....NOT even with tariffs a US company could not compete...let this in...how much stuff needs to be imported to rebuild from Helene ?,Neutral,0,0.9952633380889893,Main
+Yahoo,2024-10-04,This stock has been frustrating to hold since July. But it’s a key player in the chip business. So I hold!,Negative,-1,0.9999488592147827,Main
+Yahoo,2024-10-04,"New investor here. Loving the stock price and dividend.
+
+Long term holder as well. I’ll be looking to add around $78 a share.",Neutral,0,0.9997554421424866,Main
+Yahoo,2024-10-04,"These four companies recently had forward splits: NVDA, Super Micro. LAM Reseach, and Broadcom. 
+Question/Poll: Which will hit $500 first?",Neutral,0,0.9992462396621704,Main
+Yahoo,2024-10-04,"the split in lrcx showed up in my online account. Glad to have it. this stock was a no brainer for several years now; don&#39;t trade it, hold it.",Neutral,0,0.9993865489959717,Main
+Yahoo,2024-10-03,"Yes, a buying opportunity is now.
+It is a good time to start suppliment LRCX",Positive,1,0.9990288019180298,Main
+Yahoo,2024-10-03,Closing dump lined up!,Neutral,0,0.9999698400497437,Main
+Yahoo,2024-10-03,is the dividend on this now at 23 cents?,Neutral,0,0.9999392032623291,Main
+Yahoo,2024-10-03,All recent splits have suffered a decline. Will buy back next week.,Negative,-1,0.9922749400138855,Main
+Yahoo,2024-10-03,"I dont know about the rest of you, but buying LRCX at 7 bucks cost basis makes me feel a little smarter than buying it at 70 bucks …………..🤡🤑🤣",Neutral,0,0.72776198387146,Main
+Yahoo,2024-10-03,"I missed it yesterday but glad I did, I figured it would pullback and it has just like most of the other companies that recently split, time to buy it now as i believe in the company, gla have a great dayd",Positive,1,0.9999760389328003,Main
+Yahoo,2024-10-03,I always wanted a hundred shares of LRCX. Now I have them!!!,Neutral,0,0.9998939037322998,Main
+Yahoo,2024-10-03,I hope we get a bounce off of this stock split but market looks grim after unemployment data,Neutral,0,0.6228865385055542,Main
+Yahoo,2024-10-03,Buying LRCX on split market opening tomorrow for a long hold with dividend payments.💰😳💰,Neutral,0,0.9787899851799011,Main
+Yahoo,2024-10-02,"Earnings $2.90/sh post-split: That’s not much since there aren’t many shares pre-split. This is troubling,  no?",Neutral,0,0.993101954460144,Main
+Yahoo,2024-10-02,Split today,Neutral,0,0.9999545812606812,Main
+Yahoo,2024-10-02,MM in control,Neutral,0,0.9996799230575562,Main
+Yahoo,2024-10-02,Wasn’t even mentioned much today! Great company get the split and watch it grow,Neutral,0,0.5405554175376892,Main
+Yahoo,2024-10-02,"gonna buy post split, i missed it 😔",Neutral,0,0.6537742614746094,Main
+Yahoo,2024-10-02,"how funny, market maker likes 800 at the open as a round number post split-however the day is shaping up nicely",Positive,1,0.9999998807907104,Main
+Yahoo,2024-10-01,Wait some extra volatility after split!... a lot of small investors are going to be able to buy (not invest neccesarily).. Be ready for an bumpy road ahead.,Neutral,0,0.9900655746459961,Main
+Yahoo,2024-10-01,split Wednesday after the close,Neutral,0,0.9999371767044067,Main
+Yahoo,2024-10-01,"Thank Cramer, claims this is the best in its group.",Positive,1,0.9999992847442627,Main
+Yahoo,2024-10-01,"Just started a position today, is this splitting soon? I am reading the board and people implying a split is coming. Not that it matters but just curious.",Neutral,0,0.9531656503677368,Main
+Yahoo,2024-10-01,17% short holyballs,Neutral,0,0.9989068508148193,Main
+Yahoo,2024-10-01,September 2020. combined with October 2020 was flat....November 2020 slightly up and December 2020 up....equipment stocks peaked about 2 weeks after Dump Biden debate and than started to dive....the contrast between both election years can not be more stark,Neutral,0,0.9964269995689392,Main
+Yahoo,2024-10-01,Global 300mm wafer fab equipment projected to grow to $ 400 billion from 2025 to 2027 ...record...SEMI....I believe 4 years ago stocks rallied into elections....market pricing in Dump,Positive,1,0.6447180509567261,Main
+Yahoo,2024-10-01,"this is insane- they have a great balance sheet and great guidance, this should be like a rock in these times.",Positive,1,1.0,Main
+Yahoo,2024-10-01,10:1 split is Oct 2nd,Neutral,0,0.9999990463256836,Main
+Yahoo,2024-10-01,when LRCX ??? slit,Neutral,0,0.9996997117996216,Main
+Yahoo,2024-09-30,"Micron delivered a &#34; miracle&#34;...now ...110 to 103...in two trading days...I thought they were sold out through 2025....maybe they will not...there wil be retaliation with regards to tariffs...an already huge burocracy will only increase to support farmers, ranchers and fishermen and who knows else ....they all will be subsidized by US consumers that pay tarifs....John Hyatt...who  are those guys breaking  a perfect good guitar....",Neutral,0,0.9979523420333862,Main
+Yahoo,2024-09-30,Dividend payout tomorrow! 10:1 split day after tomorrow! LRCX long term is a no brainer. Stay long and prosper.,Neutral,0,0.9999892711639404,Main
+Yahoo,2024-09-30,Just awful performance for the last few months!!!!,Negative,-1,0.7664429545402527,Main
+Yahoo,2024-09-30,What? HOW?? WHY??,Neutral,0,0.49396583437919617,Main
+Yahoo,2024-09-30,TDK Corp announced a 5:1 Friday if you&#39;re interested in a split play.,Neutral,0,0.9999954700469971,Main
+Yahoo,2024-09-27,Next generation NAND that is required to support AI also kicking in next year..which favors LRCX overproportionally but for now 10 steps forward and 9 backwards....there seems to be a pattern ...I do not like it but it is what it is,Neutral,0,0.9779695272445679,Main
+Yahoo,2024-09-27,Micron expect HBM to go from $4 billion in 23 to grow to $25 billion in 2025.....stock opens North of 850 a and than dives 30 bucks....what is going on?what does this tell you....?,Positive,1,0.9635492563247681,Main
+Yahoo,2024-09-27,Sharp drop ...July  to August...now sideways...no (upside) trend until  elections...just reminder....the day before TSMC earnings Bloomberg recycled an old Dump interview that bashed TSMC...a reminder to the market Dump is unpredictable,Negative,-1,0.9997233748435974,Main
+Yahoo,2024-09-27,"I bought some shares today,",Neutral,0,0.9995504021644592,Main
+Yahoo,2024-09-27,This is the last chance to buy at these prices. It better not come to 80&#39;s after split.,Neutral,0,0.9305281639099121,Main
+Yahoo,2024-09-26,A great company! Expect more upside recovery since a great earning report in Q2.,Positive,1,1.0,Main
+Yahoo,2024-09-26,Geezer!  Confidence Man.,Neutral,0,0.9980524778366089,Main
+Yahoo,2024-09-26,$860.00 close...alot of buying into the close.,Neutral,0,0.9999929666519165,Main
+Yahoo,2024-09-26,tanking,Neutral,0,0.9995958209037781,Main
+Yahoo,2024-09-26,lets run bulls. this is the stock to own! with stock split coming I expect more people to be buying in as well,Neutral,0,0.9991840720176697,Main
+Yahoo,2024-09-26,"LRCX is a strong buy IMHO! Next earnings call will clear up the 12 month outlook. If we get a rebound to just the average valuation from the past year of 27X forward earnings, we&#39;re looking at a price target for next year of $1,231. That would be $45.60 in EPS times 27. If we get a return to 33X forward earnings, we&#39;re looking at $1,500. Point being, unless Lam&#39;s estimates completely fall apart, the odds are quite good we see Lam much higher into year-end and into 2025. Stay long and prosper!",Positive,1,1.0,Main
+Yahoo,2024-09-26,Christmas came early!,Neutral,0,0.999744713306427,Main
+Yahoo,2024-09-25,QQQ has increased NVDA holding from 5% to 7%. Someone new semi is going to fly again.,Positive,1,0.9895636439323425,Main
+Yahoo,2024-09-25,"at 830 it crossed 50 day mva.
+
+Last chance to book your ride.",Neutral,0,0.9999880790710449,Main
+Yahoo,2024-09-25,Based on what MU is saying LRCX&#39;s  DRAM business has to be soaring.  Also good for AMAT and KLAC.,Positive,1,0.9999997615814209,Main
+Yahoo,2024-09-25,Micron can’t make chip w/o Lam Research. Go LRCX,Neutral,0,0.9999366998672485,Main
+Yahoo,2024-09-25,Hey ....MU followed through....HBM bonanza for LRCX ...just fire Dump,Neutral,0,0.9698418378829956,Main
+Yahoo,2024-09-25,US farmers first to hold the bag....just learned today top notch restaurants in Germany offer USDA PRIME  ....you think EU will not respond,Neutral,0,0.9912664294242859,Main
+Yahoo,2024-09-25,HVAC combined with huge duct system for air handlers,Neutral,0,0.999991774559021,Main
+Yahoo,2024-09-25,"Yesterday I watched a TV clip....high paid Union workers ....pipe makers, HAC that directly benfit from CHIPS / Intel fab in Ohio....and  some still vote for Dump....me thinks your brain becomes mashed potatoes when watching too much FOX....remember Foxcon plant in Wisconin....another Dump scam",Neutral,0,0.9986706972122192,Main
+Yahoo,2024-09-25,Micron reports today....everybody knows MU is US company located in Boise....but MU is planning a new 1n fab in Japan equipped with EUV....chips made in Japan would be subject to tarifs ...so memory chips made in Korea or US designed chips made by Taiwan....can you imagine the disruption from tariffs would have on a GLOBAL semiconductor industry...I am not kidding with kissing Off LRCX et al....Dump and Navarro ...the architect of tarifs ....are not sane....they are old and they do not understand the world is not flat....was never flat....and will not become flat...no matter how much MAGA whines,Neutral,0,0.9983977675437927,Main
+Yahoo,2024-09-25,"Geezer can not stop talking @ tarifs ....even with 100% tarif on made in china sold by harbor freight it is 1/5 compared to Snap on tools made US....the only difference US consumers pay twice as much....same with home depot, Loewe, than he will start tinkering with interst rate ...by end of his term economies will be  in ashes...you can kiss off LRCX, AMAT",Neutral,0,0.9999858140945435,Main
+Yahoo,2024-09-25,Finally moving in the right direction again.,Neutral,0,0.861575186252594,Main
+Yahoo,2024-09-25,gates are open....900 soon,Neutral,0,0.9999969005584717,Main
+Yahoo,2024-09-25,looking strong...,Positive,1,0.9999998807907104,Main
+Yahoo,2024-09-25,"Become a man and vote for a woman.TSMC getting closer to 12 months high....crazy uncle propossing 200,% tariffs on Deere tractors made in Mexico",Neutral,0,0.6985456347465515,Main
+Yahoo,2024-09-24,Stockinvest.com today posted a 90% probability of 30% drop in price in the next 90 days!!Only Blackrock manipulation could possibly do that.,Neutral,0,0.7695237398147583,Main
+Yahoo,2024-09-24,come on let&#39;s go,Neutral,0,0.9996656179428101,Main
+Yahoo,2024-09-23,Can SOX hold ?,Negative,-1,0.542658269405365,Main
+Yahoo,2024-09-23,chart looks good today...790 plus... getting there.,Positive,1,0.9999997615814209,Main
+Yahoo,2024-09-21,"Cramer is the kiss of death. It worries me that he is constantly commenting on this great company. However, I am still bullish and expect $850+ pre split.",Positive,1,0.9998379945755005,Main
+Yahoo,2024-09-20,"Buy 10 at $750, 10 at $730, 20 at $720.Sell 10 at $770, 10 at $780, 20 at $800.The option players will play their game, play your own game.",Neutral,0,0.9999898672103882,Main
+Yahoo,2024-09-20,This China story is getting tiring. One day up big and then the next day down big and they come up with all kind of excuses to knock it down . If it’s not China is something else.,Neutral,0,0.7635090947151184,Main
+Yahoo,2024-09-20,Look @ correlation ASML downgrade  and  830 calls....shameless,Neutral,0,0.9998050332069397,Main
+Yahoo,2024-09-20,Avanced litho requires multiple exposures and accordig to Dtimes China homegrown litho can not print 28nm and smaller. ASML got down graded By MS....MS took aposition in DJT in Q1.....no joke,Neutral,0,0.9955706000328064,Main
+Yahoo,2024-09-20,Down over 400 since July,Negative,-1,0.9473614692687988,Main
+Yahoo,2024-09-20,When is this story with China finally going to conclude dragging this down- we already have the guidance from the CFO on the business and a forward next year update.,Neutral,0,0.9795767068862915,Main
+Yahoo,2024-09-19,This is looking juicy in premarket...,Neutral,0,0.9999797344207764,Main
+Yahoo,2024-09-18,"Is there really anyone who doesn&#39;t want to own a portfolio of LRCX, NVDA, TSMC, ASML, AVGO for the next 10 years?",Neutral,0,0.9999366998672485,Main
+Yahoo,2024-09-18,"Powell is the best fed chair and answers questions thoroughly. We have an inferno brewing in the Middle East. That is the wild card right now. Ignoring the potential negatives from that conflict, we are on a perfect trajectory for steady growth with low inflation. Another looming factor is the increased value of the Japanese yen against the dollar. I am pleasantly surprised that Powell cut the full half point. The build out on chips will benefit. Lam and Micron are must own long stocks. The initial reaction lower should reverse tomorrow IMHO. Labor will see pressure from AI efficiency gains but I believe lower rates will stabilize the economy and it will be a long glide path with a Goldilocks effect the entire way. I bought the dip and will hold long without loss of sleep.",Positive,1,0.9998822212219238,Main
+Yahoo,2024-09-18,"Where’s the forward stock split, 😅. Margins are “wafer” thin? Was $730 the bottom, appears to be.",Neutral,0,0.6185513734817505,Main
+Yahoo,2024-09-18,Hello Bears.-- The LRCX Longs.,Neutral,0,0.9943335056304932,Main
+Yahoo,2024-09-17,"So Cramer says downside $50, upside $200. Guy is nuts ! I think $200 down from here. This is a cyclical business.",Neutral,0,0.5103774666786194,Main
+Yahoo,2024-09-17,Todays citi downgrade did not offer anything new of substance....less than a week ago LRCX said that DRAM equipment sales to China will decline...however Tim Archer did NOT decrease the projections for the overall ww chip equipment outlook...and at this time he was also aware of INTC cuts,Negative,-1,0.8786171078681946,Main
+Yahoo,2024-09-16,This stock does not look good just for today but for the last two months!!!!,Negative,-1,0.9982563853263855,Main
+Yahoo,2024-09-16,Is today the last day to buy this stock to be able to partake in the upcoming 10 for 1 split?,Neutral,0,0.9946485161781311,Main
+Yahoo,2024-09-16,Every day there is always something  to bring this down,Neutral,0,0.8771647214889526,Main
+Yahoo,2024-09-15,How on earth is this company negative YTD?,Negative,-1,0.9978370070457458,Main
+Yahoo,2024-09-13,why do people short good growth companies 🤔,Neutral,0,0.9484219551086426,Main
+Yahoo,2024-09-13,Oracle has given back almost all of its gains from up 10 to up 2.Ai darling Adobe warned huge falling 55 points.Nvidia is red.Pump and dump likely today.,Negative,-1,0.9999786615371704,Main
+Yahoo,2024-09-13,Happy Friday 13th.,Neutral,0,0.999925971031189,Main
+Yahoo,2024-09-13,Any one short here?,Neutral,0,0.9986428618431091,Main
+Yahoo,2024-09-13,i added some shares yesterday.......LOL,Neutral,0,0.9998836517333984,Main
+Yahoo,2024-09-13,Shorties better cover,Positive,1,0.9977763295173645,Main
+Yahoo,2024-09-13,"Perfect opportunity to buy!
+NOW.",Positive,1,0.9999167919158936,Main
+Yahoo,2024-09-13,Chris Cross will make you jump.,Neutral,0,0.999538779258728,Main
+Yahoo,2024-09-12,Hammer time…,Neutral,0,0.9985443353652954,Main
+Yahoo,2024-09-12,what will tomorrow  bring,Neutral,0,0.999657392501831,Main
+Yahoo,2024-09-12,added at 746...,Neutral,0,0.999924898147583,Main
+Yahoo,2024-09-12,Micron tumbling on double downgrade.,Negative,-1,0.9992365837097168,Main
+Yahoo,2024-09-12,If you are seriously lt invested in LRCX long term check out the job openings ... you can learn a lot....low hanging fruit,Neutral,0,0.9661194086074829,Main
+Yahoo,2024-09-11,ASML I read some stats about NA EUV....weight of two airbus 320....it takes 250 engineers  6 months to install and they are working on next gen twice the price,Neutral,0,0.9999921321868896,Main
+Yahoo,2024-09-11,"ok I&#39;ll go out on a limb here and say the volume today suggests solid support at 735-40 and that area would be the optimal buy range tomorrow. I am not saying a limit buy there will fill but it could. Barring catastrophic events, the upcoming split is likely to solidify support above that range soon. It is still early but shorts will be pressed to cover. If so the chart will tell the tale and resistance looks like $800ish for now IMHO. Resistance will likely become support in days ahead. I think we see better than $850 pre split but what do I know?",Positive,1,0.9999063014984131,Main
+Yahoo,2024-09-11,shorts are getting drilled as 716 was the bottom. This will follow AVGO...,Neutral,0,0.9999951124191284,Main
+Yahoo,2024-09-11,Looks like afterall TSMC  Q3 sales results  were well received.....,Positive,1,0.9999998807907104,Main
+Yahoo,2024-09-11,Great update....China is NOT going away...lots of 28nm....Analog... looks like &#34;Supercycle&#34;.....spent 15 minutes about China...export restrictions &#34;backed in&#34;...using AI for process develpment...told Jensen...the NVDA guy....you need equipment to make GPUs...get tarifs out of the way and it will fly...Jensen upbeat,Neutral,0,0.9989142417907715,Main
+Yahoo,2024-09-11,"Told Wolfgangjb yesterday, this was going up. Silly Shorts are always reaching for straws. that is why we call them short. 😜",Neutral,0,0.9988669157028198,Main
+Yahoo,2024-09-11,"possible accumulation again this morning. Eventually, the support will be set. Question is the number.",Neutral,0,0.998586893081665,Main
+Yahoo,2024-09-11,"Nov 20 2023- July 1 2024......31 weeks to go from $717 to $1090 (50% return). Then in 9 weeks it gave it all back (July 10- Sept 10, $1090 ---&gt; $725). That&#39;s your staircase up elevator down scenario. The trend is your friend.",Neutral,0,0.9998606443405151,Main
+Yahoo,2024-09-10,TSMC pulls in delivery of ASML most advanced NA EUV.....$290 to 363 millions....TSMC must like it..  ASML up $ 1.56.....what do you think ?,Neutral,0,0.9989525079727173,Main
+Yahoo,2024-09-10,"Is Cramer helping or hurting by saying Lam is oversold? Inverse Cramer aside, IMO he&#39;s right and a rebound is inevitable.",Negative,-1,0.9989976286888123,Main
+Yahoo,2024-09-10,Wolfgangjb,Neutral,0,0.9988788962364197,Main
+Yahoo,2024-09-10,"NVDA Long since this time last year, got into AVGO on the earnings drop, and have been trading into this after last earnings call.  Establishing a nice LRCX position at these prices. The AI  Wave is not losing steam despite a lapse in semi sentiment on Wall Street, at the same time --  legacy semi&#39;s have likely bottomed.  This is a secular trade with a nice cyclical catalyst into rate cuts.  I really like semis in this macro environment.",Positive,1,0.9999942779541016,Main
+Yahoo,2024-09-10,This is like free money over the next 6-8 months according to last guidance.  Nothing I have seen has changed that.,Neutral,0,0.9891056418418884,Main
+Yahoo,2024-09-10,this is going to be the same ride as AVGO. Shorts are at the end of the rope.,Neutral,0,0.9999874830245972,Main
+Yahoo,2024-09-10,"adding more at 700, but kinda running out of cash here",Neutral,0,0.99992835521698,Main
+Yahoo,2024-09-10,10% tarifs on all imports....so in case TSMC in AZ imports litho from NL they are subject tarifs.....who says this is NOT the case....Trump and MAGA on the way to commit economical suicide....LRCX equipment made in Malaysia....subject to tarifs?Micron memory chip made in Japan subject to tarifs ?,Neutral,0,0.9999687671661377,Main
+Yahoo,2024-09-10,All the 2024 gain is wiped out. We are back to December 2023 price. Just amazing how fast this happened!!!!,Neutral,0,0.8793935179710388,Main
+Yahoo,2024-09-10,I really want to understand what in the world is going on here? Is this caused by Mu and Intc being weak!!,Negative,-1,0.9994755387306213,Main
+Yahoo,2024-09-09,why is smci up 23 dollars   this stock  nothing.  can someone  explain,Neutral,0,0.9991244673728943,Main
+Yahoo,2024-09-09,It&#39;s garbage. Get out!,Neutral,0,0.9993245601654053,Main
+Yahoo,2024-09-09,Hard to believe that this stock is down 35% from July 10 and YTD is flat (0%).  Really sad.,Negative,-1,0.9999501705169678,Main
+Yahoo,2024-09-09,This stock should be +800 per share. Total manipulation from MMs.,Neutral,0,0.999985933303833,Main
+Yahoo,2024-09-09,How is this so weak!!!!!,Negative,-1,0.9935711622238159,Main
+Yahoo,2024-09-09,TSMC will report monthly sales for september which concludes Q3 sales....I expect strong number ....a year ago it could have been a strong upside catalyst.. very doubtfull this year....the market got spooked by uncertainty...8 % of CA agriculture goes to China....no matter from what angle you look....tarifs are a loss loss...,Positive,1,0.9999977350234985,Main
+Yahoo,2024-09-08,No it is Malaysia....next door,Neutral,0,0.999908447265625,Main
+Yahoo,2024-09-08,"I compared LRCX to KLAC. Without an understanding for future product potential, KLAC needs to drop quite a bit more to compare with the value LRCX looks like today. ASML was gaining while Lam dropped but is now dropping hard. I&#39;d like  informed investors to discuss buy targets on these 3 companies. As it stands I am continuing to add LRCX on any price weakness.",Positive,1,0.9926773309707642,Main
+Yahoo,2024-09-07,"Chris2 minutes agoHere is a rundown of policy differences. This is not an endorsement.Mr. Trump recently stated that he supports reducing the top corporate income tax bracketfrom 21% to 15% in order to help companies like LRCX to compete strongly against foreigncompetitors. 7 years ago, Mr. Trump spearheaded reducing the rate from 35% to 21%.Ms. Harris proposes increasing the top corporate rate from 21% to 28%, a 25% increase inincome tax LRCX would have to pay instead of investing in it&#39;s growth.Mr. Trump wants to maintain the current long-term capital gains tax on sales of LRCX stockat 15% and 20% for higher earners.Ms. Harris proposes taxing capital gains taxes as ordinary earnings. So an investor in the 28% marginal income tax bracket would see in increase in capital gains taxes on LRCX stock sales from 15% to 28%, almost doubling the tax owed. Ms. Harris also proposes, with Mr. Biden,to impose the tax on &#34;unrealized&#34; gains, on LRCX stock that an investor owns but has not yetsold. The unrealized gain tax would be imposed on higher earners.Mr. Trump lowered personal income tax brackets across the board in 2017. Those reductions will &#34;sunset&#34; (end) in 2025 if they are not renewed. Mr. Trump wants to renew them. Ms. Harris avoids the subject, but Mr. Biden has expressed disdain for the 2017 reductions. The increased standard deduction would also sunset. If the brackets sunset and increase to the pre-2017 levels, so too would the cap-gains tax with Harris&#39;s proposal.",Neutral,0,0.9740245342254639,Main
+Yahoo,2024-09-07,OK.......$731 is close enough.  I&#39;m in for 50 shares.,Neutral,0,0.9999933242797852,Main
+Yahoo,2024-09-06,"It will get harder to find reasons to panic sell stocks next week. Also, will probably start getting some wise bargain hunters stepping in that have been sitting back and watching all this with a smile.",Neutral,0,0.5588613748550415,Main
+Yahoo,2024-09-06,Only up five percent for the year,Negative,-1,0.9945496916770935,Main
+Yahoo,2024-09-06,If you don’t buy this at this lower price then you are not allowed to trade,Neutral,0,0.9982216954231262,Main
+Yahoo,2024-09-06,Buying more,Neutral,0,0.9950207471847534,Main
+Yahoo,2024-09-06,Do anyone want to share how much down on this one? 5% down.,Neutral,0,0.9807027578353882,Main
+Yahoo,2024-09-06,This is back to the price beginning of January 1. Alot of stocks are following this path.,Neutral,0,0.9999986886978149,Main
+Yahoo,2024-09-06,Does anybody believe tarifs would stimulate a slowing economy ? If yes your head needs to examinated,Negative,-1,0.6711280345916748,Main
+Yahoo,2024-09-06,any predictions on the bottom here,Neutral,0,0.958274781703949,Main
+Yahoo,2024-09-06,Bacon and energy....he is  going down  to hell into a bucket but GOP  enjoys the ride ...he can not answer one question coherently..,Neutral,0,0.9915081262588501,Main
+Yahoo,2024-09-05,cmon man....,Neutral,0,0.9903985261917114,Main
+Yahoo,2024-09-05,TSMC maintains full utiliztion @ 3nm and will exceed  projections in October 3rd quarter...,Positive,1,0.9999990463256836,Main
+Yahoo,2024-09-05,"The term &#39;AI&#39; as some new technology is wrong and has people confused IMO. Computer technology handling complicated, redundant tasks and making decisions has been around as long as computers and the term AI has also been around a long time. There is no question of whether AI is staying or going. It always has been and always will be for the foreseeable future. The difference is the proliferation of much better chips that allow what used to be only dreamed of.",Neutral,0,0.9694799184799194,Main
+Yahoo,2024-09-04,"Analysts are speculating on the return of AI. IMHO they are clueless.The future is quantum computing and AI, coming sooner than anticipated. We haven’t seen anything yet! The Semi world is poised for huge gains.",Positive,1,0.9999998807907104,Main
+Yahoo,2024-09-04,Incompetent analysts over reacting to nvda anti trust probe. LRCX fundamentals are well positioned for future growth. Stay long and prosper.,Positive,1,1.0,Main
+Yahoo,2024-09-04,LRCX story is intact. Buy.,Positive,1,1.0,Main
+Yahoo,2024-09-04,Got it!!!,Neutral,0,0.9977403879165649,Main
+Yahoo,2024-09-04,Put limit order in for 750,Neutral,0,0.9998520612716675,Main
+Yahoo,2024-09-04,Time to get in especially with 10:1 split next month fundamentals have not changed,Neutral,0,0.7495266795158386,Main
+Yahoo,2024-09-04,Big double bottom on the monthly.,Positive,1,0.7669476270675659,Main
+Yahoo,2024-09-03,"OK , I&#39;m starting to get interested.  If we see $750 tomorrow ...........I&#39;m in.",Neutral,0,0.9999165534973145,Main
+Yahoo,2024-09-03,September has historically been a month of selloff.,Neutral,0,0.9945476651191711,Main
+Yahoo,2024-09-03,"I wish, it will stay at $766 until 10:1 splitting day.  A lot of buyers will buy at $76/share",Neutral,0,0.9998890161514282,Main
+Yahoo,2024-09-03,"Wow at one point this was up 40% on the year now, it’s down 2%…life happens fast",Negative,-1,0.9434400796890259,Main
+Yahoo,2024-09-03,Yep the market is a casino!,Neutral,0,0.9999908208847046,Main
+Yahoo,2024-09-03,bought $773.  Anticipate recovering some at 30 minutes before closing,Neutral,0,0.9287710189819336,Main
+Yahoo,2024-09-03,What a horrible day!!! About $314  down from the high. This has been a big correction!!!,Negative,-1,0.9988405108451843,Main
+Yahoo,2024-09-03,Will LRCX get a bounce from the cat?? Beat expectations!!!,Positive,1,0.9999889135360718,Main
+Yahoo,2024-09-03,Welcome to September.,Neutral,0,0.9975908994674683,Main
+Yahoo,2024-09-03,added at 774 and at 764,Neutral,0,0.9999786615371704,Main
+Yahoo,2024-09-03,Interesting here,Neutral,0,0.9790623188018799,Main
+Yahoo,2024-09-01,Recent literary articles tend to tamp down high expectations for Lam&#39;s future while leaving the door open for exceptional success through continued good management. while earnings beat expectations the year over year earnings and revenue was lower than 2023. I don&#39;t have a clear idea of what is ahead but information for chip and memory supply versus demand and the building of new chip foundries would indicate this is the stock to own long. I appreciate any informed opinions. Thanks,Positive,1,0.9996246099472046,Main
+Yahoo,2024-08-30,Nice 15% div raise.,Positive,1,0.9999995231628418,Main
+Yahoo,2024-08-30,"same replay as yesterday a sell off at noon from the high of 823, but finished strong. We are moving up now.",Positive,1,0.992512583732605,Main
+Yahoo,2024-08-30,"SMIC ...China&#39;s flagship foundry....has sales less than 1/10 compared toTSMC and 1/2 compared to Samsung....in the long run capex has to be supported by sales ....so while China spend a lot on capex in the past  it is not sustainable regardless of sanctions.... China carved out a great niche in mature technology but TSMC leads.. ...even Samsung can not catch it and Inhell / Intel is another story....the next big long term leg up spending is HBM....Micron, Samsung and Hynix and LRCX is in an outstanding position....BTWUnless you have some inside knowledge.....China is shipping a lot of etch equipment to Taiwan...none critical though...google Gerlad Yin....used to work for Lam and AMAT",Positive,1,0.9998940229415894,Main
+Yahoo,2024-08-29,15% dividend increase just announced and huge after hours pop.,Positive,1,0.9035680890083313,Main
+Yahoo,2024-08-29,"If their enormous revenue continues and they maintain low debt, with the pledged share buybacks and good management, I believe the current share price is a screaming buy. The chips act creates a tech corridor from silicon valley through the Phoenix valley that Lam will supply with chip production equipment. So, I started buying a couple shares at $820. and everyday at a better price and will continue to do so. Midday today looked like a reversal to upside and then sold a bit lower than yesterday.  Therefore, the bottom is forming but not confirmed yet.    I will continue to slowly add shares at these prices and lower. I plan to hold what I buy long term. I appreciate the small dividend while holding.",Positive,1,0.9999492168426514,Main
+Yahoo,2024-08-29,If NVDA plans to ramp up production with a robust outlook for next quarter and yr it&#39;s fair to assume more production equipment will be needed.,Positive,1,0.9958962202072144,Main
+Yahoo,2024-08-29,The split could make Lam Research&#39;s stock more appealing to smaller retail investors and allow a larger portion of the company&#39;s employees to participate in its employee stock plan.,Positive,1,0.5602455139160156,Main
+Yahoo,2024-08-29,When does split happen?,Neutral,0,0.995032787322998,Main
+Yahoo,2024-08-29,The weakness of the economy drives down the stock markets.  Kamala proposes 25% tax on unreal gains that will force investors to sell and move the investments to another country.,Negative,-1,0.9999945163726807,Main
+Yahoo,2024-08-29,Almost back to December of last year price!!!!,Neutral,0,0.9999897480010986,Main
+Yahoo,2024-08-28,Option will be all over tomorrow to Friday!!,Neutral,0,0.9999973773956299,Main
+Yahoo,2024-08-28,Accumulation at $800. But NVDA report can effect that after the bell. A bad report could send Lam further down and certainly asml. but the miracle hoped for can. set the floor.,Negative,-1,0.7824136018753052,Main
+Yahoo,2024-08-28,they are just pushing this stock around to get sellers. They have a great balance sheet and forward guidance.,Positive,1,0.9999998807907104,Main
+Yahoo,2024-08-28,ASML only green !!,Neutral,0,0.9974117875099182,Main
+Yahoo,2024-08-28,don&#39;t they declare a dividend today and should it not be an increase?,Neutral,0,0.9530113339424133,Main
+Yahoo,2024-08-27,"Once again, the stocks gets flushed down the toilet and who knows for what!!!",Neutral,0,0.9971206784248352,Main
+Yahoo,2024-08-26,What y&#39;all complaining about........this stock is up 8% YTD!!   You would think you loss money or something with all that crying.,Negative,-1,0.9711470603942871,Main
+Yahoo,2024-08-26,"Wow, did not think this stock would under perform so much!!!!",Negative,-1,0.9998490810394287,Main
+Yahoo,2024-08-26,Slow bleeding !!,Negative,-1,0.9777035117149353,Main
+Yahoo,2024-08-26,What headline did I miss. This is crazy.,Negative,-1,0.9857752323150635,Main
+Yahoo,2024-08-26,Bloodbath,Neutral,0,0.9942387342453003,Main
+Yahoo,2024-08-26,this stock is bleeding.  Pure blood bath,Positive,1,0.6754633784294128,Main
+Yahoo,2024-08-26,Dividend increase coming?,Positive,1,0.999970555305481,Main
+Yahoo,2024-08-26,Nice flush out before NVDA earning!!,Positive,1,0.9999935626983643,Main
+Yahoo,2024-08-23,SOX over sold for last 7 days!,Neutral,0,0.9992368221282959,Main
+Yahoo,2024-08-23,By 2 pm this will be 780 as Fed will say we need to wait !! .. Few more of these sessions and its hot buy.,Neutral,0,0.5825852155685425,Main
+Yahoo,2024-08-23,Unusual covered call activity. I’m betting against them. Strong buy signals are trending. We’ll see next week.,Positive,1,0.9999988079071045,Main
+Yahoo,2024-08-22,"cashing out my grandma&#39;s pension if this hit low 700 again, LFG!!!",Neutral,0,0.9986193180084229,Main
+Yahoo,2024-08-22,I&#39;m going in for a few here.,Neutral,0,0.9999213218688965,Main
+Yahoo,2024-08-22,As usual Lam the worst performer of all the chip equipment stocks. Lam up 9% YTD KLAC up 40% YTD. All these stocks have way too much China exposure especially with the Biden administration announcing more China restrictions on equipment makers in October. Only ASML exempt. Can never hold gains even for a day. The stock split is a joke at this point.,Negative,-1,0.9999150037765503,Main
+Yahoo,2024-08-21,Heavy shorts at closing!!,Neutral,0,0.9984532594680786,Main
+Yahoo,2024-08-21,Need to get by 900,Neutral,0,0.9965870380401611,Main
+Yahoo,2024-08-20,$866 nice place to add,Positive,1,0.6777965426445007,Main
+Yahoo,2024-08-20,"never doing that 30% ride down again, ran out of money at the end, this thing is volatile",Negative,-1,0.9775640368461609,Main
+Yahoo,2024-08-20,Today is shake out day before fed rate cut!!,Neutral,0,0.9999501705169678,Main
+Yahoo,2024-08-19,this is going to end green,Neutral,0,0.9998791217803955,Main
+Yahoo,2024-08-16,"MW Applied Materials, boosted by AI, is well positioned heading into 2025, analysts say",Positive,1,1.0,Main
+Yahoo,2024-08-16,Option play triple witching !!,Neutral,0,0.999901294708252,Main
+Yahoo,2024-08-16,good dip to add,Neutral,0,0.7222974896430969,Main
+Yahoo,2024-08-16,"I&#39;ll predict we split right at or pretty close to $1,000",Neutral,0,0.9999796152114868,Main
+Yahoo,2024-08-16,"So let’s be clear here. The Fed is considering lowering interest rates with the Dow up 17 percent for the year,the Nasdaq up 31 percent for the year, and the s&amp;p also up big for the year. That should tame inflation. They truly have no idea what they are doing.",Positive,1,0.9931279420852661,Main
+Yahoo,2024-08-15,ANAT is isolated.,Neutral,0,0.9996234178543091,Main
+Yahoo,2024-08-15,"Quiet AH, tomorrow will interesting !",Neutral,0,0.9945902824401855,Main
+Yahoo,2024-08-15,"$900 today, $1000 tomorrow. Bank!",Neutral,0,0.9999102354049683,Main
+Yahoo,2024-08-15,Whatch out here. Too far too fast!!!,Neutral,0,0.6315124034881592,Main
+Yahoo,2024-08-15,"Back to $1000 after AMAT earnings after the close!!! Go LRCX, go!",Neutral,0,0.9998910427093506,Main
+Yahoo,2024-08-15,Crazy uncle imploding....like the Dead  say....&#34;women are smarter&#34;....,Neutral,0,0.911587119102478,Main
+Yahoo,2024-08-14,You can&#39;t stop a Lam!,Neutral,0,0.9983654618263245,Main
+Yahoo,2024-08-14,AMAT reports tomorrow after closing. SEMI&#39;s will be up big Friday.,Neutral,0,0.9998797178268433,Main
+Yahoo,2024-08-14,Nvda is up therefore it ok to buy ai buy buy buy,Positive,1,0.9999998807907104,Main
+Yahoo,2024-08-13,It is still too low!!! Recovery to 1000 should come soon!!!,Negative,-1,0.571724534034729,Main
+Yahoo,2024-08-13,"If you are still hasitated to jump in, you will be behind!!!",Neutral,0,0.9923346638679504,Main
+Yahoo,2024-08-12,Can AMAT&#39;s earning report after the bell on Thursday move LRCX?,Neutral,0,0.9999692440032959,Main
+Yahoo,2024-08-09,S&amp;P trying hold  green!,Neutral,0,0.9888317584991455,Main
+Yahoo,2024-08-09,"Nasdaq green and red , lots of shorts!",Neutral,0,0.9998158812522888,Main
+Yahoo,2024-08-09,"1300 Pre-Split, this is at least a 130.00 stock split.  No?",Neutral,0,0.999987006187439,Main
+Yahoo,2024-08-09,Only green at open!,Neutral,0,0.9999895095825195,Main
+Yahoo,2024-08-08,is this going back to the low 700s? need to lower my avg even more,Neutral,0,0.5913189649581909,Main
+Yahoo,2024-08-08,"Tried sniping a few in pre-market on lows, this morning.  Oh well.  I am still very happy with adding a few days ago to LRCX.",Positive,1,0.9999877214431763,Main
+Yahoo,2024-08-08,"If you want to wish for something, wish for the jobless claims tomorrow to be flat or, better yet, down. If they are up, it won&#39;t be pretty. Market is very edgy about recession right now. Semi&#39;s the most vulnerable.",Negative,-1,0.8534883260726929,Main
+Yahoo,2024-08-07,"Pe seems reasonable. For lack of a better reason for this stock to be down overall market sentiment is to the downside side. Profit taking. Next quarter sometime away, fear of missing out not there right now.",Negative,-1,0.9997277855873108,Main
+Yahoo,2024-08-07,Seems oversold.,Negative,-1,0.9659572839736938,Main
+Yahoo,2024-08-07,I think we are near the floor. I am almost hoping for the recession that now seems built in to the Fed’s plan because of the inevitable flood of liquidity that will revive the chip equip boom. Also it will give the Dems what they deserve pre-election. As Cliff sez: stay long and prosper.,Negative,-1,0.6641941666603088,Main
+Yahoo,2024-08-07,"I don&#39;t own any shares but I am thinking about adding some down here.  This stock is down $180 in 7 trading days, that is a 20% correction.  Their earnings were strong and they raised guidance for 2025.  This sell off is &#34;overdone&#34;.  The recovery will be just as violent.",Positive,1,0.9999992847442627,Main
+Yahoo,2024-08-07,"LRCX target is likely between 12-17 by end of this year. Early next year, it could crash to the low single digits. The company likely wont exist in 2026.",Negative,-1,0.5337666869163513,Main
+Yahoo,2024-08-07,"Lrcx attracts day traders. You can buy today closing,  and sell next morning",Neutral,0,0.9998388290405273,Main
+Yahoo,2024-08-07,"$680 to $700 by EOW. Burn, baby, burn!",Neutral,0,0.9999828338623047,Main
+Yahoo,2024-08-07,no reason for this either- great balance sheet-forward looking guidance and sales back log.,Neutral,0,0.9698967337608337,Main
+Yahoo,2024-08-07,The way that the stock is acting it seems it has a long way to drop. I will buy back at $700.00.,Neutral,0,0.9986473917961121,Main
+Yahoo,2024-08-07,Take this chance to jump in with this great company with a good earning.,Positive,1,1.0,Main
+Yahoo,2024-08-07,"At this low price, what are you scared about?",Negative,-1,0.9288504123687744,Main
+Yahoo,2024-08-07,"Im new here, why so volatile, is it the low number of shares traded ? Thanks !",Neutral,0,0.9407634735107422,Main
+Yahoo,2024-08-07,Run 2.0 today again .. hope crooks don&#39;t sell off at the EOD .,Neutral,0,0.999792754650116,Main
+Yahoo,2024-08-06,"SMCI has become a meme stock...totally manipulated every day by traders. No way to know true value...LRCX is somewhat different, though not as stable as META or NVDA....dont want to own a commodity type company in this market....will keep META and NVDA and add to each...selling LRCX and SMCI. i market would have ended strong instead of weak, I would probably hold longer...Very disappointing.",Positive,1,0.696812093257904,Main
+Yahoo,2024-08-06,Now up 16 in after hours,Neutral,0,0.9853392839431763,Main
+Yahoo,2024-08-06,"From 20 dollars up then a big sell off, the way this market swings just doesn’t make sense.",Neutral,0,0.5384978652000427,Main
+Yahoo,2024-08-06,LRCX has been underperforming other equipment stocks because it’s more closely tied to Memory. MU has been under a lot of pressure like LRCX it’s down today on a big up day.,Negative,-1,0.9999656677246094,Main
+Yahoo,2024-08-06,Infineon Lowers Sales Guidance Again Amid Slow Chip Market RecoveryInfineon Technologies cut its sales forecasts for the year once again after posting sales below analysts&#39; forecasts for its fiscal third quarter as it continues to grapple with lackluster demand for its chips.,Negative,-1,0.9999998807907104,Main
+Yahoo,2024-08-06,Don&#39;t panic. This is a very strong company. With WFE spending increasing by top customers into second half &#39;24. Can&#39;t make any AI chips w/o LRCX.,Positive,1,0.999998927116394,Main
+Yahoo,2024-08-06,Why is this underperforming so much comparing to the rest of the equipment stocks?,Neutral,0,0.9234172701835632,Main
+Yahoo,2024-08-06,1k Glory is coming. Shorts are going to get pounded ..,Neutral,0,0.999948263168335,Main
+Yahoo,2024-08-05,1000 soon,Neutral,0,0.9993807077407837,Main
+Yahoo,2024-08-05,Service PMI bounced back from 48.8 to 51.4.....expanding ....this is forward looking. Important data point but got completely overlooked....2/3 of economy....,Negative,-1,0.9821571111679077,Main
+Yahoo,2024-08-05,Ain&#39;t seen nothing yet here.... This will bounce up all thru 2025 I bet.,Neutral,0,0.5890976786613464,Main
+Yahoo,2024-08-05,"At least those that bought at today’s open, or shortly thereafter, are happier today.",Neutral,0,0.9999096393585205,Main
+Yahoo,2024-08-05,"LRCX, O, and ELF in my portfolio are all green today.",Neutral,0,0.9999994039535522,Main
+Yahoo,2024-08-05,Micron must have said something positive...AI is not a bubble.....,Neutral,0,0.7339830994606018,Main
+Yahoo,2024-08-05,"Fear of economic recession drives down the stock market. If the Fed will not lower the interest rate in Sep, the market will continue going down.  The unemployment rate goes up, the newly college graduates have difficulty finding jobs.  The next president will face major economic challenges.",Negative,-1,0.9999991655349731,Main
+Yahoo,2024-08-05,Year to date gains gone. Market always goes down quicker than it goes up.,Negative,-1,0.7648825645446777,Main
+Yahoo,2024-08-05,this is a bloodbath,Neutral,0,0.999424934387207,Main
+Yahoo,2024-08-04,Futures down huge already. Another 6-8 percent dip tomorrow I guess.,Negative,-1,0.9958665370941162,Main
+Yahoo,2024-08-03,it&#39;s not lrcx look at the correction in our stocks. read where 2 trillion dollars alone was wiped from the markets Friday but know for sure if this is accounted since it&#39;s very difficult to get the truth sometimes in the media,Neutral,0,0.6342771053314209,Main
+Yahoo,2024-08-03,"As a small realtor investor, I&#39;m going to buy 2 or 3 more shares on Monday to add to my holdings. Seems like a no brainer to me.",Neutral,0,0.9943355917930603,Main
+Yahoo,2024-08-03,Best time to get into this before the split.,Positive,1,0.5446316003799438,Main
+Yahoo,2024-08-02,Talk about an overreaction. Wow negative YTD. huge buying opportunity here can’t get much better than this. Same with all the equipment makers. Admittedly I bought way too early. GLTA,Positive,1,0.9338436126708984,Main
+Yahoo,2024-08-02,Utter trash.........hope this will go bankrupt next week.,Neutral,0,0.9996678829193115,Main
+Yahoo,2024-08-02,"My guess,  institutional investors will buy few minutes before today closing and Ah . The correction is probably done.",Neutral,0,0.9991347193717957,Main
+Yahoo,2024-08-02,"I kept cash for buying stock in Oct, but the correction happened in August.  Today is my buying day.  Bought ENPH, NVDA, UBER, GOOL,  and  more LRCX.  In election year, GOOGLE and FB will make tons of $$$ from Republicans and Democrat candidates.  I see Harris ads in nearly every YouTube page",Neutral,0,0.999983549118042,Main
+Yahoo,2024-08-02,Looks like the Scam Group insiders are blocking my comments........must have hit a nerve.,Negative,-1,0.575616180896759,Main
+Yahoo,2024-08-02,"Lam Research Corporation (LRCX) shares are trading lower by 6.5% to $776.07 during Friday’s session. Shares of semiconductor stocks are declining in response to Intel Corp’s weaker-than-expected second-quarter financial results.Intel shares are down some 27% Friday morning following disappointing second-quarter results and the announcement of a 15% workforce reduction and dividend suspension.This slump is part of Intel&#39;s broader struggle to compete with leading chipmakers like Taiwan Semiconductor Mfg. Co. Ltd. and if the losses persist, the company&#39;s market capitalization could drop to about $100 billion. Intel is one of the largest semiconductor manufacturers, and it is a significant customer for many suppliers in the semiconductor industry, including Lam Research (LRCX). A substantial decline in Intel&#39;s profitability or a reduction in its capital expenditure could lead to a decrease in orders from Intel. This could impact Lam Research&#39;s (LRCX) revenue and potentially its profitability.Intel’s financial strain could raise concerns about the financial health of its suppliers and partners. If Intel is experiencing difficulties, investors might worry that other companies in its supply chain, including Lam Research (LRCX), could also face financial stress or reduced business opportunities.",Negative,-1,0.9999990463256836,Main
+Yahoo,2024-08-02,LRCX is not worth more than 12-15 bucks a share. Crooks took it up past 1000 and left a lot of bagholders................. More analysts will now jump in the bandwagon to hype this up so that the crooks can sell and run away leaving new bagholders.,Neutral,0,0.998360812664032,Main
+Yahoo,2024-08-02,Insiders must be loading up September 50 puts like crazy as they must be expecting this scam to drop below $10 by mid September. Likely will become a penny stock by October !!,Neutral,0,0.994044840335846,Main
+Yahoo,2024-08-02,Wonder whether the insiders sold their shares and bought lots of puts ......... Scam Research Corp.,Neutral,0,0.9680545330047607,Main
+Yahoo,2024-08-02,Soooo painful to watch.,Negative,-1,0.5890157222747803,Main
+Yahoo,2024-08-02,One of the biggest ever scam company I guess. From 1130 to 750 in 3 weeks. Most likely all the insiders cashed out and moved their assets offshore.,Neutral,0,0.9984071850776672,Main
+Yahoo,2024-08-02,Lrcx just can’t stop falling!,Neutral,0,0.9730373024940491,Main
+Yahoo,2024-08-02,From 1127 to this!!! Almost 34% drop!!!!,Negative,-1,0.989126980304718,Main
+Yahoo,2024-08-02,Inhell down 26 % ....must be Bidens fault....well...LRCX has 511 high paying job openings,Neutral,0,0.9999876022338867,Main
+Yahoo,2024-08-02,buyers are stepping in now.,Neutral,0,0.9996978044509888,Main
+Yahoo,2024-08-02,Climb climb!!,Neutral,0,0.8877373337745667,Main
+Yahoo,2024-08-02,This stock is completely pummeled!!!!,Negative,-1,0.9923742413520813,Main
+Yahoo,2024-08-02,Huge opportunity.,Positive,1,0.9999998807907104,Main
+Yahoo,2024-08-02,"got my avg cost to the low 800s from over 1000+, hella insane drop",Neutral,0,0.999880313873291,Main
+Yahoo,2024-08-02,"On the bright side, if you lose 10% a day every day you won&#39;t ever reach zero.",Negative,-1,0.766266405582428,Main
+Yahoo,2024-08-02,Anybody still think we are not in a recession? For years I have been warning that drops of 40% are commonplace and need to be lived through for 18 months. It is happening again. Only good thing about it is that Biden and Willie’s GF have lots of explaining to do. I do not think we are at the floor yet but am ready to buy when we get there.,Neutral,0,0.9293004274368286,Main
+Yahoo,2024-08-02,Looks like this is dropping below $800 today. A month ago it was $1130. Still holding?,Neutral,0,0.5382226705551147,Main
+Yahoo,2024-08-02,I&#39;ll probably gets some thumbs down for this. But I am long and bullish. Anyway. is there any chance they &#34;CEO&#34; decide to cancel or delay the 10 for 1 scheduled for in October?,Neutral,0,0.9863648414611816,Main
+Yahoo,2024-08-02,"wow, intel lost its leadership position in chip making.. LRCX is not dependent on intel but on TSMC.",Negative,-1,0.9999984502792358,Main
+Yahoo,2024-08-02,Market is signalling recession. Fed will respond by running the presses. Chip equip will recover as interest rates drop.,Positive,1,0.9995397329330444,Main
+Yahoo,2024-08-02,"It is kind of odd. Lam&#39;s results were OK. But... There seems to be a disconnect between the huge capex dollars being announced, new fabs going up all over the place, and yet, the chip equipment companies are not talking about any huge influx of orders. I would expect to be hearing about problems meeting demand, massive backlog, supply chain issues etc.. Instead, business is OK, but kind of flat. It doesn&#39;t make sense tbh. Lam says it will be much busier in &#39;25. Anyone following these stocks for a while knows that, in &#39;23, everyone said that &#39;24 would be a crazy ramp (can you say AI?) and the stocks ramped in anticipation of that, but it hasn&#39;t panned out yet. If Applied $amat just slightly beats and guides soft it could get much uglier. I just wonder where all this capex money is going. You are not making chips without equipment.",Positive,1,0.6683630347251892,Main
+Yahoo,2024-08-02,"Pe is about where this has been for this stock until it went on its run up. Not sure what to make of whipsaw action seems like anynews throws stocks around, up and down.",Neutral,0,0.8113689422607422,Main
+Yahoo,2024-08-01,Can not be too senile negotiating with Putin for almost two years  and get allies like Germany onboard....I found new info link ...google trenforce HBM memory....the groth projections are incredible.....they struggling to provide electrical power to power hungry data centers using AI chips...,Positive,1,0.9952840209007263,Main
+Yahoo,2024-08-01,"When a company loses 30% of it&#39;s stock price in 3 weeks while reporting positive earnings and revenue growth and good guidance you know this is not people that are moving the stock.  This is all done with algo&#39;s on computer systems.  No emotional involvement, but the same is true when the stock goes up.  These up and down &#34;daily&#34; swings of 8% are not normal trading.  Let the computers play, I&#39;ll stick to buy low sell high.",Positive,1,0.9999948740005493,Main
+Yahoo,2024-08-05,"If you buy now, after splitting, you paid $82/share which is very good investment.  I bought at $855 today and will hold for couple years.  LRCX has excellent management and a smart CEO",Positive,1,1.0,Main
+Yahoo,2024-08-01,"Few months ago, President Biden announced a program &#34;CHIP ACT&#34; that will provide funds to semiconductor companies.  Today news said there will be no release funding, and the semiconductor stocks react negativity.  The rich semiconductor co. don&#39;t need those goverment&#39;s funds, and they are still doing well.",Positive,1,0.9987770915031433,Main
+Yahoo,2024-08-01,buy Uber and wait for semiconductor to cool down in next couple days before buying again,Neutral,0,0.7692851424217224,Main
+Yahoo,2024-08-01,Considering  calls ....February 2025 time frame....LRCX Investor day....HBM memory about to explode....Archer is probaly THE best CEO....he has vision and technical  extremely strong....he knows what he is talking about ...goes back to copper...Hill was more of a sales guy....vision is a very important ingredient,Positive,1,0.9999990463256836,Main
+Yahoo,2024-08-01,what a drop.  kept on buying the dips down to 216.  that was gut wrenching.  it paid off.,Neutral,0,0.7665120363235474,Main
+Yahoo,2024-08-01,Had this on my watch list for a while. Watching the big moves and looking at it for the ten for one stock split. And now this looks like the right time. Great earnings and a big drop. Only bought 20 shares but will have 200 in the fall and I expect it will take another leap in the next couple of days.,Neutral,0,0.9967514276504517,Main
+Yahoo,2024-08-01,"All the semiconductor companies getting smashed today yesterday they were the darlings, tomorrow they will get bought back up because the market makers are manipulating the market.",Neutral,0,0.9781515598297119,Main
+Yahoo,2024-08-01,This is crazy manipulation .. they should be banned from market .. this is just outrageous ..,Neutral,0,0.9626410603523254,Main
+Yahoo,2024-08-01,"i bought the dip and it kept dipping, haha, gonna wait for 800, this is insane",Neutral,0,0.9989320635795593,Main
+Yahoo,2024-08-01,Ouch whole market getting crushed. What set this off?,Neutral,0,0.8435432314872742,Main
+Yahoo,2024-08-01,I have never seen this company gets punished like this in one day!!!!’,Negative,-1,0.9826700687408447,Main
+Yahoo,2024-08-01,one of the best run companies and balance sheet in the market- what are they thinking?,Positive,1,0.993443489074707,Main
+Yahoo,2024-08-01,LRCX trading at 1990&#39;s levels,Neutral,0,0.999998927116394,Main
+Yahoo,2024-08-01,The whole market is down. Do not panic. Cold head.,Negative,-1,0.9314311742782593,Main
+Yahoo,2024-08-01,"I&#39;m a buyer on this news, they will ship these machines somewhere if not China.",Neutral,0,0.9989652633666992,Main
+Yahoo,2024-08-01,"DCA at every 10% drop I guess, this is crazy",Neutral,0,0.7968389391899109,Main
+Yahoo,2024-08-01,I guess they will have to ship these machines to Vietnam instead of China.,Neutral,0,0.9951967597007751,Main
+Yahoo,2024-08-01,"I think today has to do with the administration starting to talk about more curbs on equipment going to China, from which Lam gets around 40% of their revenues. It is possible this could be put into place in a month or so. This is more about SK Hynix and Samsung but those are also customers of Lam so we could be indirectly affected.",Negative,-1,0.988179087638855,Main
+Yahoo,2024-08-01,Earnings beat and now down to 1 year low.  Incredible.  PE is around 20,Positive,1,0.9999208450317383,Main
+Yahoo,2024-08-01,"I was so wrong about this earning, and thought we would have got to $950!!’ What went wrong here?",Negative,-1,0.9905524253845215,Main
+Yahoo,2024-08-01,"$50 drop for a solid beat, what am I missing?",Positive,1,0.9999963045120239,Main
+Yahoo,2024-08-01,Fundamentals are solid. New tech developments rolling out that should be grabbing more market share. SEC should be all over Blackrock and Vanguard. Pure manipulation!,Positive,1,1.0,Main
+Yahoo,2024-08-01,Where did they go so wrong!!!,Neutral,0,0.8793714046478271,Main
+Yahoo,2024-08-01,"loading up if it hits below 840 again, jeez",Neutral,0,0.9611691832542419,Main
+Yahoo,2024-08-01,How low do they short this tomorrow? I’d like to buy in,Neutral,0,0.9980752468109131,Main

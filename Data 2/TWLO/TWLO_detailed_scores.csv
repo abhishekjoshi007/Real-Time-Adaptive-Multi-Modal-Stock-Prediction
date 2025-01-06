@@ -1,0 +1,139 @@
+Source,Date,Text,Sentiment,Score,Confidence,Type
+Reddit,2024-08-12,"Strike it big stocks for the next decade, year 5 retrospective",Neutral,0,0.9596660733222961,Main
+Reddit,2024-08-12,"Table fixed Stock 20190812 20240812 Return TTD 255.08 993.00 289 MELI 623.55 1,883.16 202 VRTX 179.84 468.70 161 MSFT 159.03 406.20 155 ZS 83.21 174.00 109 SHOP 366.73 692.90 89 AMZN 1,784.92 3,341.80 87 CRM 140.72 252.53 79 MDB 143.51 235.40 64 SQ 62.63 62.14 1 HXL 79.89 62.16 22 FLXN 11.37 8.50 25 FMC 85.57 61.15 29 OKTA 130.50 89.00 32 PYPL 102.72 64.72 37 ZM 92.16 56.10 39 TWLO 131.49 60.37 54 AYX 131.08 48.52 63 PCRX 40.39 12.74 68 GH 98.63 29.00 71 OMER 18.41 4.12 78 Assume no dividends on either portfolio Strike It Big SIB or SPY, and assuming I can purchase fractional shares of everything, to keep it simple. SPY adjusted closing price on 20190812 266.253 SPY adjusted closing price on 20190809 532.98999 return on SPY 100.18 Adding performance against SPY as the benchmark gives the following results, ordered by performance against the benchmark Stock 20190812 20240812 Return vs Benchmark TTD 255.08 993.00 289 189.11 MELI 623.55 1,883.16 202 101.82 VRTX 179.84 468.70 161 60.44 MSFT 159.03 406.20 155 55.24 ZS 83.21 174.00 109 8.93 SHOP 366.73 692.90 89 11.24 AMZN 1,784.92 3,341.80 87 12.96 CRM 140.72 252.53 79 20.73 MDB 143.51 235.40 64 36.15 SQ 62.63 62.14 1 100.96 HXL 79.89 62.16 22 122.37 FLXN 11.37 8.50 25 125.42 FMC 85.57 61.15 29 128.72 OKTA 130.50 89.00 32 131.98 PYPL 102.72 64.72 37 137.18 ZM 92.16 56.10 39 139.31 TWLO 131.49 60.37 54 154.27 AYX 131.08 48.52 63 163.17 PCRX 40.39 12.74 68 168.64 GH 98.63 29.00 71 170.78 OMER 18.41 4.12 78 177.80 removed some erroneous calcs, will bring them back later, have to go and get my cat from the vet Liquidation value of 1m invested at equal weights in each constituent of the SIB portfolio 1,341,749.73 Liquidation value of 1m invested in SPY ETF 2,001,817,85",Neutral,0,0.9999996423721313,Reply
+Reddit,2024-08-12,"To me the real TLDR is The market can remain irrational longer than you can remain solvent. Basically even if you are completely right about their underlying business, the stock price doesnt have to move",Negative,-1,0.8860725164413452,Reply
+Reddit,2024-08-12,TLDR Average Return 34 SP500 100 Add this to the massive pile of data showing picking stocks doesnt work and that it underperforms indexing.,Neutral,0,0.5576207637786865,Reply
+Reddit,2024-08-12,OP has sacrificed years off of his retirement to provide us additional evidence that stock picking is perilous and index investing is the wiser strategy. We all owe him a debt of thanks for volunteering as a case study.,Neutral,0,0.9919463992118835,Reply
+Reddit,2024-08-12,Where is Intel?,Neutral,0,0.9995055198669434,Reply
+Reddit,2024-08-12,"Honestly, thank you for doing this. People need to be reminded with hard evidence more often that picking stocks, even ones whose fundamentals look really good, is essentially a crapshoot. VOO and chill is really the only way any of us avoid working as a Walmart greeter into our 70s",Neutral,0,0.9145219326019287,Reply
+Reddit,2024-08-12,What does the max drawdown and volatility look like for this portfolio relative to the SP 500 and the NASDAQ 100?,Neutral,0,0.9999700784683228,Reply
+Reddit,2024-08-12,"With all the names in this list, Im surprised that TSLA wasnt included as well when it was compiled 5 years ago, it would have easily crushed everything in this portfolio and pulled its total performance up at least a few points. But then I guess that was right when reddit was most bearish on the stock, at the worst possible time.",Negative,-1,0.9994532465934753,Reply
+Reddit,2024-08-12,All of the stocks mentioned in the comments section in the original post are down like 80 too lol,Negative,-1,0.9998176693916321,Reply
+Reddit,2024-08-12,Whats your opinion on PCRX now at such a low 12 ish if youd be willing to share? A few big insider stock purchases this past week despite the fed court dismissal re patent. I am considering buying in and would love some perspective.,Neutral,0,0.9991657733917236,Reply
+Reddit,2024-08-12,I just love what a mess PayPal got into. They were woke before woke was a thing. I was banned for life for something which offended them but ironically its something they wouldnt dare ban somebody for now. Then the stock price crashed and they made me a new account lol. Id buy if they paid dividends. Theyre pretty much the payment provider of choice for all the various under the table deals that happen on Facebook and elsewhere...,Neutral,0,0.9898732900619507,Reply
+Reddit,2024-08-12,"Some of those did really well. Some, not very much at all. It would be a good idea to do a dive into how strong of a business the bottom half that performed poorly really are. If they have as strong of a competitive position as they appear. I dont recognize all of them, but I do have stock in some of them like TTD and the business has done very well, growing revenue and such. And becoming a leader in their DSP space in Connected TV. Microsoft and Amazon are strong businesses as well.",Positive,1,1.0,Reply
+Reddit,2024-08-12,"I expect at some point SP will have to drop the bad performers and take on new companies and this will trigger big price changes. I dont think one can time the dropping companies, but you can stay with the well performing ones without needing liquidity.",Negative,-1,0.9976534247398376,Reply
+Reddit,2024-08-12,"They are delivering good numbers top line, bottom line, all good, cash flow OK and the next year should be a good year for them with more coverage coming their way. Their problem is stock dilution. They issued 280M worth of stock in May and expect 50M more by the end of FY. Thats way too much for a company of their size and thats why their stock price is where it is. If they can ditch the dilution for consistent operating cash flow next year, they could double in price.",Positive,1,1.0,Reply
+Reddit,2024-08-12,"Companies get addeddropped quite frequently, this is part of the reason the SP500 index is so powerful.",Positive,1,0.968066930770874,Reply
+Reddit,2024-08-12,The quarterly index rebalance is a feature of mostall major indices.,Neutral,0,0.9999997615814209,Reply
+Reddit,2024-08-12,"This could be used as a test of the OPs thesis that being included in the index props up a companys value. Once SPY or VOO reflect the rebalance, the price should shoot up for a company thats been added, or drop for a company thats been removed.",Neutral,0,0.9999867677688599,Reply
+Yahoo,2024-10-30,I don&#39;t think the rise will hold. Too much uncertainty in the market right now unless you own the hyperscalers.,Neutral,0,0.8468863368034363,Main
+Yahoo,2024-10-30,It should go higher right? This is not enough lol,Neutral,0,0.8973942399024963,Main
+Yahoo,2024-10-30,I like nobody (main stream) not talking about this company. It is really a good news,Positive,1,0.9999979734420776,Main
+Yahoo,2024-10-30,"Beat on every metric, raised guidance",Positive,1,1.0,Main
+Yahoo,2024-10-30,Crushed it,Neutral,0,0.9976239800453186,Main
+Yahoo,2024-10-30,I’ve been holding 73’s for like 3 years. Of course it’s a dollar away right before earnings!,Neutral,0,0.9959482550621033,Main
+Yahoo,2024-10-23,Oppenheimer PT raised $85 from $65,Positive,1,0.96247798204422,Main
+Yahoo,2024-10-22,Early earnings date is usually positive,Positive,1,0.999649167060852,Main
+Yahoo,2024-10-18,OKTA is terribly undervalued.,Negative,-1,0.9998824596405029,Main
+Yahoo,2024-10-14,"Twilio has cut cost over the last several years, now ready for growth and profit ability.AI boom could be catalyst as the partnership with OpenAI drives usage up on a subscription based price model.This is an easy one to call, but also on radar is acquisition talk heating up.",Positive,1,0.9999998807907104,Main
+Yahoo,2024-10-11,going up for a few days time to unload?,Neutral,0,0.9999427795410156,Main
+Yahoo,2024-10-09,"BO, people are sniffing around",Neutral,0,0.9893049001693726,Main
+Yahoo,2024-10-09,"As long as this group of officers and or board members remain running TWLO they will never,never become profitable,only for their own enrichment, period.",Negative,-1,0.7407537698745728,Main
+Yahoo,2024-10-09,"JMP Securities Reiterates Market Outperform on Twilio, Maintains $110 Price Target",Positive,1,0.9999998807907104,Main
+Yahoo,2024-10-08,"22,117 shares sold by chief exec. officer, 13,383 shares sold by chief financial officer 0n 09-30-24 and 10-03-24 . Again",Neutral,0,0.9999934434890747,Main
+Yahoo,2024-10-07,P/S under 3.,Neutral,0,0.9961656332015991,Main
+Yahoo,2024-10-07,Has a forward pe of 17.5 and net $2 billion in cash.,Neutral,0,0.9999924898147583,Main
+Yahoo,2024-10-07,"Up nicely today. 153 million of share based compensation was given to the officers in the quarter ending June. 30, 2024. The share count goes up about a million shares per year. No earnings listed in the last 5 years. But, the stock is going up.",Positive,1,0.9634897112846375,Main
+Yahoo,2024-10-07,☕️ ☕️ ☕️ ☕️ ☕️,Neutral,0,0.9673532843589783,Main
+Yahoo,2024-10-07,something is brewing,Neutral,0,0.9996114373207092,Main
+Yahoo,2024-10-05,"As odd as this may sound, this equity is flashing a golden cross, maybe some good news coming soon.",Positive,1,0.9901493787765503,Main
+Yahoo,2024-10-04,Possibility of upgrades next week.,Neutral,0,0.9843616485595703,Main
+Yahoo,2024-10-03,"Board Members sell out as routine monthly to take profits with our investment, no skin in the game other than parasites.",Neutral,0,0.9998489618301392,Main
+Yahoo,2024-10-02,consolidation looks to be over.,Neutral,0,0.9673377871513367,Main
+Yahoo,2024-10-02,To the moon,Neutral,0,0.9940109848976135,Main
+Yahoo,2024-10-02,"Ok, who cut the cheese?",Neutral,0,0.9995517134666443,Main
+Yahoo,2024-10-02,who&#39;s a good boy ?...TWLO&#39;s a good boy...disclaimer long 300 @ $62.53,Positive,1,0.552337646484375,Main
+Yahoo,2024-10-02,Another AI catalyst.,Positive,1,0.9999984502792358,Main
+Yahoo,2024-09-27,Totally manipulated. Bo $64 consecutive times. This is a total scam. Good luck to all.   Microsoft will decimate them soon.,Positive,1,0.9999953508377075,Main
+Yahoo,2024-09-27,BO coming and if not 100 within 6mo,Neutral,0,0.9998295307159424,Main
+Yahoo,2024-09-27,Literally a garbage stock. Microsoft eating their lunch. Just like Fastly. Trash company,Neutral,0,0.9999655485153198,Main
+Yahoo,2024-09-26,Wow. This company is actually a scam. Totally ridiculous and rigged,Neutral,0,0.9992241859436035,Main
+Yahoo,2024-09-26,haven&#39;t seen the Twil print a 64 since Feb.,Neutral,0,0.997097373008728,Main
+Yahoo,2024-09-26,This could gap up to $70 pretty easily...disclaimer long 300 @ $62.53,Neutral,0,0.9396741390228271,Main
+Yahoo,2024-09-26,"Come on TURD, I mean TWLO, get above $64 so I can get out FOREVER!!",Neutral,0,0.9997835755348206,Main
+Yahoo,2024-09-24,"As usual board takes their cut $800,000. plus awarded shares for showing up to work if you call it work.",Neutral,0,0.9999731779098511,Main
+Yahoo,2024-09-24,added 50 shrs...in buy zone just above 200 dma...disclaimer long 300 shrs @ $62.7,Neutral,0,0.9998897314071655,Main
+Yahoo,2024-09-20,volume good,Positive,1,0.9999978542327881,Main
+Yahoo,2024-09-20,Yes looks good. Finally,Positive,1,0.9999997615814209,Main
+Yahoo,2024-09-20,Holy Toledo....a small lift off of the 200 dma...adding Monday...disclaimer long 250 shrs @ $62.32,Neutral,0,0.963265061378479,Main
+Yahoo,2024-09-19,"Looks like a quadruple top. Good, bad?",Positive,1,0.9999724626541138,Main
+Yahoo,2024-09-19,Deja-vu... stuck at 200 dma   TWLO has not closed and stayed above 200dma for more than a day since 2/14/2024...disclaimer long 250 shrs@ $62.32 waiting to add if we can close above 200 dma for longer than a millisecond,Neutral,0,0.9999542236328125,Main
+Yahoo,2024-09-18,"Have they arrested Elena A Donio Board member, (who collected a 6 million dollar bonus then quit) and CEO Shipchandler who has no real qualifications and has collected about 100 million in bonuses all while TWLO has lost 90% of its value at their direction.",Neutral,0,0.9515464305877686,Main
+Yahoo,2024-09-16,Sinch is a gainer.Best buy this month.Near target 🎯 40 Swedish krona.High 55 target estimated by Carnegie..Near time 40....,Positive,1,0.9999954700469971,Main
+Yahoo,2024-09-10,The real problem is everybody knows TWLO is a cesspool of corruption with management &amp; board taking out 100&#39;s of millions in unjustifiable bonuses. Unqualified management with no record of ever being a CEO just cooking the books enough to collect bonus. Can&#39;t even run the share buy back plan.,Negative,-1,0.9999316930770874,Main
+Yahoo,2024-09-10,Pathetic,Neutral,0,0.9747346043586731,Main
+Yahoo,2024-09-10,The problem is obvious stock tanks almost 4 Bucks in one day takes 1 month to recover. Renice &amp; Repeat for the last 3 years Twilio is being run by criminals only interested in how much money they can steal. Stock will soon see $50 handle until Twilio is sold to a legitimate co. Shareholders will continue to lose while Board &amp; Incompetent Management become Rich!,Negative,-1,0.997548520565033,Main
+Yahoo,2024-09-09,"What level of EBITDA does Twilio need to support their current valuation? Now that the company is in relatively low-growth mode (i.e. less than 10%) I think we can assume it will trade based on an EBITDA multiple or cash flow model. Seems like companies with this growth rate can trade for as much as 20-25x TTM EBITDA so an EV of $7.5b would seem to require $300m - $375m of TTM EBITDA. The last few periods are not going to be reflective of the NTM so I am not bothered by the lower TTM EBITDA, but am wondering how long before Twilio grows into its existing value.",Neutral,0,0.9792163968086243,Main
+Yahoo,2024-09-09,$TWLO is another insanely cheap stock. Easily hit $100 within the next few quarters. It’s bottomed and ready to skyrocket! Buy it while it’s cheap!,Positive,1,0.9999924898147583,Main
+Yahoo,2024-09-09,The Clown Show continues with the unaccomplished &amp; unqualified CEO who in the past 2 years has illegally taken over 100 million dollars in bonuses while Twilio has lost $Billions in market value.,Negative,-1,0.9999566078186035,Main
+Yahoo,2024-09-06,10 year down to 3.67% should be good for stock was up to 5% stock does not respond only negative news and excuses about the 10 year note.,Positive,1,0.9982864260673523,Main
+Yahoo,2024-09-05,"Black box until next earnings, as always",Neutral,0,0.9998713731765747,Main
+Yahoo,2024-09-03,Research at Sheaffer says that TWLO will drop a few points in the next 3 days.,Neutral,0,0.8314561247825623,Main
+Yahoo,2024-09-03,Sheaffer Research says that TWLO will drop a few points.,Negative,-1,0.9187548160552979,Main
+Yahoo,2024-09-03,Sheaffer Research jsays,Neutral,0,0.998849630355835,Main
+Yahoo,2024-09-03,"Well, nice while it lasted 😞",Positive,1,0.9999783039093018,Main
+Yahoo,2024-08-30,It doesn&#39;t have the minerals.,Neutral,0,0.9994555115699768,Main
+Yahoo,2024-08-30,no soup for you..sellers and shorts doing there best to keep this below 200 dma @$62.80...disclaimer long 250 @ $62.32...buyer again at 63 or higher,Neutral,0,0.9921144247055054,Main
+Yahoo,2024-08-30,Finally moving towards $70. Let’s go.,Neutral,0,0.9999241828918457,Main
+Yahoo,2024-08-29,$62.80 is the number.. a close above that would be bullish..second attempt at eclipsing the 200-day moving average in the last couple months.. disclaimer long 250 shares at $62.32,Positive,1,0.9565069675445557,Main
+Yahoo,2024-08-29,In a report released today from Scotiabank maintained a Buy rating on Twilio with a price target of $90.00.,Positive,1,0.9999964237213135,Main
+Yahoo,2024-08-29,"Board members sell off in August C.F.O. Vigiano $339,000 worth of shares, Officer Wagner sells off $156,000. worth of shares, a pattern that occurs almost every month. Great job if you can get it. Rewarded for failure routinely.",Positive,1,0.9974966645240784,Main
+Yahoo,2024-08-28,Go Twilio,Neutral,0,0.99167799949646,Main
+Yahoo,2024-08-28,Agree Twilio needs to break $63 per share but that should propel it back to the $70-80 range. Management needs to give it some help with positive PR like new customers or little help from buy back program. It just needs some continued momentum.,Positive,1,0.999991774559021,Main
+Yahoo,2024-08-27,Waiting for $63 to break its uptrend,Negative,-1,0.9930949807167053,Main
+Yahoo,2024-08-23,"Gut feel.  Sometimes need to follow it.  A month ago, was going to sell this and buy CAVA with proceeds. Didn&#39;t.  Would aaaaa, Should aaaaa, Could aaaaa.",Neutral,0,0.9967768788337708,Main
+Yahoo,2024-08-23,Huge upside coming despite the insider selling,Positive,1,0.999998927116394,Main
+Yahoo,2024-08-23,Go twlo go baby,Neutral,0,0.9986786246299744,Main
+Yahoo,2024-08-23,"this has to be some kind of money laundering operation, how do you lose 5 bucks a share for years and not go bankrupt ???",Negative,-1,0.9070534110069275,Main
+Yahoo,2024-08-22,TWLO is doomed to fail with current unqualified &amp; corrupt Board and management. They have literally taken out billions in cash and perks the last 3 years. They despise retail investors evidenced by having Jeffery Emmelt on the board who is the definition of incompetence as he destroyed GE to bankruptcy until they finally fired him.,Negative,-1,0.9358927607536316,Main
+Yahoo,2024-08-21,2 officers sell shares 120 thousand dollars worth each. All profits company makes is split up among the board members. Twilio will never show profits as long as board is never held accountable for failures.,Negative,-1,0.5091401934623718,Main
+Yahoo,2024-08-21,"Huge down day when real companies rally. The corrupt Board of TWLO forces the Founder Jeff Lawson out of the company then hires a completely unqualified accountant who&#39;s never run anything. Not a tech person, not a inventor, has no contacts, is not a corporate leader just a corporate parasite...but is Diversity, equity and Inclusion to check a box for the woke moroons.",Neutral,0,0.9998555183410645,Main
+Yahoo,2024-08-21,"down $3 from yesterday high.  time to buy low 59s, 2nd bid 57.3 if crooks want to drop it even more",Negative,-1,0.9993709921836853,Main
+Yahoo,2024-08-21,This board is corrupted no doubt manipulation going on,Neutral,0,0.9885595440864563,Main
+Yahoo,2024-08-21,Twilio down 1.35 yesterday down 0.55 cents in today’s rally. Corrupt &amp; incompetent management and board must go or TWLO will just keep going down.,Negative,-1,0.9564711451530457,Main
+Yahoo,2024-08-17,"Activist investors Anson Fund recently purchased another 105,000 shares of TWLO.",Neutral,0,0.9999123811721802,Main
+Yahoo,2024-08-16,Nobody wants to be with losers. Soon with the dead beat management team focused on pocketing 100&#39;s of millions in unearned bonuses talented people are looking to bail out of TWLO sinking ship. Companies with smart leaders take Twilio&#39;s customers &amp; share price goes down to $40 bucks or less.,Neutral,0,0.8913237452507019,Main
+Yahoo,2024-08-15,Twilio is a joke. Everyone knows the moroons in management &amp; board of directors are the epitome of corruption.,Neutral,0,0.9999895095825195,Main
+Yahoo,2024-08-15,It will jump next week with a buy back news,Neutral,0,0.999935507774353,Main
+Yahoo,2024-08-15,This Stock is stuck in the same price for a year,Neutral,0,0.9994937181472778,Main
+Yahoo,2024-08-15,"Anytime it tests around 63,it comes back to under 50’s.",Neutral,0,0.9987232089042664,Main
+Yahoo,2024-08-15,TWLO stuck in neutral as usual greed keeps this stock from being profitable.,Negative,-1,0.988339900970459,Main
+Yahoo,2024-08-15,Comp needs to go down,Negative,-1,0.5454447269439697,Main
+Yahoo,2024-08-15,"Current management is unqualified and incompetent. Shipchandler has been a mid-level at best accountant for GE is totally clueless. Yet board has paid him 75 million dollars in bonuses that needs to be clawed back. These activist shareholders needs to sue Board &amp; management. These clowns are still feeding off the Founder of TWLO accomplishments. No new business, can&#39;t effect stock buy back...only stuffing their pockets with shareholder cash. Fire them all hire a real CEO.",Neutral,0,0.997920572757721,Main
+Yahoo,2024-08-15,"Okay, what is it today?",Neutral,0,0.999941349029541,Main
+Yahoo,2024-08-14,Activist investor…lmao😂.,Neutral,0,0.9608411192893982,Main
+Yahoo,2024-08-13,FOMO is arriving,Neutral,0,0.9999868869781494,Main
+Yahoo,2024-08-13,Calls for September $75.,Neutral,0,0.9999501705169678,Main
+Yahoo,2024-08-13,Management squandering good quarterly results by not using stock buy back to boost interest. This is what happens when the founder surrounded himself with incompetent parasites that are criminals both on the board and management.,Positive,1,0.9999810457229614,Main
+Yahoo,2024-08-12,Going down like an elevator,Negative,-1,0.6531792879104614,Main
+Yahoo,2024-08-09,such a turd! eom,Neutral,0,0.9985066056251526,Main
+Yahoo,2024-08-08,"good news good quarter equals bad numbers ?? Stock has eroaded for the past 3 years and counting,no management is held accountable, only to reward poor outcome. woke policy maroons",Positive,1,0.9999992847442627,Main
+Yahoo,2024-08-07,Reacceleration will hit this stock hard,Positive,1,0.9852114915847778,Main
+Yahoo,2024-08-06,Barclays cut its price target for TWLO is why it’s not participating in todays rally,Negative,-1,0.9996867179870605,Main
+Yahoo,2024-08-06,"Stock Buy Back should spike share price by at least $20 a share. 10K says 1 billion dollars left for share buy back as of June 30. So if you figure $900 million divide by 6 months left that&#39;s $150 million per month or about 100,000 shares they can buy back everyday until years end.",Neutral,0,0.9976797699928284,Main
+Yahoo,2024-08-06,Back to the drawing board again.,Neutral,0,0.9996751546859741,Main
+Yahoo,2024-08-06,So what is the excuse that this stock is not up today other than manipulation by the big boys?,Negative,-1,0.5568237900733948,Main
+Yahoo,2024-08-06,"cha cha dance once again, can&#39;t make this stuff up.",Neutral,0,0.9955867528915405,Main
+Yahoo,2024-08-05,Need40s,Neutral,0,0.9993249177932739,Main
+Yahoo,2024-08-04,Twilio now getting respect several analysts upgraded to $83 and saying could be back on the way to $400 as it was in 2021. More upgrades to come after unprecedented 12% increase while market closed at worse day in 22 years even worse than pandemic.,Negative,-1,0.6014530062675476,Main
+Yahoo,2024-08-02,1st close above 200 dma since 5/6... disclaimer long 250 shrs @ $62.32.... go TWLO,Neutral,0,0.9999982118606567,Main
+Yahoo,2024-08-02,Interesting 🤨,Neutral,0,0.8828766345977783,Main
+Yahoo,2024-08-02,Strong performance on the worst day of the year for stocks,Positive,1,1.0,Main
+Yahoo,2024-08-02,"Twilio, a growth story Part 2",Positive,1,0.6752117872238159,Main
+Yahoo,2024-08-01,Anyone hear of a buyback mentioned 🇺🇸🇺🇸🇺🇸🚀,Neutral,0,0.9999085664749146,Main
+Yahoo,2024-08-01,"CNBC barely mentioned the earnings beat by TWLO, no wonder we don&#39;t see a larger gain. Who is paying those clowns to ignore TWLO?",Neutral,0,0.8238461017608643,Main
+Yahoo,2024-08-01,What a dog stock.  It&#39;s only able to recoup one days worth of drop.,Neutral,0,0.5267768502235413,Main
+Yahoo,2024-08-01,WOW! TWLO did great on both top and bottom line. Unfortunately on a day market in severe crash. Will make it up tomorrow as market recovers.,Positive,1,0.9999986886978149,Main
+Yahoo,2024-08-01,Wow impressive earnings and future. This company is so under appreciated and valued.,Positive,1,0.9999998807907104,Main
+Yahoo,2024-08-01,Don’t be fool buy Twlo and get rewarded,Positive,1,0.9163986444473267,Main
+Yahoo,2024-08-01,Beat on all metrics...........and guided above concensus. Lets see tomorrow how the crooked MM&#39;s manipulate down to salvage their shorts. This should head higher tomorrow if MM&#39;s leave it alone.,Positive,1,0.9999990463256836,Main
+Yahoo,2024-08-01,Pretty good report all across the board from Rev to EPS. Even a reasonable outlook and reaccelerating top line. $80 soon,Positive,1,1.0,Main
+Yahoo,2024-08-01,looks good,Positive,1,0.9999990463256836,Main
+Yahoo,2024-08-01,jumping around,Neutral,0,0.9956660270690918,Main
+Yahoo,2024-08-01,Twilio along with Amazon/Apple will save the market,Positive,1,0.7028381824493408,Main
+Yahoo,2024-08-01,Worst stock ever. Facts.,Negative,-1,0.9995177984237671,Main
+Yahoo,2024-08-01,Sell Sell Sell before TWLO announces its &#34;earnings&#34;!,Negative,-1,0.9854437708854675,Main
+Yahoo,2024-08-01,Great day for earnings 😫,Positive,1,0.9343472719192505,Main
+Yahoo,2024-08-01,Twilio is a total sheet show with corrupt management.,Neutral,0,0.999997615814209,Main
+Yahoo,2024-08-01,Let’s go🚀🇺🇸,Neutral,0,0.999863862991333,Main
