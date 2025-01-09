@@ -18,7 +18,14 @@ def remove_ticker_files(base_dir):
         "{ticker}_holder.json",
         "evaluation_results_{ticker}.json",
         "{ticker}_merged.csv",
-        "{ticker}_USP1_features.csv"
+        "{ticker}_USP1_features.csv",
+        "{ticker}_filtered_stocks.csv",
+        "{ticker}_final.csv",
+         "{ticker}_prepared_data.csv",
+          "{ticker}_processed.csv",
+           "{ticker}_features.csv",
+            "{ticker}_refined.csv",
+           
 
     ]
 
