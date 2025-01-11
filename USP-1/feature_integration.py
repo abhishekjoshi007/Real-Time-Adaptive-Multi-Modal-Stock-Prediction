@@ -17,6 +17,8 @@ tickers = [
     'VSAT', 'BASE', 'MAXN', 'PGY', 'TDY', 'PAR', 'MRVL', 'PLUS', 'GCT', 'BKSY',
     'FOUR'
 ]
+
+
 base_path = '/Users/abhishekjoshi/Documents/GitHub/stock_forecasting_CAI/Data 2'
 
 # Rolling window size
