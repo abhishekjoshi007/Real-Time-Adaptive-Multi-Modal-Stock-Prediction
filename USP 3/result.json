@@ -1,0 +1,8 @@
+Overall Metrics:
+Average Bidirectional Scores Mean: 0.4888302651385311
+Average Bidirectional Scores Std: 0.377729555722326
+Average Shape Ratio: 1.0166872876882553
+Overall RMSE: 0.25682035088539124
+No flagged events to compute RMSE.
+Non-Flagged Event RMSE: 0.25682035088539124
+MAPE: 1.48358154296875%

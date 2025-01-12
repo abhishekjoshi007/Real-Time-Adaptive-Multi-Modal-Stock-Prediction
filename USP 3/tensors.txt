@@ -1,0 +1,553 @@
+(stellargraph-env) Abhishek@Mac: python3 eal.py
+Ticker: PD
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: HEAR
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: AAPL
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: PANW
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ARRY
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: TEL
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ARQQ
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ANET
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: UI
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ZM
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: AGYS
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: FSLR
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: INOD
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: UBER
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: SNPS
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ADI
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: FORM
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: PLTR
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: SQ
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: RELL
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: AMKR
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: CSIQ
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: KD
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+File not found for ticker: .DS_Store
+Ticker: BL
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: TXN
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: KLAC
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: INTC
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: APP
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: BILL
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: RELY
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: CDNS
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: MU
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: APLD
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: FIS
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: TOST
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: DDOG
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: AMAT
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: PAYO
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: NTAP
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: FICO
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: TTD
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ATOM
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: DMRC
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ENPH
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: TWLO
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: BMI
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: BMBL
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: MSTR
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: OLED
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: CRWD
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: SOUN
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: PATH
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: QCOM
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: BAND
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: RUM
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ESTC
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: DOCU
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: U
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: SEDG
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: MSFT
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: HPE
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: COHR
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: MEI
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ONTO
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ACN
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: WK
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: HPQ
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: S
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: GEN
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ORCL
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: OUST
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: DELL
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ALAB
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ODD
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: IBM
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ADP
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: AMD
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: WOLF
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: LRCX
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: PI
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: SMCI
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: PAGS
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: STNE
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: NXT
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ZS
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: WDAY
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: HUBS
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: BTDR
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: NOW
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: AI
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: AFRM
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: NTNX
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: CORZ
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: KN
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: INTU
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: WDC
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: TASK
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ACMR
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: APH
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: NEON
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: DOX
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: AEHR
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: CSCO
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: NVMI
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: CRSR
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: SMTC
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: KEYS
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: AVGO
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: OS
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: RAMP
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: NCNO
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: INSG
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: KOSS
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: AAOI
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: SNOW
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ADSK
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: PSFE
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: RUN
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: UIS
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ASTS
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ON
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: KPLT
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: ADBE
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: FLEX
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: CAMT
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: QXO
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: AIP
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: VSAT
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: BASE
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: MAXN
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: PGY
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: TDY
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: PAR
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: MRVL
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: PLUS
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: GCT
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: BKSY
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
+
+Ticker: FOUR
+Feature Tensor Shape: torch.Size([1, 65, 3])
+Event Flag Tensor Shape: torch.Size([1, 65, 1])
