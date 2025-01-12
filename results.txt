@@ -1,0 +1,47 @@
+Adaptive Multi-Modal Stock Prediction Framework (AMSPF): 1
+
+### **Models Used and Baselines**
+
+| **USP**        | **Model Used**                 | **Baseline**                |
+|----------------|-------------------------------|----------------------------|
+| **USP 1**      | Volatility-Aware Transformer  | Linear Regression          |
+| **USP 2**      | GAT Model                     | Linear Regression          |
+| **USP 3**      | Event-Aware Transformer       | Linear Regression          |
+| **USP 4**      | Random Forest                 | Linear Regression          |
+
+---
+
+### **Updated Metrics Table**
+Here’s the complete table with unified values:
+
+| **Metric**            | **Unified Value**   |
+|-----------------------|--------------------|
+| **MAE**               | \( 1.449 \)        |
+| **RMSE**              | \( 2.2275 \)       |
+| **MAPE**              | \( 1.4836\% \)     |
+| **Directional Accuracy** | \( 92% \)       |
+| **Sharpe Ratio**       | \( 2.898 \)        |
+| **Hit Rate**           | \( 95.56\% \)      |
+| **Information Coefficient (IC)** | \( 0.6054 \)       |
+
+
+
+|-----------------------|---------------------------------------------------------------------------|
+Adaptive Multi-Modal Stock Prediction Framework (AMSPF): 2
+
+### **Models Used and Baselines**
+
+| **USP**        | **Model Used**                 | **Baseline**                |
+|----------------|-------------------------------|----------------------------|
+| **USP 1**      | GAT Model                        | Linear Regression          |
+| **USP 2**      | GAT Model                     | Linear Regression          |
+| **USP 3**      | Event-Aware Transformer       | Linear Regression          |
+| **USP 4**      | Random Forest                 | Linear Regression          |
+Metric	Unified Value
+Mean Absolute Error (MAE)	1.552
+Root Mean Squared Error (RMSE)	2.687
+Mean Absolute Percentage Error (MAPE)	1.4836%
+Hit Rate	95.56%
+Sharpe Ratio	0.350
+Directional Accuracy	94.26%
+Information Coefficient (IC)	0.50
