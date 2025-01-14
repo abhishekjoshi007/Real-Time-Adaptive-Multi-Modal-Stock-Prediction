@@ -1,42 +1,43 @@
-Adaptive Multi-Modal Stock Prediction Framework (AMSPF): 1
+Adaptive Multi-Modal Stock Prediction Framework (AMSPF): 
+AMSPF-DIN (Dynamic Interaction Network)
 
-### **Models Used and Baselines**
+### Models Used and Baselines
 
-| **USP**        | **Model Used**                 | **Baseline**                |
+| USP        | Model Used                | Baseline               |
 |----------------|-------------------------------|----------------------------|
-| **USP 1**      | Volatility-Aware Transformer  | Linear Regression          |
-| **USP 2**      | GAT Model                     | Linear Regression          |
-| **USP 3**      | Event-Aware Transformer       | Linear Regression          |
-| **USP 4**      | Random Forest                 | Linear Regression          |
+| USP 1      | Volatility-Aware Transformer  | Linear Regression          |
+| USP 2      | GAT Model                     | Linear Regression          |
+| USP 3      | Event-Aware Transformer       | Linear Regression          |
+| USP 4      | Random Forest                 | Linear Regression          |
 
 ---
 
-### **Updated Metrics Table**
+### Updated Metrics Table
 Here’s the complete table with unified values:
 
-| **Metric**            | **Unified Value**   |
+| Metric            | Unified Value  |
 |-----------------------|--------------------|
-| **MAE**               | \( 1.449 \)        |
-| **RMSE**              | \( 2.2275 \)       |
-| **MAPE**              | \( 1.4836\% \)     |
-| **Directional Accuracy** | \( 92% \)       |
-| **Sharpe Ratio**       | \( 2.898 \)        |
-| **Hit Rate**           | \( 95.56\% \)      |
-| **Information Coefficient (IC)** | \( 0.6054 \)       |
+| MAE               | \( 1.449 \)        |
+| RMSE              | \( 2.2275 \)       |
+| MAPE              | \( 1.4836\% \)     |
+| Directional Accuracy | \( 92% \)       |
+| Sharpe Ratio       | \( 2.898 \)       |
+| Hit Rate           | \( 95.56\% \)     |
+| Information Coefficient (IC) | \( 0.6054 \)       |
 
 
 
 |-----------------------|---------------------------------------------------------------------------|
-Adaptive Multi-Modal Stock Prediction Framework (AMSPF): 2
+ AMSPF-TGA (Temporal Graph Attention)
 
-### **Models Used and Baselines**
+### Models Used and Baselines
 
-| **USP**        | **Model Used**                 | **Baseline**                |
+| USP        | Model Used                | Baseline                |
 |----------------|-------------------------------|----------------------------|
-| **USP 1**      | GAT Model                        | Linear Regression          |
-| **USP 2**      | GAT Model                     | Linear Regression          |
-| **USP 3**      | Event-Aware Transformer       | Linear Regression          |
-| **USP 4**      | Random Forest                 | Linear Regression          |
+| USP 1      | GAT Model                     | Linear Regression          |
+| USP 2      | GAT Model                     | Linear Regression          |
+| USP 3      | Event-Aware Transformer       | Linear Regression          |
+| USP 4      | Random Forest                 | Linear Regression          |
 Metric	Unified Value
 Mean Absolute Error (MAE)	1.552
 Root Mean Squared Error (RMSE)	2.687

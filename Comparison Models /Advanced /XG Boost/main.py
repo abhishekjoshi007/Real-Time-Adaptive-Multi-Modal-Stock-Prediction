@@ -1,26 +1,34 @@
 import os
 import pandas as pd
 import numpy as np
-from sklearn.metrics import mean_absolute_error, mean_squared_error
-from scipy.stats import spearmanr
-from xgboost import XGBRegressor
+import xgboost as xgb
 from sklearn.model_selection import train_test_split
+from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
 # Define the path to your data folder
-data_folder = "/Users/abhishekjoshi/Documents/GitHub/stock_forecasting_CAI/merged_data_usp1_usp3"
+data_folder = "/Users/abhishekjoshi/Documents/GitHub/stock_forecasting_CAI/merged_data_usp1_usp3"  # Update with the correct path
 
-# Function to calculate metrics
-def calculate_metrics(true_values, predicted_values):
-    mae = mean_absolute_error(true_values, predicted_values)
-    rmse = np.sqrt(mean_squared_error(true_values, predicted_values))
-    mape = np.mean(np.abs((true_values - predicted_values) / true_values)) * 100
-    directional_accuracy = np.mean(
-        np.sign(np.diff(true_values)) == np.sign(np.diff(predicted_values))
-    )
-    hit_rate = np.sum(np.sign(true_values - predicted_values) == 0) / len(true_values)
-    returns = true_values.pct_change().dropna()
-    sharpe_ratio = returns.mean() / returns.std() if returns.std() != 0 else 0
-    ic, _ = spearmanr(true_values, predicted_values)
+# Define the metrics calculation function
+def calculate_metrics(y_test, y_pred):
+    mae = mean_absolute_error(y_test, y_pred)
+    rmse = np.sqrt(mean_squared_error(y_test, y_pred))
+    mape = np.mean(np.abs((y_test - y_pred) / y_test)) * 100
+
+    # Directional accuracy
+    actual_direction = np.sign(np.diff(y_test))
+    predicted_direction = np.sign(np.diff(y_pred))
+    directional_accuracy = np.mean(actual_direction == predicted_direction)
+
+    # Hit rate
+    hit_rate = np.mean((y_test > np.mean(y_test)) == (y_pred > np.mean(y_pred)))
+
+    # Sharpe ratio (simplified, using return differences)
+    returns = y_test.pct_change().dropna()
+    excess_returns = returns - np.mean(returns)
+    sharpe_ratio = np.mean(excess_returns) / np.std(excess_returns)
+
+    # Information Coefficient (IC)
+    ic = np.corrcoef(y_test, y_pred)[0, 1]
 
     return {
         "MAE": mae,
@@ -32,8 +40,17 @@ def calculate_metrics(true_values, predicted_values):
         "Information Coefficient (IC)": ic,
     }
 
-# Initialize accumulators for combined metrics
-overall_metrics = {
+# Define the features to use
+selected_features = [
+    'Volatility (7 Days)_USP1_2',  # USP 1 and 2 feature
+    'Volume-Weighted Sentiment',  # USP 2 feature
+    'Volatility (7 Days)_USP3',   # USP 3 feature
+    'Momentum (7 Days)',          # Momentum as additional feature
+    'Close'                       # Target variable
+]
+
+# Initialize variables for combined metrics
+combined_metrics = {
     "MAE": [],
     "RMSE": [],
     "MAPE (%)": [],
@@ -43,61 +60,55 @@ overall_metrics = {
     "Information Coefficient (IC)": []
 }
 
-# Process each file in the data folder
-results = []
-for file_name in os.listdir(data_folder):
-    if file_name.endswith(".csv"):  # Ensure we process only CSV files
-        file_path = os.path.join(data_folder, file_name)
-        ticker = file_name.split(".")[0]  # Extract ticker name from the file name
+# Iterate over all CSV files in the data folder
+for ticker_file in os.listdir(data_folder):
+    if ticker_file.endswith(".csv"):
+        ticker_name = os.path.splitext(ticker_file)[0]
+        file_path = os.path.join(data_folder, ticker_file)
 
-        # Load the data
+        # Load the dataset
         data = pd.read_csv(file_path)
 
-        # Ensure 'Close' column exists
-        if 'Close' not in data.columns:
-            print(f"File {file_name} does not contain 'Close' column. Skipping.")
+        # Check if all required columns exist
+        if not all(feature in data.columns for feature in selected_features):
+            print(f"Skipping {ticker_name} due to missing features.")
             continue
 
-        # Sort data by date
-        data['Date'] = pd.to_datetime(data['Date'])
-        data.sort_values('Date', inplace=True)
+        # Extract features and target
+        X = data[selected_features[:-1]]  # All columns except 'Close'
+        y = data['Close']                 # Target variable
 
-        # Feature engineering
-        features = data.drop(columns=['Date', 'Close', 'Ticker Name'])  # Exclude non-numeric columns
-        target = data['Close']
+        # Handle missing values
+        X.fillna(X.mean(), inplace=True)
+        y.fillna(y.mean(), inplace=True)
 
-        # Train-test split
-        X_train, X_test, y_train, y_test = train_test_split(features, target, test_size=0.2, random_state=42, shuffle=False)
+        # Split the dataset
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-        # Ensure sufficient training and test data
-        if len(X_train) < 10 or len(X_test) < 10:
-            print(f"Not enough data in {file_name} for training. Skipping.")
-            continue
+        # Initialize and train the XGBoost model
+        model = xgb.XGBRegressor(
+            n_estimators=100,
+            max_depth=6,
+            learning_rate=0.1,
+            objective='reg:squarederror',
+            random_state=42
+        )
 
-        # Train XGBoost model
-        model = XGBRegressor(objective='reg:squarederror', n_estimators=100, learning_rate=0.1, max_depth=3, random_state=42)
         model.fit(X_train, y_train)
 
         # Make predictions
-        predictions = model.predict(X_test)
+        y_pred = model.predict(X_test)
 
-        # Calculate metrics for the current file
-        metrics = calculate_metrics(y_test, predictions)
-        metrics['Ticker'] = ticker  # Add ticker name to the results
-        results.append(metrics)
+        # Calculate metrics and add to combined results
+        metrics = calculate_metrics(y_test, y_pred)
+        for key in combined_metrics.keys():
+            combined_metrics[key].append(metrics[key])
 
-        # Accumulate metrics for combined overall values
-        for key in overall_metrics.keys():
-            overall_metrics[key].append(metrics[key])
+# Compute aggregated metrics
+aggregated_metrics = {key: np.mean(values) for key, values in combined_metrics.items()}
 
-# Calculate overall combined metrics
-combined_metrics = {key: np.mean(values) for key, values in overall_metrics.items()}
+# Save the aggregated metrics to a CSV
+aggregated_metrics_df = pd.DataFrame([aggregated_metrics])
+aggregated_metrics_df.to_csv("aggregated_xgboost_metrics.csv", index=False)
 
-# Display per-ticker metrics and combined metrics
-results_df = pd.DataFrame(results)
-print("\nPer-Ticker Metrics:")
-print(results_df)
-
-print("\nCombined Overall Metrics:")
-for metric, value in combined_metrics.items():
-    print(f"{metric}: {value:.4f}")
+print("Combined metrics for all tickers saved to 'aggregated_xgboost_metrics.csv'.")

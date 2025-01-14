@@ -1,0 +1,7 @@
+Evaluation Metrics:
+MAE: 0.5561
+RMSE: .8421
+MAPE (%): 8.2893
+Directional Accuracy (%):79.6190
+Sharpe Ratio: 0.827
+Information Coefficient (IC): 0.0765

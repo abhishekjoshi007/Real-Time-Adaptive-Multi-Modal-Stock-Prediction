@@ -1,0 +1,5287 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="weight" attr.type="float"/>
+<key id="d8" for="edge" attr.name="relationship" attr.type="string"/>
+<key id="d7" for="node" attr.name="volume" attr.type="double"/>
+<key id="d6" for="node" attr.name="total_holders" attr.type="long"/>
+<key id="d5" for="node" attr.name="industry" attr.type="string"/>
+<key id="d4" for="node" attr.name="adj_close" attr.type="double"/>
+<key id="d3" for="node" attr.name="low" attr.type="double"/>
+<key id="d2" for="node" attr.name="high" attr.type="double"/>
+<key id="d1" for="node" attr.name="volume" attr.type="long"/>
+<key id="d0" for="node" attr.name="close_price" attr.type="double"/>
+<graph edgedefault="undirected"><node id="PD">
+  <data key="d0">18.059999465942383</data>
+  <data key="d1">503900</data>
+  <data key="d2">18.670000076293945</data>
+  <data key="d3">18.040000915527344</data>
+  <data key="d4">18.059999465942383</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="HEAR">
+  <data key="d0">15.970000267028809</data>
+  <data key="d1">310600</data>
+  <data key="d2">17.43000030517578</data>
+  <data key="d3">15.329999923706056</data>
+  <data key="d4">15.970000267028809</data>
+  <data key="d5">Consumer Electronics</data>
+  <data key="d6">10</data>
+</node>
+<node id="AAPL">
+  <data key="d0">225.66172790527344</data>
+  <data key="d1">64370100</data>
+  <data key="d2">229.8300018310547</data>
+  <data key="d3">225.3699951171875</data>
+  <data key="d4">225.66172790527344</data>
+  <data key="d5">Consumer Electronics</data>
+  <data key="d6">10</data>
+</node>
+<node id="PANW">
+  <data key="d0">360.3299865722656</data>
+  <data key="d1">2032000</data>
+  <data key="d2">369.3800048828125</data>
+  <data key="d3">358.20001220703125</data>
+  <data key="d4">360.3299865722656</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="ARRY">
+  <data key="d0">6.53000020980835</data>
+  <data key="d1">9668200</data>
+  <data key="d2">6.755000114440918</data>
+  <data key="d3">6.260000228881836</data>
+  <data key="d4">6.53000020980835</data>
+  <data key="d5">Solar</data>
+  <data key="d6">10</data>
+</node>
+<node id="TEL">
+  <data key="d0">147.4199981689453</data>
+  <data key="d1">2616500</data>
+  <data key="d2">149.75999450683594</data>
+  <data key="d3">145.50999450683594</data>
+  <data key="d4">147.4199981689453</data>
+  <data key="d5">Electronic Components</data>
+  <data key="d6">10</data>
+</node>
+<node id="ARQQ">
+  <data key="d0">5.409999847412109</data>
+  <data key="d1">105900</data>
+  <data key="d2">6.079999923706055</data>
+  <data key="d3">5.320000171661377</data>
+  <data key="d4">5.409999847412109</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="ANET">
+  <data key="d0">386.44000244140625</data>
+  <data key="d1">2343500</data>
+  <data key="d2">390.8699951171875</data>
+  <data key="d3">381.8800048828125</data>
+  <data key="d4">386.44000244140625</data>
+  <data key="d5">Computer Hardware</data>
+  <data key="d6">10</data>
+</node>
+<node id="UI">
+  <data key="d0">265.69000244140625</data>
+  <data key="d1">88900</data>
+  <data key="d2">269.9599914550781</data>
+  <data key="d3">260.4599914550781</data>
+  <data key="d4">265.69000244140625</data>
+  <data key="d5">Communication Equipment</data>
+  <data key="d6">10</data>
+</node>
+<node id="ZM">
+  <data key="d0">74.73999786376953</data>
+  <data key="d1">1723100</data>
+  <data key="d2">75.51000213623047</data>
+  <data key="d3">74.62999725341797</data>
+  <data key="d4">74.73999786376953</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="AGYS">
+  <data key="d0">100.04000091552734</data>
+  <data key="d1">335400</data>
+  <data key="d2">101.16000366210938</data>
+  <data key="d3">97.58000183105467</data>
+  <data key="d4">100.04000091552734</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="FSLR">
+  <data key="d0">194.47999572753903</data>
+  <data key="d1">2857400</data>
+  <data key="d2">202.33999633789065</data>
+  <data key="d3">194.1699981689453</data>
+  <data key="d4">194.47999572753903</data>
+  <data key="d5">Solar</data>
+  <data key="d6">10</data>
+</node>
+<node id="INOD">
+  <data key="d0">20.11000061035156</data>
+  <data key="d1">808700</data>
+  <data key="d2">21.219999313354492</data>
+  <data key="d3">19.690000534057617</data>
+  <data key="d4">20.11000061035156</data>
+  <data key="d5">Information Technology Services</data>
+  <data key="d6">10</data>
+</node>
+<node id="UBER">
+  <data key="d0">72.05000305175781</data>
+  <data key="d1">64047100</data>
+  <data key="d2">74.98999786376953</data>
+  <data key="d3">69.87000274658203</data>
+  <data key="d4">72.05000305175781</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="SNPS">
+  <data key="d0">513.6099853515625</data>
+  <data key="d1">1211100</data>
+  <data key="d2">531.969970703125</data>
+  <data key="d3">512.8300170898438</data>
+  <data key="d4">513.6099853515625</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="ADI">
+  <data key="d0">223.11000061035156</data>
+  <data key="d1">4258100</data>
+  <data key="d2">230.1999969482422</data>
+  <data key="d3">220.8300018310547</data>
+  <data key="d4">223.11000061035156</data>
+  <data key="d5">Semiconductors</data>
+  <data key="d6">10</data>
+</node>
+<node id="FORM">
+  <data key="d0">37.97999954223633</data>
+  <data key="d1">2219900</data>
+  <data key="d2">41.31999969482422</data>
+  <data key="d3">37.63999938964844</data>
+  <data key="d4">37.97999954223633</data>
+  <data key="d5">Semiconductor Equipment &amp; Materials</data>
+  <data key="d6">10</data>
+</node>
+<node id="PLTR">
+  <data key="d0">41.560001373291016</data>
+  <data key="d1">50973400</data>
+  <data key="d2">43.31999969482422</data>
+  <data key="d3">40.900001525878906</data>
+  <data key="d4">41.560001373291016</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="SQ">
+  <data key="d0">72.31999969482422</data>
+  <data key="d1">4373600</data>
+  <data key="d2">73.7300033569336</data>
+  <data key="d3">71.5999984741211</data>
+  <data key="d4">72.31999969482422</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="RELL">
+  <data key="d0">13.683456420898438</data>
+  <data key="d1">63700</data>
+  <data key="d2">13.9399995803833</data>
+  <data key="d3">13.619999885559082</data>
+  <data key="d4">13.683456420898438</data>
+  <data key="d5">Electronic Components</data>
+  <data key="d6">10</data>
+</node>
+<node id="AMKR">
+  <data key="d0">25.450000762939453</data>
+  <data key="d1">2377700</data>
+  <data key="d2">26.68000030517578</data>
+  <data key="d3">25.440000534057617</data>
+  <data key="d4">25.450000762939453</data>
+  <data key="d5">Semiconductor Equipment &amp; Materials</data>
+  <data key="d6">10</data>
+</node>
+<node id="CSIQ">
+  <data key="d0">14.239999771118164</data>
+  <data key="d1">1422100</data>
+  <data key="d2">14.460000038146973</data>
+  <data key="d3">13.93000030517578</data>
+  <data key="d4">14.239999771118164</data>
+  <data key="d5">Solar</data>
+  <data key="d6">10</data>
+</node>
+<node id="KD">
+  <data key="d0">22.88999938964844</data>
+  <data key="d1">1769300</data>
+  <data key="d2">23.70299911499023</data>
+  <data key="d3">22.8700008392334</data>
+  <data key="d4">22.88999938964844</data>
+  <data key="d5">Information Technology Services</data>
+  <data key="d6">10</data>
+</node>
+<node id="BL">
+  <data key="d0">55.369998931884766</data>
+  <data key="d1">546200</data>
+  <data key="d2">56.720001220703125</data>
+  <data key="d3">55.369998931884766</data>
+  <data key="d4">55.369998931884766</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="TXN">
+  <data key="d0">203.16000366210935</data>
+  <data key="d1">6543000</data>
+  <data key="d2">207.9600067138672</data>
+  <data key="d3">201.3999938964844</data>
+  <data key="d4">203.16000366210935</data>
+  <data key="d5">Semiconductors</data>
+  <data key="d6">10</data>
+</node>
+<node id="KLAC">
+  <data key="d0">44.86000061035156</data>
+  <data key="d1">639300</data>
+  <data key="d2">46.13999938964844</data>
+  <data key="d3">44.790000915527344</data>
+  <data key="d4">44.86000061035156</data>
+  <data key="d5">Semiconductor Equipment &amp; Materials</data>
+  <data key="d6">10</data>
+</node>
+<node id="INTC">
+  <data key="d0">21.520000457763672</data>
+  <data key="d1">112485500</data>
+  <data key="d2">22.25</data>
+  <data key="d3">21.469999313354492</data>
+  <data key="d4">21.520000457763672</data>
+  <data key="d5">Semiconductors</data>
+  <data key="d6">10</data>
+</node>
+<node id="APP">
+  <data key="d0">169.38999938964844</data>
+  <data key="d1">2772800</data>
+  <data key="d2">171.30999755859375</data>
+  <data key="d3">164.75999450683594</data>
+  <data key="d4">169.38999938964844</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="BILL">
+  <data key="d0">58.36000061035156</data>
+  <data key="d1">1489400</data>
+  <data key="d2">58.83000183105469</data>
+  <data key="d3">57.15999984741211</data>
+  <data key="d4">58.36000061035156</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="RELY">
+  <data key="d0">17.979999542236328</data>
+  <data key="d1">7509000</data>
+  <data key="d2">19.899999618530273</data>
+  <data key="d3">17.139999389648438</data>
+  <data key="d4">17.979999542236328</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="CDNS">
+  <data key="d0">276.1199951171875</data>
+  <data key="d1">2785500</data>
+  <data key="d2">288.489990234375</data>
+  <data key="d3">276.07000732421875</data>
+  <data key="d4">276.1199951171875</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="MU">
+  <data key="d0">99.6500015258789</data>
+  <data key="d1">19830300</data>
+  <data key="d2">102.48999786376952</data>
+  <data key="d3">99.06999969482422</data>
+  <data key="d4">99.6500015258789</data>
+  <data key="d5">Semiconductors</data>
+  <data key="d6">10</data>
+</node>
+<node id="APLD">
+  <data key="d0">6.760000228881836</data>
+  <data key="d1">44462100</data>
+  <data key="d2">7.360000133514404</data>
+  <data key="d3">6.699999809265137</data>
+  <data key="d4">6.760000228881836</data>
+  <data key="d5">Information Technology Services</data>
+  <data key="d6">10</data>
+</node>
+<node id="FIS">
+  <data key="d0">89.7300033569336</data>
+  <data key="d1">3862700</data>
+  <data key="d2">91.54000091552734</data>
+  <data key="d3">89.69999694824219</data>
+  <data key="d4">89.7300033569336</data>
+  <data key="d5">Information Technology Services</data>
+  <data key="d6">10</data>
+</node>
+<node id="TOST">
+  <data key="d0">30.030000686645508</data>
+  <data key="d1">4147900</data>
+  <data key="d2">30.510000228881836</data>
+  <data key="d3">29.770000457763672</data>
+  <data key="d4">30.030000686645508</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="DDOG">
+  <data key="d0">125.44000244140624</data>
+  <data key="d1">3446300</data>
+  <data key="d2">126.43399810791016</data>
+  <data key="d3">124.0</data>
+  <data key="d4">125.44000244140624</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="AMAT">
+  <data key="d0">181.5800018310547</data>
+  <data key="d1">7307500</data>
+  <data key="d2">185.2100067138672</data>
+  <data key="d3">179.27999877929688</data>
+  <data key="d4">181.5800018310547</data>
+  <data key="d5">Semiconductor Equipment &amp; Materials</data>
+  <data key="d6">10</data>
+</node>
+<node id="PAYO">
+  <data key="d0">8.619999885559082</data>
+  <data key="d1">2722700</data>
+  <data key="d2">8.6899995803833</data>
+  <data key="d3">8.489999771118164</data>
+  <data key="d4">8.619999885559082</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="NTAP">
+  <data key="d0">115.30999755859376</data>
+  <data key="d1">1630200</data>
+  <data key="d2">118.20999908447266</data>
+  <data key="d3">115.1999969482422</data>
+  <data key="d4">115.30999755859376</data>
+  <data key="d5">Computer Hardware</data>
+  <data key="d6">10</data>
+</node>
+<node id="FICO">
+  <data key="d0">1993.1099853515625</data>
+  <data key="d1">123200</data>
+  <data key="d2">2026.5899658203125</data>
+  <data key="d3">1993.0899658203125</data>
+  <data key="d4">1993.1099853515625</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="TTD">
+  <data key="d0">120.20999908447266</data>
+  <data key="d1">3454800</data>
+  <data key="d2">121.55999755859376</data>
+  <data key="d3">117.79199981689452</data>
+  <data key="d4">120.20999908447266</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="ATOM">
+  <data key="d0">4.159999847412109</data>
+  <data key="d1">707000</data>
+  <data key="d2">4.349999904632568</data>
+  <data key="d3">3.950000047683716</data>
+  <data key="d4">4.159999847412109</data>
+  <data key="d5">Semiconductor Equipment &amp; Materials</data>
+  <data key="d6">10</data>
+</node>
+<node id="DMRC">
+  <data key="d0">30.979999542236328</data>
+  <data key="d1">70600</data>
+  <data key="d2">31.770000457763672</data>
+  <data key="d3">30.61000061035156</data>
+  <data key="d4">30.979999542236328</data>
+  <data key="d5">Information Technology Services</data>
+  <data key="d6">10</data>
+</node>
+<node id="ENPH">
+  <data key="d0">83.04000091552734</data>
+  <data key="d1">2916500</data>
+  <data key="d2">84.0</data>
+  <data key="d3">81.54000091552734</data>
+  <data key="d4">83.04000091552734</data>
+  <data key="d5">Solar</data>
+  <data key="d6">10</data>
+</node>
+<node id="TWLO">
+  <data key="d0">80.6500015258789</data>
+  <data key="d1">8582100</data>
+  <data key="d2">83.30000305175781</data>
+  <data key="d3">79.11000061035156</data>
+  <data key="d4">80.6500015258789</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="BMI">
+  <data key="d0">200.0500030517578</data>
+  <data key="d1">292400</data>
+  <data key="d2">205.33999633789065</data>
+  <data key="d3">199.67999267578125</data>
+  <data key="d4">200.0500030517578</data>
+  <data key="d5">Scientific &amp; Technical Instruments</data>
+  <data key="d6">10</data>
+</node>
+<node id="BMBL">
+  <data key="d0">7.079999923706055</data>
+  <data key="d1">1750600</data>
+  <data key="d2">7.28000020980835</data>
+  <data key="d3">7.059999942779541</data>
+  <data key="d4">7.079999923706055</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="MSTR">
+  <data key="d0">244.5</data>
+  <data key="d1">21954100</data>
+  <data key="d2">252.8800048828125</data>
+  <data key="d3">237.0</data>
+  <data key="d4">244.5</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="OLED">
+  <data key="d0">180.32000732421875</data>
+  <data key="d1">1223900</data>
+  <data key="d2">204.0</data>
+  <data key="d3">178.22000122070312</data>
+  <data key="d4">180.32000732421875</data>
+  <data key="d5">Electronic Components</data>
+  <data key="d6">10</data>
+</node>
+<node id="CRWD">
+  <data key="d0">296.8699951171875</data>
+  <data key="d1">3475700</data>
+  <data key="d2">307.4049987792969</data>
+  <data key="d3">294.67999267578125</data>
+  <data key="d4">296.8699951171875</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="SOUN">
+  <data key="d0">5.03000020980835</data>
+  <data key="d1">27131100</data>
+  <data key="d2">5.460000038146973</data>
+  <data key="d3">5.03000020980835</data>
+  <data key="d4">5.03000020980835</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="PATH">
+  <data key="d0">12.359999656677246</data>
+  <data key="d1">4409800</data>
+  <data key="d2">12.739999771118164</data>
+  <data key="d3">12.34000015258789</data>
+  <data key="d4">12.359999656677246</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="QCOM">
+  <data key="d0">162.77000427246094</data>
+  <data key="d1">10261200</data>
+  <data key="d2">167.77999877929688</data>
+  <data key="d3">162.0800018310547</data>
+  <data key="d4">162.77000427246094</data>
+  <data key="d5">Semiconductors</data>
+  <data key="d6">10</data>
+</node>
+<node id="BAND">
+  <data key="d0">19.5</data>
+  <data key="d1">900200</data>
+  <data key="d2">23.0</data>
+  <data key="d3">19.493000030517575</data>
+  <data key="d4">19.5</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="RUM">
+  <data key="d0">5.840000152587891</data>
+  <data key="d1">1570700</data>
+  <data key="d2">5.980000019073486</data>
+  <data key="d3">5.699999809265137</data>
+  <data key="d4">5.840000152587891</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="ESTC">
+  <data key="d0">80.2300033569336</data>
+  <data key="d1">596600</data>
+  <data key="d2">81.44000244140625</data>
+  <data key="d3">79.45999908447266</data>
+  <data key="d4">80.2300033569336</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="DOCU">
+  <data key="d0">69.37999725341797</data>
+  <data key="d1">1544000</data>
+  <data key="d2">70.0</data>
+  <data key="d3">68.58000183105469</data>
+  <data key="d4">69.37999725341797</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="U">
+  <data key="d0">20.07999992</data>
+  <data key="d7">nan</data>
+  <data key="d2">nan</data>
+  <data key="d3">nan</data>
+  <data key="d4">nan</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="SEDG">
+  <data key="d0">17.059999465942383</data>
+  <data key="d1">2506000</data>
+  <data key="d2">17.239999771118164</data>
+  <data key="d3">16.40999984741211</data>
+  <data key="d4">17.059999465942383</data>
+  <data key="d5">Solar</data>
+  <data key="d6">10</data>
+</node>
+<node id="MSFT">
+  <data key="d0">406.3500061035156</data>
+  <data key="d1">53971000</data>
+  <data key="d2">416.1600036621094</data>
+  <data key="d3">406.2999877929687</data>
+  <data key="d4">406.3500061035156</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="HPE">
+  <data key="d0">19.489999771118164</data>
+  <data key="d1">12163500</data>
+  <data key="d2">20.239999771118164</data>
+  <data key="d3">19.489999771118164</data>
+  <data key="d4">19.489999771118164</data>
+  <data key="d5">Communication Equipment</data>
+  <data key="d6">10</data>
+</node>
+<node id="COHR">
+  <data key="d0">92.44000244140624</data>
+  <data key="d1">3253900</data>
+  <data key="d2">96.0</data>
+  <data key="d3">90.80999755859376</data>
+  <data key="d4">92.44000244140624</data>
+  <data key="d5">Scientific &amp; Technical Instruments</data>
+  <data key="d6">10</data>
+</node>
+<node id="MEI">
+  <data key="d0">8.720000267028809</data>
+  <data key="d1">791100</data>
+  <data key="d2">9.270000457763672</data>
+  <data key="d3">8.699999809265137</data>
+  <data key="d4">8.720000267028809</data>
+  <data key="d5">Electronic Components</data>
+  <data key="d6">10</data>
+</node>
+<node id="ONTO">
+  <data key="d0">198.3300018310547</data>
+  <data key="d1">954100</data>
+  <data key="d2">205.36000061035156</data>
+  <data key="d3">194.6499938964844</data>
+  <data key="d4">198.3300018310547</data>
+  <data key="d5">Semiconductor Equipment &amp; Materials</data>
+  <data key="d6">10</data>
+</node>
+<node id="ACN">
+  <data key="d0">344.82000732421875</data>
+  <data key="d1">3078200</data>
+  <data key="d2">347.8599853515625</data>
+  <data key="d3">342.6199951171875</data>
+  <data key="d4">344.82000732421875</data>
+  <data key="d5">Information Technology Services</data>
+  <data key="d6">10</data>
+</node>
+<node id="WK">
+  <data key="d0">79.76000213623047</data>
+  <data key="d1">346400</data>
+  <data key="d2">81.27999877929688</data>
+  <data key="d3">79.72000122070312</data>
+  <data key="d4">79.76000213623047</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="HPQ">
+  <data key="d0">35.52000045776367</data>
+  <data key="d1">6620900</data>
+  <data key="d2">36.40999984741211</data>
+  <data key="d3">35.38999938964844</data>
+  <data key="d4">35.52000045776367</data>
+  <data key="d5">Computer Hardware</data>
+  <data key="d6">10</data>
+</node>
+<node id="S">
+  <data key="d0">25.79000092</data>
+  <data key="d7">nan</data>
+  <data key="d2">nan</data>
+  <data key="d3">nan</data>
+  <data key="d4">nan</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="GEN">
+  <data key="d0">29.11000061035156</data>
+  <data key="d1">10898100</data>
+  <data key="d2">30.030000686645508</data>
+  <data key="d3">27.649999618530273</data>
+  <data key="d4">29.11000061035156</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="ORCL">
+  <data key="d0">167.83999633789062</data>
+  <data key="d1">9477500</data>
+  <data key="d2">170.8800048828125</data>
+  <data key="d3">167.39999389648438</data>
+  <data key="d4">167.83999633789062</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="OUST">
+  <data key="d0">6.630000114440918</data>
+  <data key="d1">654600</data>
+  <data key="d2">6.960000038146973</data>
+  <data key="d3">6.59499979019165</data>
+  <data key="d4">6.630000114440918</data>
+  <data key="d5">Electronic Components</data>
+  <data key="d6">10</data>
+</node>
+<node id="DELL">
+  <data key="d0">123.62999725341795</data>
+  <data key="d1">7312400</data>
+  <data key="d2">127.58999633789062</data>
+  <data key="d3">122.58999633789062</data>
+  <data key="d4">123.62999725341795</data>
+  <data key="d5">Computer Hardware</data>
+  <data key="d6">10</data>
+</node>
+<node id="ALAB">
+  <data key="d0">70.16000366210938</data>
+  <data key="d1">2890600</data>
+  <data key="d2">73.2750015258789</data>
+  <data key="d3">69.33000183105469</data>
+  <data key="d4">70.16000366210938</data>
+  <data key="d5">Semiconductors</data>
+  <data key="d6">10</data>
+</node>
+<node id="ODD">
+  <data key="d0">38.38999938964844</data>
+  <data key="d1">200100</data>
+  <data key="d2">39.27000045776367</data>
+  <data key="d3">37.56999969482422</data>
+  <data key="d4">38.38999938964844</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="IBM">
+  <data key="d0">205.1035614013672</data>
+  <data key="d1">5925300</data>
+  <data key="d2">208.1300048828125</data>
+  <data key="d3">203.5099945068359</data>
+  <data key="d4">205.1035614013672</data>
+  <data key="d5">Information Technology Services</data>
+  <data key="d6">10</data>
+</node>
+<node id="ADP">
+  <data key="d0">289.239990234375</data>
+  <data key="d1">2215700</data>
+  <data key="d2">292.5400085449219</data>
+  <data key="d3">288.94000244140625</data>
+  <data key="d4">289.239990234375</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="AMD">
+  <data key="d0">144.07000732421875</data>
+  <data key="d1">44386600</data>
+  <data key="d2">148.67999267578125</data>
+  <data key="d3">143.3300018310547</data>
+  <data key="d4">144.07000732421875</data>
+  <data key="d5">Semiconductors</data>
+  <data key="d6">10</data>
+</node>
+<node id="WOLF">
+  <data key="d0">13.3100004196167</data>
+  <data key="d1">11371100</data>
+  <data key="d2">15.140000343322754</data>
+  <data key="d3">13.020000457763672</data>
+  <data key="d4">13.3100004196167</data>
+  <data key="d5">Semiconductors</data>
+  <data key="d6">10</data>
+</node>
+<node id="LRCX">
+  <data key="d0">74.3499984741211</data>
+  <data key="d1">13044900</data>
+  <data key="d2">76.0999984741211</data>
+  <data key="d3">73.44999694824219</data>
+  <data key="d4">74.3499984741211</data>
+  <data key="d5">Semiconductor Equipment &amp; Materials</data>
+  <data key="d6">10</data>
+</node>
+<node id="PI">
+  <data key="d0">189.9900054931641</data>
+  <data key="d1">374200</data>
+  <data key="d2">192.73500061035156</data>
+  <data key="d3">187.5500030517578</data>
+  <data key="d4">189.9900054931641</data>
+  <data key="d5">Communication Equipment</data>
+  <data key="d6">10</data>
+</node>
+<node id="SMCI">
+  <data key="d0">29.11000061035156</data>
+  <data key="d1">129887200</data>
+  <data key="d2">30.88999938964844</data>
+  <data key="d3">27.219999313354492</data>
+  <data key="d4">29.11000061035156</data>
+  <data key="d5">Computer Hardware</data>
+  <data key="d6">10</data>
+</node>
+<node id="PAGS">
+  <data key="d0">8.039999961853027</data>
+  <data key="d1">3082900</data>
+  <data key="d2">8.300000190734863</data>
+  <data key="d3">8.024999618530273</data>
+  <data key="d4">8.039999961853027</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="STNE">
+  <data key="d0">11.100000381469728</data>
+  <data key="d1">1781900</data>
+  <data key="d2">11.43000030517578</data>
+  <data key="d3">11.09000015258789</data>
+  <data key="d4">11.100000381469728</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="NXT">
+  <data key="d0">39.81999969482422</data>
+  <data key="d1">10332400</data>
+  <data key="d2">41.0</data>
+  <data key="d3">36.38999938964844</data>
+  <data key="d4">39.81999969482422</data>
+  <data key="d5">Solar</data>
+  <data key="d6">10</data>
+</node>
+<node id="ZS">
+  <data key="d0">180.7899932861328</data>
+  <data key="d1">1786600</data>
+  <data key="d2">187.0</data>
+  <data key="d3">180.6499938964844</data>
+  <data key="d4">180.7899932861328</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="WDAY">
+  <data key="d0">233.8500061035156</data>
+  <data key="d1">1415800</data>
+  <data key="d2">238.0399932861328</data>
+  <data key="d3">233.75</data>
+  <data key="d4">233.8500061035156</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="HUBS">
+  <data key="d0">554.7899780273438</data>
+  <data key="d1">335000</data>
+  <data key="d2">562.8350219726562</data>
+  <data key="d3">551.7000122070312</data>
+  <data key="d4">554.7899780273438</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="BTDR">
+  <data key="d0">7.789999961853027</data>
+  <data key="d1">2314200</data>
+  <data key="d2">8.729999542236328</data>
+  <data key="d3">7.744999885559082</data>
+  <data key="d4">7.789999961853027</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="NOW">
+  <data key="d0">932.989990234375</data>
+  <data key="d1">1333300</data>
+  <data key="d2">954.3599853515624</data>
+  <data key="d3">928.3499755859376</data>
+  <data key="d4">932.989990234375</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="AI">
+  <data key="d0">24.6299991607666</data>
+  <data key="d1">3153300</data>
+  <data key="d2">26.084999084472656</data>
+  <data key="d3">24.450000762939453</data>
+  <data key="d4">24.6299991607666</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="AFRM">
+  <data key="d0">43.849998474121094</data>
+  <data key="d1">7558800</data>
+  <data key="d2">45.290000915527344</data>
+  <data key="d3">42.779998779296875</data>
+  <data key="d4">43.849998474121094</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="NTNX">
+  <data key="d0">62.099998474121094</data>
+  <data key="d1">1151200</data>
+  <data key="d2">64.08999633789062</data>
+  <data key="d3">62.029998779296875</data>
+  <data key="d4">62.099998474121094</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="CORZ">
+  <data key="d0">13.289999961853027</data>
+  <data key="d1">10144100</data>
+  <data key="d2">13.739999771118164</data>
+  <data key="d3">13.100000381469728</data>
+  <data key="d4">13.289999961853027</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="KN">
+  <data key="d0">17.31999969482422</data>
+  <data key="d1">532500</data>
+  <data key="d2">17.579999923706055</data>
+  <data key="d3">17.190000534057617</data>
+  <data key="d4">17.31999969482422</data>
+  <data key="d5">Electronic Components</data>
+  <data key="d6">10</data>
+</node>
+<node id="INTU">
+  <data key="d0">610.2999877929688</data>
+  <data key="d1">1478600</data>
+  <data key="d2">621.739990234375</data>
+  <data key="d3">608.5499877929688</data>
+  <data key="d4">610.2999877929688</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="WDC">
+  <data key="d0">65.30999755859375</data>
+  <data key="d1">4572100</data>
+  <data key="d2">67.45999908447266</data>
+  <data key="d3">65.0</data>
+  <data key="d4">65.30999755859375</data>
+  <data key="d5">Computer Hardware</data>
+  <data key="d6">10</data>
+</node>
+<node id="TASK">
+  <data key="d0">12.640000343322754</data>
+  <data key="d1">152100</data>
+  <data key="d2">12.65999984741211</data>
+  <data key="d3">12.369999885559082</data>
+  <data key="d4">12.640000343322754</data>
+  <data key="d5">Information Technology Services</data>
+  <data key="d6">10</data>
+</node>
+<node id="ACMR">
+  <data key="d0">18.795000076293945</data>
+  <data key="d1">1397100</data>
+  <data key="d2">20.0</data>
+  <data key="d3">18.56999969482422</data>
+  <data key="d4">18.795000076293945</data>
+  <data key="d5">Semiconductor Equipment &amp; Materials</data>
+  <data key="d6">10</data>
+</node>
+<node id="APH">
+  <data key="d0">67.0199966430664</data>
+  <data key="d1">6512800</data>
+  <data key="d2">68.0999984741211</data>
+  <data key="d3">66.83999633789062</data>
+  <data key="d4">67.0199966430664</data>
+  <data key="d5">Electronic Components</data>
+  <data key="d6">10</data>
+</node>
+<node id="NEON">
+  <data key="d0">7.28000020980835</data>
+  <data key="d1">149000</data>
+  <data key="d2">7.659999847412109</data>
+  <data key="d3">7.210000038146973</data>
+  <data key="d4">7.28000020980835</data>
+  <data key="d5">Electronic Components</data>
+  <data key="d6">10</data>
+</node>
+<node id="DOX">
+  <data key="d0">87.75</data>
+  <data key="d1">617600</data>
+  <data key="d2">88.47000122070312</data>
+  <data key="d3">87.58999633789062</data>
+  <data key="d4">87.75</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="AEHR">
+  <data key="d0">14.079999923706056</data>
+  <data key="d1">1117800</data>
+  <data key="d2">14.869999885559082</data>
+  <data key="d3">13.859999656677246</data>
+  <data key="d4">14.079999923706056</data>
+  <data key="d5">Semiconductor Equipment &amp; Materials</data>
+  <data key="d6">10</data>
+</node>
+<node id="CSCO">
+  <data key="d0">54.77000045776367</data>
+  <data key="d1">22023400</data>
+  <data key="d2">55.5099983215332</data>
+  <data key="d3">54.709999084472656</data>
+  <data key="d4">54.77000045776367</data>
+  <data key="d5">Communication Equipment</data>
+  <data key="d6">10</data>
+</node>
+<node id="NVMI">
+  <data key="d0">185.3000030517578</data>
+  <data key="d1">182800</data>
+  <data key="d2">197.27999877929688</data>
+  <data key="d3">183.0800018310547</data>
+  <data key="d4">185.3000030517578</data>
+  <data key="d5">Semiconductor Equipment &amp; Materials</data>
+  <data key="d6">10</data>
+</node>
+<node id="CRSR">
+  <data key="d0">6.414999961853027</data>
+  <data key="d1">312700</data>
+  <data key="d2">6.579999923706055</data>
+  <data key="d3">6.364999771118164</data>
+  <data key="d4">6.414999961853027</data>
+  <data key="d5">Computer Hardware</data>
+  <data key="d6">10</data>
+</node>
+<node id="SMTC">
+  <data key="d0">44.189998626708984</data>
+  <data key="d1">1439700</data>
+  <data key="d2">46.2599983215332</data>
+  <data key="d3">44.02000045776367</data>
+  <data key="d4">44.189998626708984</data>
+  <data key="d5">Semiconductors</data>
+  <data key="d6">10</data>
+</node>
+<node id="KEYS">
+  <data key="d0">149.00999450683594</data>
+  <data key="d1">863900</data>
+  <data key="d2">151.19000244140625</data>
+  <data key="d3">148.3699951171875</data>
+  <data key="d4">149.00999450683594</data>
+  <data key="d5">Scientific &amp; Technical Instruments</data>
+  <data key="d6">10</data>
+</node>
+<node id="AVGO">
+  <data key="d0">169.77000427246094</data>
+  <data key="d1">26086600</data>
+  <data key="d2">174.4499969482422</data>
+  <data key="d3">167.3800048828125</data>
+  <data key="d4">169.77000427246094</data>
+  <data key="d5">Semiconductors</data>
+  <data key="d6">10</data>
+</node>
+<node id="OS">
+  <data key="d0">29.520000457763672</data>
+  <data key="d1">553100</data>
+  <data key="d2">30.520000457763672</data>
+  <data key="d3">29.34000015258789</data>
+  <data key="d4">29.520000457763672</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="RAMP">
+  <data key="d0">25.030000686645508</data>
+  <data key="d1">463100</data>
+  <data key="d2">25.5</data>
+  <data key="d3">25.0</data>
+  <data key="d4">25.030000686645508</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="NCNO">
+  <data key="d0">37.29999923706055</data>
+  <data key="d1">1187100</data>
+  <data key="d2">38.54499816894531</data>
+  <data key="d3">37.189998626708984</data>
+  <data key="d4">37.29999923706055</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="INSG">
+  <data key="d0">16.84000015258789</data>
+  <data key="d1">335600</data>
+  <data key="d2">17.450000762939453</data>
+  <data key="d3">16.1200008392334</data>
+  <data key="d4">16.84000015258789</data>
+  <data key="d5">Communication Equipment</data>
+  <data key="d6">10</data>
+</node>
+<node id="KOSS">
+  <data key="d0">7.139999866485596</data>
+  <data key="d1">94600</data>
+  <data key="d2">7.199999809265137</data>
+  <data key="d3">6.989999771118164</data>
+  <data key="d4">7.139999866485596</data>
+  <data key="d5">Consumer Electronics</data>
+  <data key="d6">10</data>
+</node>
+<node id="AAOI">
+  <data key="d0">15.619999885559082</data>
+  <data key="d1">1742000</data>
+  <data key="d2">16.219999313354492</data>
+  <data key="d3">15.5</data>
+  <data key="d4">15.619999885559082</data>
+  <data key="d5">Communication Equipment</data>
+  <data key="d6">10</data>
+</node>
+<node id="SNOW">
+  <data key="d0">114.81999969482422</data>
+  <data key="d1">5284600</data>
+  <data key="d2">117.83000183105467</data>
+  <data key="d3">113.86000061035156</data>
+  <data key="d4">114.81999969482422</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="ADSK">
+  <data key="d0">283.79998779296875</data>
+  <data key="d1">1488000</data>
+  <data key="d2">288.4700012207031</data>
+  <data key="d3">283.4200134277344</data>
+  <data key="d4">283.79998779296875</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="PSFE">
+  <data key="d0">21.239999771118164</data>
+  <data key="d1">175500</data>
+  <data key="d2">22.079999923706055</data>
+  <data key="d3">21.229999542236328</data>
+  <data key="d4">21.239999771118164</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="RUN">
+  <data key="d0">14.449999809265137</data>
+  <data key="d1">7589600</data>
+  <data key="d2">14.600000381469728</data>
+  <data key="d3">13.460000038146973</data>
+  <data key="d4">14.449999809265137</data>
+  <data key="d5">Solar</data>
+  <data key="d6">10</data>
+</node>
+<node id="UIS">
+  <data key="d0">6.909999847412109</data>
+  <data key="d1">997700</data>
+  <data key="d2">7.349999904632568</data>
+  <data key="d3">6.849999904632568</data>
+  <data key="d4">6.909999847412109</data>
+  <data key="d5">Information Technology Services</data>
+  <data key="d6">10</data>
+</node>
+<node id="ASTS">
+  <data key="d0">23.809999465942383</data>
+  <data key="d1">6876100</data>
+  <data key="d2">25.329999923706055</data>
+  <data key="d3">23.520000457763672</data>
+  <data key="d4">23.809999465942383</data>
+  <data key="d5">Communication Equipment</data>
+  <data key="d6">10</data>
+</node>
+<node id="ON">
+  <data key="d0">70.48999786</data>
+  <data key="d7">nan</data>
+  <data key="d2">nan</data>
+  <data key="d3">nan</data>
+  <data key="d4">nan</data>
+  <data key="d5">Semiconductors</data>
+  <data key="d6">10</data>
+</node>
+<node id="KPLT">
+  <data key="d0">8.420000076293945</data>
+  <data key="d1">35600</data>
+  <data key="d2">9.0</data>
+  <data key="d3">8.300000190734863</data>
+  <data key="d4">8.420000076293945</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="ADBE">
+  <data key="d0">478.0799865722656</data>
+  <data key="d1">2978700</data>
+  <data key="d2">486.0499877929687</data>
+  <data key="d3">477.3800048828125</data>
+  <data key="d4">478.0799865722656</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="FLEX">
+  <data key="d0">34.66999816894531</data>
+  <data key="d1">3120300</data>
+  <data key="d2">35.63999938964844</data>
+  <data key="d3">34.40999984741211</data>
+  <data key="d4">34.66999816894531</data>
+  <data key="d5">Electronic Components</data>
+  <data key="d6">10</data>
+</node>
+<node id="CAMT">
+  <data key="d0">79.55999755859375</data>
+  <data key="d1">277700</data>
+  <data key="d2">81.62999725341797</data>
+  <data key="d3">78.27999877929688</data>
+  <data key="d4">79.55999755859375</data>
+  <data key="d5">Semiconductor Equipment &amp; Materials</data>
+  <data key="d6">10</data>
+</node>
+<node id="QXO">
+  <data key="d0">15.220000267028809</data>
+  <data key="d1">738300</data>
+  <data key="d2">15.350000381469728</data>
+  <data key="d3">14.890000343322754</data>
+  <data key="d4">15.220000267028809</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="AIP">
+  <data key="d0">6.809999942779541</data>
+  <data key="d1">73000</data>
+  <data key="d2">7.039999961853027</data>
+  <data key="d3">6.730000019073486</data>
+  <data key="d4">6.809999942779541</data>
+  <data key="d5">Semiconductors</data>
+  <data key="d6">10</data>
+</node>
+<node id="VSAT">
+  <data key="d0">9.600000381469728</data>
+  <data key="d1">2238800</data>
+  <data key="d2">10.3100004196167</data>
+  <data key="d3">9.529999732971191</data>
+  <data key="d4">9.600000381469728</data>
+  <data key="d5">Communication Equipment</data>
+  <data key="d6">10</data>
+</node>
+<node id="BASE">
+  <data key="d0">16.06999969482422</data>
+  <data key="d1">242400</data>
+  <data key="d2">16.489999771118164</data>
+  <data key="d3">15.970000267028809</data>
+  <data key="d4">16.06999969482422</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="MAXN">
+  <data key="d0">9.225000381469728</data>
+  <data key="d1">2944300</data>
+  <data key="d2">10.119999885559082</data>
+  <data key="d3">7.980000019073486</data>
+  <data key="d4">9.225000381469728</data>
+  <data key="d5">Solar</data>
+  <data key="d6">10</data>
+</node>
+<node id="PGY">
+  <data key="d0">11.520000457763672</data>
+  <data key="d1">1023300</data>
+  <data key="d2">12.350000381469728</data>
+  <data key="d3">11.5</data>
+  <data key="d4">11.520000457763672</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="TDY">
+  <data key="d0">455.3200073242187</data>
+  <data key="d1">277900</data>
+  <data key="d2">462.260009765625</data>
+  <data key="d3">455.2799987792969</data>
+  <data key="d4">455.3200073242187</data>
+  <data key="d5">Scientific &amp; Technical Instruments</data>
+  <data key="d6">10</data>
+</node>
+<node id="PAR">
+  <data key="d0">58.99000168</data>
+  <data key="d7">nan</data>
+  <data key="d2">nan</data>
+  <data key="d3">nan</data>
+  <data key="d4">nan</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="MRVL">
+  <data key="d0">80.11000061035156</data>
+  <data key="d1">11273000</data>
+  <data key="d2">82.44999694824219</data>
+  <data key="d3">79.05000305175781</data>
+  <data key="d4">80.11000061035156</data>
+  <data key="d5">Semiconductors</data>
+  <data key="d6">10</data>
+</node>
+<node id="PLUS">
+  <data key="d0">88.94999694824219</data>
+  <data key="d1">185600</data>
+  <data key="d2">95.75</data>
+  <data key="d3">88.70999908447266</data>
+  <data key="d4">88.94999694824219</data>
+  <data key="d5">Software Application</data>
+  <data key="d6">10</data>
+</node>
+<node id="GCT">
+  <data key="d0">22.770000457763672</data>
+  <data key="d1">915500</data>
+  <data key="d2">24.3799991607666</data>
+  <data key="d3">22.75</data>
+  <data key="d4">22.770000457763672</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<node id="BKSY">
+  <data key="d0">6.320000171661377</data>
+  <data key="d1">864900</data>
+  <data key="d2">6.860000133514404</data>
+  <data key="d3">6.25</data>
+  <data key="d4">6.320000171661377</data>
+  <data key="d5">Scientific &amp; Technical Instruments</data>
+  <data key="d6">10</data>
+</node>
+<node id="FOUR">
+  <data key="d0">90.44000244140624</data>
+  <data key="d1">776800</data>
+  <data key="d2">92.0</data>
+  <data key="d3">90.18000030517578</data>
+  <data key="d4">90.44000244140624</data>
+  <data key="d5">Software Infrastructure</data>
+  <data key="d6">10</data>
+</node>
+<edge source="PD" target="ZM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="AGYS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="UBER">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="BL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="APP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="BILL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="CDNS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="DDOG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="FICO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="TTD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="BMBL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="MSTR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="SOUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="RUM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="ESTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PD" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HEAR" target="AAPL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HEAR" target="KOSS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AAPL" target="KOSS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="ARQQ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="SNPS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="PLTR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="SQ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="RELY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="TOST">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="PAYO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="TWLO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="CRWD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="PATH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="BAND">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="MSFT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="S">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="GEN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="ORCL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PANW" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARRY" target="FSLR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARRY" target="CSIQ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARRY" target="ENPH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARRY" target="SEDG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARRY" target="NXT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARRY" target="RUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARRY" target="MAXN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TEL" target="RELL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TEL" target="OLED">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TEL" target="MEI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TEL" target="OUST">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TEL" target="KN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TEL" target="APH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TEL" target="NEON">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TEL" target="FLEX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="SNPS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="PLTR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="SQ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="RELY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="TOST">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="PAYO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="TWLO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="CRWD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="PATH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="BAND">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="MSFT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="S">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="GEN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="ORCL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ARQQ" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ANET" target="NTAP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ANET" target="HPQ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ANET" target="DELL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ANET" target="SMCI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ANET" target="WDC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ANET" target="CRSR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UI" target="HPE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UI" target="PI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UI" target="CSCO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UI" target="INSG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UI" target="AAOI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UI" target="ASTS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UI" target="VSAT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="AGYS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="UBER">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="BL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="APP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="BILL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="CDNS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="DDOG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="FICO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="TTD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="BMBL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="MSTR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="SOUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="RUM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="ESTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZM" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="UBER">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="BL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="APP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="BILL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="CDNS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="DDOG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="FICO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="TTD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="BMBL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="MSTR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="SOUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="RUM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="ESTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AGYS" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FSLR" target="CSIQ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FSLR" target="ENPH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FSLR" target="SEDG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FSLR" target="NXT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FSLR" target="RUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FSLR" target="MAXN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INOD" target="KD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INOD" target="APLD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INOD" target="FIS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INOD" target="DMRC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INOD" target="ACN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INOD" target="IBM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INOD" target="TASK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INOD" target="UIS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="BL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="APP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="BILL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="CDNS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="DDOG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="FICO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="TTD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="BMBL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="MSTR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="SOUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="RUM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="ESTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="UBER" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="PLTR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="SQ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="RELY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="CDNS">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8832850857381572</data>
+</edge>
+<edge source="SNPS" target="TOST">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="PAYO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="TWLO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="CRWD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="PATH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="BAND">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="MSFT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="S">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="GEN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="ORCL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNPS" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADI" target="TXN">
+  <data key="d8">correlation</data>
+  <data key="d9">0.9277464173563769</data>
+</edge>
+<edge source="ADI" target="KLAC">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8117188558695538</data>
+</edge>
+<edge source="ADI" target="INTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADI" target="MU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADI" target="AMAT">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8555605199722569</data>
+</edge>
+<edge source="ADI" target="QCOM">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8342622927319499</data>
+</edge>
+<edge source="ADI" target="ALAB">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADI" target="AMD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADI" target="WOLF">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADI" target="LRCX">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8207914815392781</data>
+</edge>
+<edge source="ADI" target="SMTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADI" target="AVGO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADI" target="ON">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8828930200837595</data>
+</edge>
+<edge source="ADI" target="AIP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADI" target="MRVL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FORM" target="AMKR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FORM" target="KLAC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FORM" target="AMAT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FORM" target="ATOM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FORM" target="ONTO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FORM" target="LRCX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FORM" target="ACMR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FORM" target="AEHR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FORM" target="NVMI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FORM" target="CAMT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="SQ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="RELY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="TOST">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="PAYO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="TWLO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="CRWD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="PATH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="BAND">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="MSFT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="S">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="GEN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="ORCL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PLTR" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="RELY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="TOST">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="PAYO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="TWLO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="CRWD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="PATH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="BAND">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="MSFT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="S">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="GEN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="ORCL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SQ" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELL" target="OLED">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELL" target="MEI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELL" target="OUST">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELL" target="KN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELL" target="APH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELL" target="NEON">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELL" target="FLEX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMKR" target="KLAC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMKR" target="AMAT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMKR" target="ATOM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMKR" target="ONTO">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8197437152622964</data>
+</edge>
+<edge source="AMKR" target="LRCX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMKR" target="ACMR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMKR" target="AEHR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMKR" target="NVMI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMKR" target="CAMT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CSIQ" target="ENPH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CSIQ" target="SEDG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CSIQ" target="NXT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CSIQ" target="RUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CSIQ" target="MAXN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KD" target="APLD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KD" target="FIS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KD" target="DMRC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KD" target="ACN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KD" target="IBM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KD" target="TASK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KD" target="UIS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="APP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="BILL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="CDNS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="DDOG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="PAYO">
+  <data key="d8">vws_similarity</data>
+  <data key="d9">0.9082464553722558</data>
+</edge>
+<edge source="BL" target="FICO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="TTD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="BMBL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="MSTR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="SOUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="RUM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="ESTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BL" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TXN" target="INTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TXN" target="MU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TXN" target="QCOM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TXN" target="WK">
+  <data key="d8">vws_similarity</data>
+  <data key="d9">0.9174384806382387</data>
+</edge>
+<edge source="TXN" target="ALAB">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TXN" target="AMD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TXN" target="WOLF">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TXN" target="SMTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TXN" target="AVGO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TXN" target="ON">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8316096925099953</data>
+</edge>
+<edge source="TXN" target="AIP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TXN" target="MRVL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KLAC" target="AMAT">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8187485076679831</data>
+</edge>
+<edge source="KLAC" target="ATOM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KLAC" target="ONTO">
+  <data key="d8">correlation</data>
+  <data key="d9">0.806564136068959</data>
+</edge>
+<edge source="KLAC" target="LRCX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KLAC" target="ACMR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KLAC" target="AEHR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KLAC" target="NVMI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KLAC" target="ON">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8399560233814093</data>
+</edge>
+<edge source="KLAC" target="CAMT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INTC" target="MU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INTC" target="QCOM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INTC" target="ALAB">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INTC" target="AMD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INTC" target="WOLF">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INTC" target="SMTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INTC" target="AVGO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INTC" target="ON">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INTC" target="AIP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INTC" target="MRVL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="BILL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="CDNS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="DDOG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="FICO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="TTD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="BMBL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="MSTR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="SOUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="RUM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="ESTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APP" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="CDNS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="DDOG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="FICO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="TTD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="BMBL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="MSTR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="SOUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="RUM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="ESTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BILL" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="TOST">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="PAYO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="TWLO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="CRWD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="PATH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="BAND">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="MSFT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="S">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="GEN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="ORCL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RELY" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="DDOG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="FICO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="TTD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="BMBL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="MSTR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="SOUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="RUM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="ESTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CDNS" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MU" target="QCOM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MU" target="ALAB">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MU" target="AMD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MU" target="WOLF">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MU" target="SMTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MU" target="AVGO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MU" target="ON">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MU" target="AIP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MU" target="MRVL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APLD" target="FIS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APLD" target="DMRC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APLD" target="ACN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APLD" target="IBM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APLD" target="TASK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APLD" target="UIS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FIS" target="DMRC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FIS" target="ACN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FIS" target="IBM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FIS" target="TASK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FIS" target="UIS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="PAYO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="TWLO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="CRWD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="PATH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="BAND">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="MSFT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="S">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="GEN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="ORCL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TOST" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="FICO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="TTD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="BMBL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="MSTR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="SOUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="RUM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="ESTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DDOG" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMAT" target="ATOM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMAT" target="ONTO">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8713524338456202</data>
+</edge>
+<edge source="AMAT" target="LRCX">
+  <data key="d8">correlation</data>
+  <data key="d9">0.9559960795530592</data>
+</edge>
+<edge source="AMAT" target="ACMR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMAT" target="AEHR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMAT" target="NVMI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMAT" target="ON">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8418960449034689</data>
+</edge>
+<edge source="AMAT" target="CAMT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="TWLO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="CRWD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="PATH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="BAND">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="MSFT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="S">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="GEN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="ORCL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAYO" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NTAP" target="HPQ">
+  <data key="d8">vws_similarity</data>
+  <data key="d9">0.9540085097049407</data>
+</edge>
+<edge source="NTAP" target="DELL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NTAP" target="SMCI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NTAP" target="WDC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NTAP" target="CRSR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="TTD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="BMBL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="MSTR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="SOUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="RUM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="ESTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="FICO" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="BMBL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="MSTR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="SOUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="RUM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="ESTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TTD" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ATOM" target="ONTO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ATOM" target="LRCX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ATOM" target="ACMR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ATOM" target="AEHR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ATOM" target="NVMI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ATOM" target="CAMT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DMRC" target="ACN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DMRC" target="IBM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DMRC" target="TASK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DMRC" target="UIS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ENPH" target="SEDG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ENPH" target="NXT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ENPH" target="RUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ENPH" target="MAXN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="CRWD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="PATH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="BAND">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="MSFT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="S">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="GEN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="ORCL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TWLO" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMI" target="COHR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMI" target="KEYS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMI" target="TDY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMI" target="BKSY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="MSTR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="SOUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="RUM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="ESTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BMBL" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="SOUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="RUM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="ESTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSTR" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OLED" target="MEI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OLED" target="OUST">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OLED" target="KN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OLED" target="APH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OLED" target="NEON">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OLED" target="FLEX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="PATH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="BAND">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="MSFT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="S">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="GEN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="ORCL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CRWD" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="RUM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="ESTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SOUN" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="BAND">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="MSFT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="S">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="GEN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="ORCL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PATH" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="QCOM" target="ALAB">
+  <data key="d8">industry</data>
+</edge>
+<edge source="QCOM" target="AMD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="QCOM" target="WOLF">
+  <data key="d8">industry</data>
+</edge>
+<edge source="QCOM" target="SMTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="QCOM" target="AVGO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="QCOM" target="ON">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8041522448300489</data>
+</edge>
+<edge source="QCOM" target="AIP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="QCOM" target="MRVL">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8225712401677283</data>
+</edge>
+<edge source="BAND" target="MSFT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="S">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="GEN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="ORCL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BAND" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="ESTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUM" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="DOCU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ESTC" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOCU" target="U">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOCU" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOCU" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOCU" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOCU" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOCU" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOCU" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOCU" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOCU" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOCU" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOCU" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOCU" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOCU" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOCU" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOCU" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="U" target="WK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="U" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="U" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="U" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="U" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="U" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="U" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="U" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="U" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="U" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="U" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="U" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="U" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="U" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SEDG" target="NXT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SEDG" target="RUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SEDG" target="MAXN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="S">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="GEN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="ORCL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MSFT" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HPE" target="PI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HPE" target="CSCO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HPE" target="INSG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HPE" target="AAOI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HPE" target="ASTS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HPE" target="VSAT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="COHR" target="KEYS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="COHR" target="TDY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="COHR" target="BKSY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MEI" target="OUST">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MEI" target="KN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MEI" target="APH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MEI" target="NEON">
+  <data key="d8">industry</data>
+</edge>
+<edge source="MEI" target="FLEX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ONTO" target="LRCX">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8659936874576317</data>
+</edge>
+<edge source="ONTO" target="ACMR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ONTO" target="AEHR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ONTO" target="NVMI">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8019120047795467</data>
+</edge>
+<edge source="ONTO" target="ON">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8018460081431544</data>
+</edge>
+<edge source="ONTO" target="CAMT">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8584882400312014</data>
+</edge>
+<edge source="ACN" target="IBM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ACN" target="INTU">
+  <data key="d8">vws_similarity</data>
+  <data key="d9">0.972016423179223</data>
+</edge>
+<edge source="ACN" target="TASK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ACN" target="CSCO">
+  <data key="d8">vws_similarity</data>
+  <data key="d9">0.9365819227552584</data>
+</edge>
+<edge source="ACN" target="UIS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WK" target="ADP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WK" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WK" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WK" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WK" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WK" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WK" target="INTU">
+  <data key="d8">vws_similarity</data>
+  <data key="d9">0.9289750249326811</data>
+</edge>
+<edge source="WK" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WK" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WK" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WK" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WK" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WK" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HPQ" target="DELL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HPQ" target="SMCI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HPQ" target="WDC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HPQ" target="CRSR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HPQ" target="NCNO">
+  <data key="d8">vws_similarity</data>
+  <data key="d9">0.9751843919844242</data>
+</edge>
+<edge source="S" target="GEN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="ORCL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="S" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="ORCL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GEN" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="ODD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ORCL" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OUST" target="KN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OUST" target="APH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OUST" target="NEON">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OUST" target="FLEX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DELL" target="SMCI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DELL" target="WDC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DELL" target="CRSR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ALAB" target="AMD">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ALAB" target="WOLF">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ALAB" target="SMTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ALAB" target="AVGO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ALAB" target="ON">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ALAB" target="AIP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ALAB" target="MRVL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="PAGS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ODD" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="IBM" target="TASK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="IBM" target="UIS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADP" target="WDAY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADP" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADP" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADP" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADP" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADP" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADP" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADP" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADP" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADP" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADP" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADP" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMD" target="WOLF">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMD" target="SMTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMD" target="AVGO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMD" target="ON">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMD" target="AIP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AMD" target="MRVL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WOLF" target="SMTC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WOLF" target="AVGO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WOLF" target="ON">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WOLF" target="AIP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WOLF" target="MRVL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="LRCX" target="ACMR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="LRCX" target="AEHR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="LRCX" target="NVMI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="LRCX" target="ON">
+  <data key="d8">correlation</data>
+  <data key="d9">0.8289202067309291</data>
+</edge>
+<edge source="LRCX" target="CAMT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PI" target="CSCO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PI" target="INSG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PI" target="AAOI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PI" target="ASTS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PI" target="VSAT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SMCI" target="WDC">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SMCI" target="CRSR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAGS" target="STNE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAGS" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAGS" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAGS" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAGS" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAGS" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAGS" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAGS" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAGS" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAGS" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAGS" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAGS" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAGS" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAGS" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAGS" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="STNE" target="ZS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="STNE" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="STNE" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="STNE" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="STNE" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="STNE" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="STNE" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="STNE" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="STNE" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="STNE" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="STNE" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="STNE" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="STNE" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="STNE" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NXT" target="RUN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NXT" target="MAXN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZS" target="AFRM">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZS" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZS" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZS" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZS" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZS" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZS" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZS" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZS" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZS" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZS" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZS" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ZS" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WDAY" target="HUBS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WDAY" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WDAY" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WDAY" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WDAY" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WDAY" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WDAY" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WDAY" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WDAY" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WDAY" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WDAY" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HUBS" target="BTDR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HUBS" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HUBS" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HUBS" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HUBS" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HUBS" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HUBS" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HUBS" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HUBS" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="HUBS" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BTDR" target="NOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BTDR" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BTDR" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BTDR" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BTDR" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BTDR" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BTDR" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BTDR" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BTDR" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NOW" target="AI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NOW" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NOW" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NOW" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NOW" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NOW" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NOW" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NOW" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AI" target="INTU">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AI" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AI" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AI" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AI" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AI" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AI" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AFRM" target="NTNX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AFRM" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AFRM" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AFRM" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AFRM" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AFRM" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AFRM" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AFRM" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AFRM" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AFRM" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AFRM" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AFRM" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NTNX" target="CORZ">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NTNX" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NTNX" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NTNX" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NTNX" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NTNX" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NTNX" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NTNX" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NTNX" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NTNX" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NTNX" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CORZ" target="DOX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CORZ" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CORZ" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CORZ" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CORZ" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CORZ" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CORZ" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CORZ" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CORZ" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CORZ" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KN" target="APH">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KN" target="NEON">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KN" target="FLEX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KN" target="BKSY">
+  <data key="d8">vws_similarity</data>
+  <data key="d9">0.923362949222799</data>
+</edge>
+<edge source="INTU" target="CSCO">
+  <data key="d8">vws_similarity</data>
+  <data key="d9">0.920230796748677</data>
+</edge>
+<edge source="INTU" target="NCNO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INTU" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INTU" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INTU" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INTU" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INTU" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="WDC" target="CRSR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TASK" target="UIS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ACMR" target="AEHR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ACMR" target="NVMI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ACMR" target="CAMT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APH" target="NEON">
+  <data key="d8">industry</data>
+</edge>
+<edge source="APH" target="FLEX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NEON" target="FLEX">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOX" target="OS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOX" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOX" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOX" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOX" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOX" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOX" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOX" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="DOX" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AEHR" target="NVMI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AEHR" target="CAMT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CSCO" target="INSG">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CSCO" target="AAOI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CSCO" target="ASTS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="CSCO" target="VSAT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NVMI" target="CAMT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SMTC" target="AVGO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SMTC" target="ON">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SMTC" target="AIP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SMTC" target="MRVL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KEYS" target="TDY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KEYS" target="BKSY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AVGO" target="ON">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AVGO" target="AIP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AVGO" target="MRVL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OS" target="RAMP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OS" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OS" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OS" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OS" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OS" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OS" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="OS" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RAMP" target="PSFE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RAMP" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RAMP" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RAMP" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RAMP" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RAMP" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RAMP" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NCNO" target="SNOW">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NCNO" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NCNO" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NCNO" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="NCNO" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INSG" target="AAOI">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INSG" target="ASTS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="INSG" target="VSAT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AAOI" target="ASTS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AAOI" target="VSAT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNOW" target="ADSK">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNOW" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNOW" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="SNOW" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADSK" target="QXO">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADSK" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADSK" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PSFE" target="KPLT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PSFE" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PSFE" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PSFE" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PSFE" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PSFE" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="RUN" target="MAXN">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ASTS" target="VSAT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ON" target="AIP">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ON" target="MRVL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KPLT" target="ADBE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KPLT" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KPLT" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KPLT" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="KPLT" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADBE" target="BASE">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADBE" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADBE" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="ADBE" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="QXO" target="PAR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="QXO" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="AIP" target="MRVL">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BASE" target="PGY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BASE" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="BASE" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PGY" target="GCT">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PGY" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+<edge source="TDY" target="BKSY">
+  <data key="d8">industry</data>
+</edge>
+<edge source="PAR" target="PLUS">
+  <data key="d8">industry</data>
+</edge>
+<edge source="GCT" target="FOUR">
+  <data key="d8">industry</data>
+</edge>
+</graph></graphml>

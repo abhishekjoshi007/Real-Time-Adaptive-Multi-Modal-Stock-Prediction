@@ -1,46 +1,91 @@
-import os
-import pandas as pd
+import matplotlib.pyplot as plt
+import networkx as nx
 
-# Define paths for USP 1+2 and USP 3 data folders
-usp1_2_base_path = "/Users/abhishekjoshi/Documents/GitHub/stock_forecasting_CAI/USP 1 Data"  # Replace with your actual data1 folder path
-usp3_base_path = "/Users/abhishekjoshi/Documents/GitHub/stock_forecasting_CAI/USP 3 data"    # Replace with your actual data2 folder path
-output_base_path = "merged_data_usp1_usp3"  # Folder to save merged files (create this directory if it doesn't exist)
+# Create the graph
+G = nx.DiGraph()
 
-# Ensure the output directory exists
-os.makedirs(output_base_path, exist_ok=True)
+# Define nodes for the workflow
+nodes = {
+    "Input Data": "Input Data",
+    "Historical Data": "Historical Data",
+    "Sentiment Data": "Sentiment Data",
+    "Events Data": "Events Data",
+    "Shareholders Data": "Shareholders Data",
+    "Company Description": "Company Description",
+    "Preprocessing & Feature Engineering": "Preprocessing & Feature Engineering",
+    "Feature Extraction": "Feature Extraction",
+    "Stock Relation Graph": "Stock Relation Graph",
+    "GNN Processing": "Graph Neural Network",
+    "Temporal Model": "Temporal Model",
+    "AMSPF 1": "AMSPF 1",
+    "AMSPF 2": "AMSPF 2",
+    "Prediction": "Stock Prediction",
+    "Evaluation": "Evaluation Metrics",
+    "Output": "Final Recommendations",
+}
 
-# Iterate over all ticker folders in data1
-for ticker_folder in os.listdir(usp1_2_base_path):
-    usp1_2_folder_path = os.path.join(usp1_2_base_path, ticker_folder)
-    usp3_folder_path = os.path.join(usp3_base_path, ticker_folder)
-    
-    # Check if both folders exist and contain the respective files
-    usp1_2_file = os.path.join(usp1_2_folder_path, f"{ticker_folder}_merged_with_vix.csv")
-    usp3_file = os.path.join(usp3_folder_path, f"{ticker_folder}_usp3_prepared_data.csv")
-    
-    if os.path.exists(usp1_2_file) and os.path.exists(usp3_file):
-        # Read the CSV files
-        usp1_2_df = pd.read_csv(usp1_2_file)
-        usp3_df = pd.read_csv(usp3_file)
-        
-        # Merge the DataFrames on common keys ('Date' and 'Ticker Name')
-        merged_df = pd.merge(
-            usp1_2_df, usp3_df, on=['Date', 'Ticker Name'], how='outer', suffixes=('_USP1_2', '_USP3')
-        )
-        
-        # Handle duplicate columns (example for overlapping features like 'Close')
-        duplicate_columns = ['Close']  # Add other overlapping column names as needed
-        for col in duplicate_columns:
-            if f'{col}_USP1_2' in merged_df.columns and f'{col}_USP3' in merged_df.columns:
-                merged_df[col] = merged_df[f'{col}_USP3']  # Prioritize USP 3 data
-                merged_df.drop([f'{col}_USP1_2', f'{col}_USP3'], axis=1, inplace=True)
-        
-        # Drop duplicate rows across all columns
-        merged_df.drop_duplicates(inplace=True)
-        
-        # Save the merged DataFrame to the output directory
-        output_file = os.path.join(output_base_path, f"{ticker_folder}.csv")
-        merged_df.to_csv(output_file, index=False)
-        print(f"Successfully merged and saved data for ticker: {ticker_folder}")
-    else:
-        print(f"Missing files for ticker: {ticker_folder}. Skipping.")
+# Add nodes to the graph
+for key, label in nodes.items():
+    G.add_node(key, label=label)
+
+# Add edges to define the workflow
+edges = [
+    ("Input Data", "Historical Data"),
+    ("Input Data", "Sentiment Data"),
+    ("Input Data", "Events Data"),
+    ("Input Data", "Shareholders Data"),
+    ("Input Data", "Company Description"),
+    ("Historical Data", "Preprocessing & Feature Engineering"),
+    ("Sentiment Data", "Preprocessing & Feature Engineering"),
+    ("Events Data", "Preprocessing & Feature Engineering"),
+    ("Shareholders Data", "Preprocessing & Feature Engineering"),
+    ("Company Description", "Preprocessing & Feature Engineering"),
+    ("Preprocessing & Feature Engineering", "Feature Extraction"),
+    ("Feature Extraction", "Stock Relation Graph"),
+    ("Stock Relation Graph", "GNN Processing"),
+    ("GNN Processing", "Temporal Model"),
+    ("Temporal Model", "AMSPF 1"),
+    ("Temporal Model", "AMSPF 2"),
+    ("AMSPF 1", "Prediction"),
+    ("AMSPF 2", "Prediction"),
+    ("Prediction", "Evaluation"),
+    ("Evaluation", "Output"),
+]
+G.add_edges_from(edges)
+
+# Define node positions for a better layout
+pos = {
+    "Input Data": (0, 5),
+    "Historical Data": (2, 6),
+    "Sentiment Data": (2, 5.5),
+    "Events Data": (2, 5),
+    "Shareholders Data": (2, 4.5),
+    "Company Description": (2, 4),
+    "Preprocessing & Feature Engineering": (4, 5),
+    "Feature Extraction": (6, 5),
+    "Stock Relation Graph": (8, 5),
+    "GNN Processing": (10, 5),
+    "Temporal Model": (12, 5),
+    "AMSPF 1": (14, 6),
+    "AMSPF 2": (14, 4),
+    "Prediction": (16, 5),
+    "Evaluation": (18, 5),
+    "Output": (20, 5),
+}
+
+# Draw the graph
+plt.figure(figsize=(16, 8))
+nx.draw(
+    G,
+    pos,
+    with_labels=True,
+    labels=nx.get_node_attributes(G, 'label'),
+    node_size=3000,
+    node_color="lightblue",
+    font_size=10,
+    font_weight="bold",
+    arrowsize=15,
+    edge_color="gray",
+)
+plt.title("Workflow of AMSPF 1 and AMSPF 2", fontsize=14)
+plt.show()

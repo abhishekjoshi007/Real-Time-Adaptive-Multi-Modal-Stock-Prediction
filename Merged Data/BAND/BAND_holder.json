@@ -1,0 +1,72 @@
+[
+    {
+        "Holder": "Blackrock Inc.",
+        "Shares": "2.98M",
+        "Date Reported": "Sep 30, 2024",
+        "% Out": "11.67%",
+        "Value": "51,646,888"
+    },
+    {
+        "Holder": "Vanguard Group Inc",
+        "Shares": "1.7M",
+        "Date Reported": "Sep 30, 2024",
+        "% Out": "6.64%",
+        "Value": "29,364,396"
+    },
+    {
+        "Holder": "Dimensional Fund Advisors LP",
+        "Shares": "1.14M",
+        "Date Reported": "Sep 30, 2024",
+        "% Out": "4.45%",
+        "Value": "19,690,258"
+    },
+    {
+        "Holder": "Acadian Asset Management. LLC",
+        "Shares": "887.11k",
+        "Date Reported": "Sep 30, 2024",
+        "% Out": "3.47%",
+        "Value": "15,364,658"
+    },
+    {
+        "Holder": "State Street Corporation",
+        "Shares": "655.77k",
+        "Date Reported": "Sep 30, 2024",
+        "% Out": "2.57%",
+        "Value": "11,357,901"
+    },
+    {
+        "Holder": "Nuveen Asset Management, LLC",
+        "Shares": "612.58k",
+        "Date Reported": "Sep 30, 2024",
+        "% Out": "2.40%",
+        "Value": "10,609,798"
+    },
+    {
+        "Holder": "Jacobs Levy Equity Management, Inc.",
+        "Shares": "579.8k",
+        "Date Reported": "Sep 30, 2024",
+        "% Out": "2.27%",
+        "Value": "10,042,222"
+    },
+    {
+        "Holder": "Geode Capital Management, LLC",
+        "Shares": "568.67k",
+        "Date Reported": "Sep 30, 2024",
+        "% Out": "2.23%",
+        "Value": "9,849,312"
+    },
+    {
+        "Holder": "Renaissance Technologies, LLC",
+        "Shares": "565.1k",
+        "Date Reported": "Sep 30, 2024",
+        "% Out": "2.21%",
+        "Value": "9,787,531"
+    },
+    {
+        "Holder": "Ameriprise Financial, Inc.",
+        "Shares": "504.65k",
+        "Date Reported": "Sep 30, 2024",
+        "% Out": "1.97%",
+        "Value": "8,740,572"
+    }
+]
