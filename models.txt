@@ -1,0 +1,86 @@
+Here’s an updated list where **Linear Regression** and **Simple Transformer** are replaced with stronger and more competitive alternatives for a robust comparison framework:
+
+---
+
+### **Updated Comparison List**
+
+#### **Baseline Models**
+- **Random Walk**: Assumes no structure in price movements; a standard baseline in finance.
+- **ARIMA (AutoRegressive Integrated Moving Average)**:
+  - A widely used statistical model for time-series forecasting.
+  - Provides a meaningful comparison for stock price prediction.
+
+---
+
+#### **Advanced Traditional Models**
+- **Gradient Boosting (XGBoost)**:
+  - Strong baseline for tabular data and feature-based prediction tasks.
+
+---
+
+#### **Deep Learning Models**
+| **Model**                 | **Why Include It?**                                                  |
+|---------------------------|----------------------------------------------------------------------|
+| **LSTM (Long Short-Term Memory)** | Captures temporal dependencies, ideal for sequential data.          |
+| **GRU (Gated Recurrent Unit)** | Lightweight and computationally efficient alternative to LSTM.     |
+
+---
+
+#### **Transformer Models**
+| **Model**                          | **Why Include It?**                                               |
+|------------------------------------|-------------------------------------------------------------------|
+| **Temporal Fusion Transformer (TFT)** | State-of-the-art for multi-horizon time-series forecasting.         |
+| **Informer**                       | Designed for long-sequence time-series forecasting with efficiency.|
+
+---
+
+#### **Graph-Based Models**
+| **Model**                          | **Why Include It?**                                               |
+|------------------------------------|-------------------------------------------------------------------|
+| **Graph Convolutional Network (GCN)** | Benchmark graph model; compares with GAT.                         |
+| **GraphSAGE**                      | Tests AMSPF’s improvements over dynamic neighbor-sampling methods.|
+
+---
+
+#### **Ablation Study**
+- **Without USP 1 (Volatility Sensitivity)**:
+  - Tests the importance of adaptive weighting during volatile periods.
+- **Without USP 2 (Volume-Weighted Sentiment)**:
+  - Highlights the impact of volume-weighted sentiment integration.
+- **Without USP 3 (Event-Triggered Attention)**:
+  - Demonstrates the value of event-sensitive adjustments.
+- **Without USP 4 (High-Return Recommendations)**:
+  - Evaluates the role of stock selection metrics like Sharpe Ratio.
+
+---
+
+#### **Ensemble and Hybrid Models**
+| **Model**                       | **Why Include It?**                                                |
+|---------------------------------|--------------------------------------------------------------------|
+| **Voting Ensemble**             | Combines predictions from GAT, transformers, and Random Forest.   |
+| **Hybrid Attention-LSTM**       | Integrates sequential learning with attention mechanisms.          |
+
+---
+
+### **Updated Metrics Table**
+| **Category**        | **Models for Comparison**                                |
+|---------------------|---------------------------------------------------------|
+| **Baseline**        | Random Walk, ARIMA                                      |
+| **Advanced**        | XGBoost                                                 |
+| **Deep Learning**   | LSTM, GRU                                               |
+| **Transformer**     | Temporal Fusion Transformer (TFT), Informer             |
+| **Graph-Based**     | GCN, GraphSAGE                                          |
+| **Ablation Study**  | Without USP 1, 2, 3, or 4                               |
+| **Hybrid**          | Voting Ensemble, Hybrid Attention-LSTM                  |
+
+---
+
+### **Why This List Is Strong**
+1. **Better Baselines**:
+   - **ARIMA** adds statistical rigor and is a well-recognized time-series benchmark.
+2. **Advanced Transformers**:
+   - Models like **TFT** and **Informer** ensure AMSPF competes with top-tier time-series architectures.
+3. **Challenging Graph Comparisons**:
+   - Comparing with **GCN** and **GraphSAGE** highlights the value of AMSPF's graph-specific innovations.
+
+Let me know if you’d like further adjustments or implementation details!
