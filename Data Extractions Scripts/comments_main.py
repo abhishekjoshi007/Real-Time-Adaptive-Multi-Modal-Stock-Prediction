@@ -4,8 +4,10 @@ import json
 import time
 from datetime import datetime
 import pandas as pd
-from tqdm import tqdm
-import re  # For cleaning HTML tags
+#For Progress bar
+from tqdm import tqdm 
+# For cleaning HTML tags
+import re  
 
 api_url = "https://api-2-0.spot.im/v1.0.0/conversation/read"
 csv_path = '/Users/abhishekjoshi/Documents/GitHub/stock_forecasting_CAI/CSV/final_output_with_conversation_id_1.csv'
