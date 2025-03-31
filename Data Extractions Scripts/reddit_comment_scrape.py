@@ -1,5 +1,5 @@
 #!pip install praw pandas datetime
-#using colab enterprise
+#PRAW = Python Reddit API Wrapper
 import praw
 
 
