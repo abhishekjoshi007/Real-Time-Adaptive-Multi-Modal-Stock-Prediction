@@ -34,7 +34,7 @@ class VolatilityDataset(Dataset):
         y = torch.tensor(self.labels[idx], dtype=torch.float32)
         return x, y
 
-# Improved Transformer model
+# VATransformer model
 class VolatilityAwareTransformer(nn.Module):
     def __init__(self, input_dim, num_heads=4, num_layers=3, hidden_dim=128, dropout=0.3):
         super(VolatilityAwareTransformer, self).__init__()
@@ -58,7 +58,7 @@ class VolatilityAwareTransformer(nn.Module):
         x = x + volatility_embedding.unsqueeze(-1)  # Add volatility embedding
         x = x.unsqueeze(1)  # Add sequence dimension for Transformer
         x = self.transformer(x, x)
-        x = x.mean(dim=1)  # Average over sequence length
+        x = x.mean(dim=3)  # Average over sequence length
         return self.fc(x)
 
 # Load and preprocess your dataset

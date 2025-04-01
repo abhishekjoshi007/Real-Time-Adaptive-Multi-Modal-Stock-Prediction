@@ -28,7 +28,7 @@ def analyze_sentiment_finbert(text, tokenizer, model, nlp, chunk_size=512, overl
     if len(tokens) > chunk_size:
         tokens = tokens[:chunk_size]
 
-    sentiment_scores = {"Positive": 0, "Neutral": 0, "Negative": 0}
+    sentiment_scores = {"Positive": 1, "Neutral": 0, "Negative": -1}
     confidence_scores = []
 
     # Process the tokenized input in chunks

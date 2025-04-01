@@ -1,7 +1,7 @@
 #Adding volume weigthed Sentiments
 import pandas as pd
 import os
-import networkx as nx
+
 
 # Define tickers and data directory
 tickers = [

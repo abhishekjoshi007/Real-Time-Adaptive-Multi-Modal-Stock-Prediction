@@ -1,6 +1,8 @@
 import torch
+#F provides common loss functions like mse_loss and activation functions like elu.
 import torch.nn.functional as F
 from torch_geometric.data import Data
+#Graph Attention Convolution layer used in GAT
 from torch_geometric.nn import GATConv
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MinMaxScaler

@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+#for graph based modeling
 import networkx as nx
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
@@ -25,7 +26,7 @@ base_path = '/Users/abhishekjoshi/Documents/GitHub/stock_forecasting_CAI/data'
 # Thresholds
 correlation_threshold = 0.8
 similarity_threshold = 0.9
-mutual_shareholder_threshold = 5
+mutual_shareholder_threshold = 6
 
 # Load shareholder data
 def load_shareholder_data(ticker):
