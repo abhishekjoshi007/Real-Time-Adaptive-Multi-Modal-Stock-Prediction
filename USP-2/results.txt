@@ -1,8 +1,0 @@
-Model Evaluation Results
--------------------------
-Mean Absolute Error (MAE): 0.007733
-Root Mean Squared Error (RMSE): 0.011148
-Information Coefficient (IC): 0.120000
-Directional Accuracy: 0.910000
-
-

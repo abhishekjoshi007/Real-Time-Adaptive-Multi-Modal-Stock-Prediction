@@ -6,7 +6,7 @@ data = pd.read_csv("/Users/abhishekjoshi/Documents/GitHub/stock_forecasting_CAI/
 # Compute thresholds
 mean_volatility = data['EWMA Volatility'].mean()
 std_volatility = data['EWMA Volatility'].std()
-k = 1  # Adjust sensitivity if required
+k = 1  # Adjust sensitivity 
 
 high_threshold = mean_volatility + k * std_volatility
 low_threshold = mean_volatility - k * std_volatility

@@ -1,5 +1,0 @@
-Linear Regression Model - Evaluation Metrics:
- Train MAE: 0.001041
- Train RMSE: 0.001501
-Information Coefficient (IC): 0.992496
-Directional Accuracy: 0.928571
