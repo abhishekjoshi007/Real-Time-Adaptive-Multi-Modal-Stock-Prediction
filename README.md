@@ -39,8 +39,6 @@ This project focuses on boosting predictive accuracy and supporting effective tr
 * 🌐 **Graph-Based Analysis** – visualizes inter-stock relationships for enhanced market understanding.
 * 🧠 **Advanced Machine-Learning Models** – leverages GCN and LSTM architectures for precise predictions.
 
----
-
 ## Getting Started
 
 ### Prerequisites
@@ -79,6 +77,4 @@ conda activate <venv>
 pytest
 ```
 
----
 
-[⬆ Return to top](#top)
