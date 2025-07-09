@@ -42,7 +42,7 @@
 
 ## Architecture Overview
 
-![AMSPF Pipeline](./utils/AMSPF_architecture.png)
+![AMSPF Pipeline](./utils/Model_architecture.png)
 
 ### Modules
 
@@ -118,15 +118,8 @@ Real-Time-Adaptive-Multi-Modal-Stock-Prediction/
 
 ## Results Snapshot
 
-| Model                   | Dir. Acc. | Sharpe   | IC       | MAE  |
-| ----------------------- | --------- | -------- | -------- | ---- |
-| **AMSPF‑1 (VAT + GAT)** | **95 %**  | **2.90** | **0.61** | 1.45 |
-| AMSPF‑2 (DIN + GAT)     | 92 %      | 0.35     | 0.50     | 1.55 |
-| XGBoost                 | 69 %      | —        | 0.53     | 5.77 |
-| ARIMA                   | 47 %      | 0.08     | 0.88     | 1.93 |
-| Random Walk             | 45 %      | 0.06     | –0.27    | 2.13 |
-
-Full tables are in `utils/metrics_tables.xlsx`.
+![Evaluation 1](./utils/Evaluation_metrices_1.png)
+![Evaluation 2](./utils/Evaluation_metrices_2.png)
 
 ---
 
@@ -209,8 +202,10 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 
 ## Contact
 
-* **Abhishek Joshi** — [LinkedIn](https://www.linkedin.com/in/abhishek-joshi-510b68151/) • [abhishek.07joshi@gmail.com](mailto:abhishek.07joshi@gmail.com)
-* Open to questions, collaborations, and pull requests!
+Foor questions, collaborations, or feedback:
+
+* 💼 [LinkedIn – Abhishek Joshi](https://www.linkedin.com/in/abhishek-joshi-510b68151/)
+* 📧 Email: [abhishek.07joshi@gmail.com](mailto:abhishek.07joshi@gmail.com)
 
 ---
 
