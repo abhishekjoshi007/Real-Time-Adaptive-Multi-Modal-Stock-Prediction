@@ -4,9 +4,9 @@ import praw
 
 
 reddit = praw.Reddit(
-    client_id="qMC5FCxaIkKR1of9AzkYgg",
-    client_secret="2gVN2nq-gibv8cHAQghN1UXV4nbYGQ",
-    user_agent="stockpred-v1"
+    client_id="{Your_ID}",
+    client_secret="Your_IDQ",
+    user_agent="Your_ID"
 )
 import pandas as pd
 from datetime import datetime
