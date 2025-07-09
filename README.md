@@ -7,6 +7,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
+## Link - https://ieeexplore.ieee.org/document/11050541
 
 ## Table of Contents
 
@@ -185,13 +186,17 @@ python evaluate.py --ckpt runs/vat_best.pt --test_csv Merged\ Data/test.csv
 ## Citation
 
 ```
-@inproceedings{Joshi2025,
-  title     = {Real-Time Adaptive Multi-Modal Stock Prediction with Temporal Graph Attention and Dynamic Interaction Networks},
-  author    = {Abhishek Joshi and Jahnavi Krishna Koda and Alihan Hadimlioglu and Gurojaspreet Kaur},
-  booktitle = {Proceedings of the IEEE Conference on Artificial Intelligence (CAI)},
-  year      = {2025},
-  doi       = {10.1109/CAI64502.2025.00020}
-}
+@INPROCEEDINGS{11050541,
+  author={Joshi, Abhishek and Koda, Jahnavi Krishna and Hadimlioglu, Alihan and Kaur, Gurojaspreet},
+  booktitle={2025 IEEE Conference on Artificial Intelligence (CAI)}, 
+  title={Real-Time Adaptive Multi-Modal Stock Prediction with Temporal Graph Attention and Dynamic Interaction Networks}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={83-88},
+  keywords={Accuracy;Sensitivity;Linearity;Feature extraction;Transformers;Market research;Real-time systems;Macroeconomics;Long short term memory;Investment;Stock Price Prediction;Stock Return Prediction;Graph Attention Networks (GAT);Volatility Aware Transformer(VAT);Long Short Term Memory (LSTM)},
+  doi={10.1109/CAI64502.2025.00020}}
+``
 ```
 
 ---
